@@ -1,0 +1,1497 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "psro_265_2025-05-01-14-35_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0010889353654615,
+          "PPL_init_response2": 1.0021449990205678,
+          "PPL_init_distance": 0.001056063655106243
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000749955186,
+          "PPL_final_response2": 1.0000285465932917,
+          "PPL_final_distance": 4.6448925308251177e-05
+        },
+        "PPL_distance_difference": 0.04398307344795261
+      }
+    }
+  },
+  {
+    "source_file": "psro_154_2025-05-01-14-36_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000547375418714,
+          "PPL_init_response2": 1.0000030824603832,
+          "PPL_init_distance": 5.165508148818887e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000010660804854,
+          "PPL_final_response2": 1.0000060395028108,
+          "PPL_final_distance": 4.973422325305066e-06
+        },
+        "PPL_distance_difference": 0.09628137604317318
+      }
+    }
+  },
+  {
+    "source_file": "psro_224_2025-05-01-15-58_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000009071299674,
+          "PPL_init_response2": 1.0001320091506183,
+          "PPL_init_distance": 0.00013110202065091947
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000013502506753,
+          "PPL_final_response2": 1.0000131005244548,
+          "PPL_final_distance": 1.175027377953164e-05
+        },
+        "PPL_distance_difference": 0.08962694641311945
+      }
+    }
+  },
+  {
+    "source_file": "psro_205_2025-05-01-14-35_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0002481369226481,
+          "PPL_init_response2": 1.00000286890336,
+          "PPL_init_distance": 0.00024526801928814734
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000016559212708,
+          "PPL_final_response2": 1.0000051192904187,
+          "PPL_final_distance": 3.4633691479157847e-06
+        },
+        "PPL_distance_difference": 0.014120753117213081
+      }
+    }
+  },
+  {
+    "source_file": "psro_212_2025-05-01-15-05_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000000750397956,
+          "PPL_init_response2": 1.00079095129349,
+          "PPL_init_distance": 0.0007902008955340545
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000011814250576,
+          "PPL_final_response2": 1.0000253288206036,
+          "PPL_final_distance": 2.414739554601475e-05
+        },
+        "PPL_distance_difference": 0.030558552492774407
+      }
+    }
+  },
+  {
+    "source_file": "psro_9_2025-05-01-12-33_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0007042933890302,
+          "PPL_init_response2": 1.002394950696187,
+          "PPL_init_distance": 0.0016906573071566733
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000025833151123,
+          "PPL_final_response2": 1.0000082475502168,
+          "PPL_final_distance": 5.664235104507753e-06
+        },
+        "PPL_distance_difference": 0.0033503153362485945
+      }
+    }
+  },
+  {
+    "source_file": "psro_31_2025-05-01-14-10_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000013071444027,
+          "PPL_init_response2": 1.000530511610887,
+          "PPL_init_distance": 0.00052920446648419
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000001149380508,
+          "PPL_final_response2": 1.000084945276501,
+          "PPL_final_distance": 8.379589599294412e-05
+        },
+        "PPL_distance_difference": 0.1583431382385121
+      }
+    }
+  },
+  {
+    "source_file": "psro_145_2025-05-01-13-59_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000702065787244,
+          "PPL_init_response2": 1.0000046846073865,
+          "PPL_init_distance": 6.552197133791182e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000079746946686,
+          "PPL_final_response2": 1.0000080822976598,
+          "PPL_final_distance": 1.0760299118395267e-07
+        },
+        "PPL_distance_difference": 0.001642242884131483
+      }
+    }
+  },
+  {
+    "source_file": "psro_313_2025-05-01-14-04_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000015631325814,
+          "PPL_init_response2": 1.0000037480166595,
+          "PPL_init_distance": 2.1848840781046874e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000012707839496,
+          "PPL_final_response2": 1.0000010946522566,
+          "PPL_final_distance": 1.7613169300823017e-07
+        },
+        "PPL_distance_difference": 0.08061374732567891
+      }
+    }
+  },
+  {
+    "source_file": "psro_395_2025-05-01-15-50_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0015906258026965,
+          "PPL_init_response2": 1.0005541422752877,
+          "PPL_init_distance": 0.0010364835274088158
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000013502841179,
+          "PPL_final_response2": 1.0000046102004398,
+          "PPL_final_distance": 3.2599163219959593e-06
+        },
+        "PPL_distance_difference": 0.0031451694462966266
+      }
+    }
+  },
+  {
+    "source_file": "psro_63_2025-05-01-12-21_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000014333504996,
+          "PPL_init_response2": 1.0001636500745288,
+          "PPL_init_distance": 0.00016221672402916276
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000025593617883,
+          "PPL_final_response2": 1.0000058445254985,
+          "PPL_final_distance": 3.2851637101760645e-06
+        },
+        "PPL_distance_difference": 0.020251695562446874
+      }
+    }
+  },
+  {
+    "source_file": "psro_371_2025-05-01-14-14_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000021971047388,
+          "PPL_init_response2": 1.0000034628058017,
+          "PPL_init_distance": 1.2657010628469578e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000003430048746,
+          "PPL_final_response2": 1.0000042069530912,
+          "PPL_final_distance": 7.769043453009772e-07
+        },
+        "PPL_distance_difference": 0.6138134573052156
+      }
+    }
+  },
+  {
+    "source_file": "psro_181_2025-05-01-12-34_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000027878321853,
+          "PPL_init_response2": 1.0000057651072216,
+          "PPL_init_distance": 2.977275036286642e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000014787403992,
+          "PPL_final_response2": 1.0000058875519833,
+          "PPL_final_distance": 4.408811584033501e-06
+        },
+        "PPL_distance_difference": 1.4808210629852725
+      }
+    }
+  },
+  {
+    "source_file": "psro_131_2025-05-01-12-58_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000013632338256,
+          "PPL_init_response2": 1.0001913595406637,
+          "PPL_init_distance": 0.00018999630683813606
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000066445223792,
+          "PPL_final_response2": 1.000005550318503,
+          "PPL_final_distance": 1.0942038761729833e-06
+        },
+        "PPL_distance_difference": 0.005759079712560785
+      }
+    }
+  },
+  {
+    "source_file": "psro_273_2025-05-01-15-07_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0012290356185138,
+          "PPL_init_response2": 1.0001426941966078,
+          "PPL_init_distance": 0.0010863414219060008
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000013887307437,
+          "PPL_final_response2": 1.0000036536555863,
+          "PPL_final_distance": 2.2649248425654633e-06
+        },
+        "PPL_distance_difference": 0.0020849106891198364
+      }
+    }
+  },
+  {
+    "source_file": "psro_7_2025-05-01-12-22_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001808918047788,
+          "PPL_init_response2": 1.000005838232965,
+          "PPL_init_distance": 0.00017505357181368808
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000027527102886,
+          "PPL_final_response2": 1.0000062143733865,
+          "PPL_final_distance": 3.4616630979478202e-06
+        },
+        "PPL_distance_difference": 0.019774878410548032
+      }
+    }
+  },
+  {
+    "source_file": "psro_183_2025-05-01-12-50_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001220332822738,
+          "PPL_init_response2": 1.0000555468229726,
+          "PPL_init_distance": 6.648645930118491e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000000751323512,
+          "PPL_final_response2": 1.0000055653174016,
+          "PPL_final_distance": 4.813993889518642e-06
+        },
+        "PPL_distance_difference": 0.07240562875684445
+      }
+    }
+  },
+  {
+    "source_file": "psro_23_2025-05-01-13-28_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000012018580329,
+          "PPL_init_response2": 1.0000031102584364,
+          "PPL_init_distance": 1.908400403483057e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000009406860837,
+          "PPL_final_response2": 1.0000044521841458,
+          "PPL_final_distance": 3.5114980621031577e-06
+        },
+        "PPL_distance_difference": 1.8400216514806103
+      }
+    }
+  },
+  {
+    "source_file": "psro_176_2025-05-01-12-13_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0002460301760707,
+          "PPL_init_response2": 1.0000055836827306,
+          "PPL_init_distance": 0.00024044649334009627
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000018956612689,
+          "PPL_final_response2": 1.0000244106552152,
+          "PPL_final_distance": 5.454042526276126e-06
+        },
+        "PPL_distance_difference": 0.022682978031880588
+      }
+    }
+  },
+  {
+    "source_file": "psro_277_2025-05-01-15-34_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000288859881021,
+          "PPL_init_response2": 1.0009459286370022,
+          "PPL_init_distance": 0.0009170426489000238
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000007806135311,
+          "PPL_final_response2": 1.0000071624298048,
+          "PPL_final_distance": 6.381816273659524e-06
+        },
+        "PPL_distance_difference": 0.0069591270169543345
+      }
+    }
+  },
+  {
+    "source_file": "psro_343_2025-05-01-12-00_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000051975344802,
+          "PPL_init_response2": 1.0000100588386915,
+          "PPL_init_distance": 4.191650611051756e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.00001294009357,
+          "PPL_final_response2": 1.0000073470775661,
+          "PPL_final_distance": 5.593016003890838e-06
+        },
+        "PPL_distance_difference": 0.13343230442786014
+      }
+    }
+  },
+  {
+    "source_file": "psro_455_2025-05-01-15-53_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0002538115858475,
+          "PPL_init_response2": 1.003076544211273,
+          "PPL_init_distance": 0.002822732625425539
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000015403657507,
+          "PPL_final_response2": 1.0000068897221916,
+          "PPL_final_distance": 5.349356440920161e-06
+        },
+        "PPL_distance_difference": 0.0018950985271280246
+      }
+    }
+  },
+  {
+    "source_file": "psro_65_2025-05-01-12-29_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.00144301962915,
+          "PPL_init_response2": 1.000013023002762,
+          "PPL_init_distance": 0.001429996626387986
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000013721135237,
+          "PPL_final_response2": 1.0000021071746332,
+          "PPL_final_distance": 7.350611095358062e-07
+        },
+        "PPL_distance_difference": 0.0005140299606108089
+      }
+    }
+  },
+  {
+    "source_file": "psro_356_2025-05-01-13-10_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000027643581568,
+          "PPL_init_response2": 1.000002509433353,
+          "PPL_init_distance": 2.5492480393296546e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000009951107725,
+          "PPL_final_response2": 1.0000090270002575,
+          "PPL_final_distance": 8.031889485060617e-06
+        },
+        "PPL_distance_difference": 31.506896783463517
+      }
+    }
+  },
+  {
+    "source_file": "psro_422_2025-05-01-13-38_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000034497209331,
+          "PPL_init_response2": 1.0000033297114468,
+          "PPL_init_distance": 1.200094863484935e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000018454223456,
+          "PPL_final_response2": 1.0000055909317263,
+          "PPL_final_distance": 3.7455093806482154e-06
+        },
+        "PPL_distance_difference": 31.21011092216239
+      }
+    }
+  },
+  {
+    "source_file": "psro_166_2025-05-01-15-26_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0004530560336775,
+          "PPL_init_response2": 1.0033115064740918,
+          "PPL_init_distance": 0.0028584504404143285
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000055904571792,
+          "PPL_final_response2": 1.000007581097101,
+          "PPL_final_distance": 1.9906399217894943e-06
+        },
+        "PPL_distance_difference": 0.0006964052598725321
+      }
+    }
+  },
+  {
+    "source_file": "psro_194_2025-05-01-13-41_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000036605180904,
+          "PPL_init_response2": 1.0000038306585752,
+          "PPL_init_distance": 1.7014048481200916e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000000934583542,
+          "PPL_final_response2": 1.0000061665959192,
+          "PPL_final_distance": 5.232012377343054e-06
+        },
+        "PPL_distance_difference": 30.751131237953064
+      }
+    }
+  },
+  {
+    "source_file": "psro_199_2025-05-01-14-07_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000014221830145,
+          "PPL_init_response2": 1.0000026115880243,
+          "PPL_init_distance": 1.1610242120818626e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000077858406102,
+          "PPL_final_response2": 1.0000157125746552,
+          "PPL_final_distance": 7.926734044927386e-06
+        },
+        "PPL_distance_difference": 0.6827363256028705
+      }
+    }
+  },
+  {
+    "source_file": "psro_226_2025-05-01-16-04_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0001241842558761,
+          "PPL_init_response2": 1.0001788527946223,
+          "PPL_init_distance": 5.466853874613875e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000008009237855,
+          "PPL_final_response2": 1.000004431655952,
+          "PPL_final_distance": 3.630732166470807e-06
+        },
+        "PPL_distance_difference": 0.06641355795754182
+      }
+    }
+  },
+  {
+    "source_file": "psro_142_2025-05-01-13-46_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000870045656813,
+          "PPL_init_response2": 1.0000036548387692,
+          "PPL_init_distance": 8.334972691215192e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000040410261557,
+          "PPL_final_response2": 1.0000119005136285,
+          "PPL_final_distance": 7.859487472838822e-06
+        },
+        "PPL_distance_difference": 0.09429529962494637
+      }
+    }
+  },
+  {
+    "source_file": "psro_30_2025-05-01-14-07_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000489106184029,
+          "PPL_init_response2": 1.0044227989369494,
+          "PPL_init_distance": 0.003933692752920326
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000013303387003,
+          "PPL_final_response2": 1.0000112446040461,
+          "PPL_final_distance": 9.914265345800644e-06
+        },
+        "PPL_distance_difference": 0.002520345631579999
+      }
+    }
+  },
+  {
+    "source_file": "psro_225_2025-05-01-16-01_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000368443646602,
+          "PPL_init_response2": 1.0001083426380055,
+          "PPL_init_distance": 0.00026010100859652496
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000048000320134,
+          "PPL_final_response2": 1.0000101282065714,
+          "PPL_final_distance": 5.328174558005827e-06
+        },
+        "PPL_distance_difference": 0.02048502074926984
+      }
+    }
+  },
+  {
+    "source_file": "psro_374_2025-05-01-14-29_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000001285624477,
+          "PPL_init_response2": 1.000046580278714,
+          "PPL_init_distance": 4.529465423686041e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000185588134725,
+          "PPL_final_response2": 1.0000081109996888,
+          "PPL_final_distance": 1.0447813783676096e-05
+        },
+        "PPL_distance_difference": 0.23066328598163252
+      }
+    }
+  },
+  {
+    "source_file": "psro_149_2025-05-01-14-17_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000026892676015,
+          "PPL_init_response2": 1.0000814572894814,
+          "PPL_init_distance": 7.876802187989362e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000205046509427,
+          "PPL_final_response2": 1.0000059333142426,
+          "PPL_final_distance": 1.4571336700130999e-05
+        },
+        "PPL_distance_difference": 0.1849905120424319
+      }
+    }
+  },
+  {
+    "source_file": "psro_177_2025-05-01-12-16_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0012370611103014,
+          "PPL_init_response2": 1.0000046397948477,
+          "PPL_init_distance": 0.0012324213154537578
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000000933219199,
+          "PPL_final_response2": 1.000032770789809,
+          "PPL_final_distance": 3.183757060987169e-05
+        },
+        "PPL_distance_difference": 0.025833349529620565
+      }
+    }
+  },
+  {
+    "source_file": "psro_281_2025-05-01-15-47_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000147210201145,
+          "PPL_init_response2": 1.0000040190654909,
+          "PPL_init_distance": 1.0701954623604237e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000016544919557,
+          "PPL_final_response2": 1.0000059938148107,
+          "PPL_final_distance": 4.339322855040351e-06
+        },
+        "PPL_distance_difference": 0.40547012276332567
+      }
+    }
+  },
+  {
+    "source_file": "psro_129_2025-05-01-12-52_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000281407256544,
+          "PPL_init_response2": 1.0000366012791488,
+          "PPL_init_distance": 8.460553494460399e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000018869907685,
+          "PPL_final_response2": 1.0000044384495987,
+          "PPL_final_distance": 2.551458830213349e-06
+        },
+        "PPL_distance_difference": 0.30157114802050866
+      }
+    }
+  },
+  {
+    "source_file": "psro_272_2025-05-01-15-04_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000288060410758,
+          "PPL_init_response2": 1.0034317692335413,
+          "PPL_init_distance": 0.003402963192465469
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000031629573936,
+          "PPL_final_response2": 1.0000043301817507,
+          "PPL_final_distance": 1.1672243571680951e-06
+        },
+        "PPL_distance_difference": 0.00034300234564759824
+      }
+    }
+  },
+  {
+    "source_file": "psro_12_2025-05-01-12-44_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000087470781789,
+          "PPL_init_response2": 1.0001830266555365,
+          "PPL_init_distance": 0.00017427957735760558
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000026679118876,
+          "PPL_final_response2": 1.000503443861158,
+          "PPL_final_distance": 0.0005007759492703379
+        },
+        "PPL_distance_difference": 2.8734058049887965
+      }
+    }
+  },
+  {
+    "source_file": "psro_388_2025-05-01-15-23_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000011440464165,
+          "PPL_init_response2": 1.0026541162939528,
+          "PPL_init_distance": 0.002652972247536356
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000125490500686,
+          "PPL_final_response2": 1.0000190813683285,
+          "PPL_final_distance": 6.532318259866443e-06
+        },
+        "PPL_distance_difference": 0.002462264076050017
+      }
+    }
+  },
+  {
+    "source_file": "psro_452_2025-05-01-15-42_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000013160924737,
+          "PPL_init_response2": 1.000010843786639,
+          "PPL_init_distance": 9.527694165401002e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000021713948428,
+          "PPL_final_response2": 1.0000037891847346,
+          "PPL_final_distance": 1.6177898918279254e-06
+        },
+        "PPL_distance_difference": 0.1697986799054476
+      }
+    }
+  },
+  {
+    "source_file": "psro_287_2025-05-01-12-03_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000364273182629,
+          "PPL_init_response2": 1.000134093485488,
+          "PPL_init_distance": 0.0002301796971408976
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000002889329621,
+          "PPL_final_response2": 1.0000051725165537,
+          "PPL_final_distance": 2.283186932849901e-06
+        },
+        "PPL_distance_difference": 0.00991914995635917
+      }
+    }
+  },
+  {
+    "source_file": "psro_69_2025-05-01-12-43_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000009242012575,
+          "PPL_init_response2": 1.0001586253034618,
+          "PPL_init_distance": 0.00015770110220425515
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000013708547186,
+          "PPL_final_response2": 1.0000064738522085,
+          "PPL_final_distance": 5.1029974899030606e-06
+        },
+        "PPL_distance_difference": 0.03235866724186643
+      }
+    }
+  },
+  {
+    "source_file": "psro_308_2025-05-01-13-41_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000019952208132,
+          "PPL_init_response2": 1.0001299991099917,
+          "PPL_init_distance": 0.00012800388917844074
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000023667638616,
+          "PPL_final_response2": 1.0000097170563966,
+          "PPL_final_distance": 7.350292535068803e-06
+        },
+        "PPL_distance_difference": 0.057422415695684875
+      }
+    }
+  },
+  {
+    "source_file": "psro_103_2025-05-01-15-04_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0003345716514453,
+          "PPL_init_response2": 1.0001329631666598,
+          "PPL_init_distance": 0.0002016084847855648
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000013323040753,
+          "PPL_final_response2": 1.0000074298516877,
+          "PPL_final_distance": 6.09754761238257e-06
+        },
+        "PPL_distance_difference": 0.03024449897963399
+      }
+    }
+  },
+  {
+    "source_file": "psro_132_2025-05-01-13-01_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000010894466207,
+          "PPL_init_response2": 1.0000052089589355,
+          "PPL_init_distance": 4.1195123148263235e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000005105717011,
+          "PPL_final_response2": 1.0000030919831742,
+          "PPL_final_distance": 2.5814114730238202e-06
+        },
+        "PPL_distance_difference": 0.626630357125817
+      }
+    }
+  },
+  {
+    "source_file": "psro_256_2025-05-01-14-00_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0003145022995337,
+          "PPL_init_response2": 1.002235093985109,
+          "PPL_init_distance": 0.0019205916855753458
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000020033323718,
+          "PPL_final_response2": 1.0000026131762958,
+          "PPL_final_distance": 6.098439240265208e-07
+        },
+        "PPL_distance_difference": 0.0003175291909294253
+      }
+    }
+  },
+  {
+    "source_file": "psro_91_2025-05-01-14-14_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000446141919292,
+          "PPL_init_response2": 1.0000055294416927,
+          "PPL_init_distance": 3.9084750236506594e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000020615057024,
+          "PPL_final_response2": 1.0000157506273044,
+          "PPL_final_distance": 1.3689121602045162e-05
+        },
+        "PPL_distance_difference": 0.35024201304116354
+      }
+    }
+  },
+  {
+    "source_file": "psro_337_2025-05-01-15-50_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000726838896528,
+          "PPL_init_response2": 1.0000520335152596,
+          "PPL_init_distance": 2.065037439313855e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000257212123316,
+          "PPL_final_response2": 1.0000262458724645,
+          "PPL_final_distance": 5.246601328945388e-07
+        },
+        "PPL_distance_difference": 0.025406809722000316
+      }
+    }
+  },
+  {
+    "source_file": "psro_44_2025-05-01-15-02_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.001731599955544,
+          "PPL_init_response2": 1.0000026448729296,
+          "PPL_init_distance": 0.0017289550826145028
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000072846031477,
+          "PPL_final_response2": 1.0000490961908144,
+          "PPL_final_distance": 2.374984066255692e-05
+        },
+        "PPL_distance_difference": 0.013736528439271383
+      }
+    }
+  },
+  {
+    "source_file": "psro_79_2025-05-01-13-27_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000825862214933,
+          "PPL_init_response2": 1.000656793616886,
+          "PPL_init_distance": 0.0005742073953927118
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000063846393334,
+          "PPL_final_response2": 1.0000057529725546,
+          "PPL_final_distance": 6.316667788830443e-07
+        },
+        "PPL_distance_difference": 0.0011000672996401152
+      }
+    }
+  },
+  {
+    "source_file": "psro_45_2025-05-01-15-07_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000003372967176,
+          "PPL_init_response2": 1.0000035500190803,
+          "PPL_init_distance": 1.770519042487706e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000027280309585,
+          "PPL_final_response2": 1.0000180416146163,
+          "PPL_final_distance": 1.5313583657805552e-05
+        },
+        "PPL_distance_difference": 86.49205848861625
+      }
+    }
+  },
+  {
+    "source_file": "psro_51_2025-05-01-15-32_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000539989375326,
+          "PPL_init_response2": 1.000007134223155,
+          "PPL_init_distance": 4.686471437764794e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000027615821785,
+          "PPL_final_response2": 1.0000360331247788,
+          "PPL_final_distance": 3.327154260035492e-05
+        },
+        "PPL_distance_difference": 0.7099486904421151
+      }
+    }
+  },
+  {
+    "source_file": "psro_136_2025-05-01-13-21_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000014304702576,
+          "PPL_init_response2": 1.000008497498288,
+          "PPL_init_distance": 7.067028030327549e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000008704869345,
+          "PPL_final_response2": 1.0000106514163636,
+          "PPL_final_distance": 9.780929429048513e-06
+        },
+        "PPL_distance_difference": 1.3840230132206193
+      }
+    }
+  },
+  {
+    "source_file": "psro_178_2025-05-01-12-23_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000018271882887,
+          "PPL_init_response2": 1.0000887651934762,
+          "PPL_init_distance": 8.693800518755346e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000004424201619,
+          "PPL_final_response2": 1.0000080101741813,
+          "PPL_final_distance": 3.5859725622255922e-06
+        },
+        "PPL_distance_difference": 0.041247467715523116
+      }
+    }
+  },
+  {
+    "source_file": "psro_360_2025-05-01-13-23_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.001023664023595,
+          "PPL_init_response2": 1.0014751750408803,
+          "PPL_init_distance": 0.00045151101728535536
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000008634936297,
+          "PPL_final_response2": 1.0001017386432198,
+          "PPL_final_distance": 0.00010087514959011834
+        },
+        "PPL_distance_difference": 0.2234168065191755
+      }
+    }
+  },
+  {
+    "source_file": "psro_228_2025-05-01-11-54_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000009913756105,
+          "PPL_init_response2": 1.0000038866897947,
+          "PPL_init_distance": 2.89531418418143e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000007500904218,
+          "PPL_final_response2": 1.0000047304412116,
+          "PPL_final_distance": 3.980350789856146e-06
+        },
+        "PPL_distance_difference": 1.3747560840211475
+      }
+    }
+  },
+  {
+    "source_file": "psro_175_2025-05-01-12-09_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000011435493361,
+          "PPL_init_response2": 1.0000197394300452,
+          "PPL_init_distance": 1.8595880709071366e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000001516103374,
+          "PPL_final_response2": 1.000006073869454,
+          "PPL_final_distance": 4.557766080104386e-06
+        },
+        "PPL_distance_difference": 0.24509546772264654
+      }
+    }
+  },
+  {
+    "source_file": "psro_163_2025-05-01-15-15_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000036409306338,
+          "PPL_init_response2": 1.0021439888586596,
+          "PPL_init_distance": 0.002107579552321548
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000026311796082,
+          "PPL_final_response2": 1.00000459057673,
+          "PPL_final_distance": 1.9593971218867523e-06
+        },
+        "PPL_distance_difference": 0.0009296907059704726
+      }
+    }
+  },
+  {
+    "source_file": "psro_233_2025-05-01-12-19_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0002612281504124,
+          "PPL_init_response2": 1.0015266546596364,
+          "PPL_init_distance": 0.0012654265092240102
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000034656884422,
+          "PPL_final_response2": 1.0000101811344015,
+          "PPL_final_distance": 6.7154459593155025e-06
+        },
+        "PPL_distance_difference": 0.005306863662460789
+      }
+    }
+  },
+  {
+    "source_file": "psro_188_2025-05-01-13-13_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000025015181189,
+          "PPL_init_response2": 1.0000227469791818,
+          "PPL_init_distance": 2.0245461062939896e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000008480341496,
+          "PPL_final_response2": 1.0000080185185902,
+          "PPL_final_distance": 7.170484440655045e-06
+        },
+        "PPL_distance_difference": 0.3541773841733294
+      }
+    }
+  },
+  {
+    "source_file": "psro_238_2025-05-01-12-43_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000017655022506,
+          "PPL_init_response2": 1.000002877396995,
+          "PPL_init_distance": 1.1118947442767535e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000021553230418,
+          "PPL_final_response2": 1.0000084453123355,
+          "PPL_final_distance": 6.289989293639664e-06
+        },
+        "PPL_distance_difference": 5.65700065227943
+      }
+    }
+  },
+  {
+    "source_file": "psro_230_2025-05-01-12-00_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000108857501214,
+          "PPL_init_response2": 1.0000049700870761,
+          "PPL_init_distance": 0.00010388741413791536
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000020248560129,
+          "PPL_final_response2": 1.0000151424313557,
+          "PPL_final_distance": 1.3117575342835863e-05
+        },
+        "PPL_distance_difference": 0.1262672235293264
+      }
+    }
+  },
+  {
+    "source_file": "psro_242_2025-05-01-12-55_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000049901558539,
+          "PPL_init_response2": 1.0000029838586069,
+          "PPL_init_distance": 2.00629724700363e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000012439474195,
+          "PPL_final_response2": 1.0000096607548588,
+          "PPL_final_distance": 8.416807439237672e-06
+        },
+        "PPL_distance_difference": 4.1951946312083255
+      }
+    }
+  },
+  {
+    "source_file": "psro_158_2025-05-01-14-54_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0004152405322353,
+          "PPL_init_response2": 1.0000823874485676,
+          "PPL_init_distance": 0.0003328530836677057
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000144450119623,
+          "PPL_final_response2": 1.0000246743434453,
+          "PPL_final_distance": 1.0229331482980442e-05
+        },
+        "PPL_distance_difference": 0.03073227193890924
+      }
+    }
+  },
+  {
+    "source_file": "psro_201_2025-05-01-14-15_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000006462324924,
+          "PPL_init_response2": 1.0000075528024863,
+          "PPL_init_distance": 6.906569993914147e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000024111775396,
+          "PPL_final_response2": 1.0000218371766325,
+          "PPL_final_distance": 1.942599909288134e-05
+        },
+        "PPL_distance_difference": 2.812684025500201
+      }
+    }
+  },
+  {
+    "source_file": "psro_164_2025-05-01-15-18_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001556173766617,
+          "PPL_init_response2": 1.0000038666463884,
+          "PPL_init_distance": 0.00015175073027329233
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000000926685072,
+          "PPL_final_response2": 1.0000142368679734,
+          "PPL_final_distance": 1.3310182901404843e-05
+        },
+        "PPL_distance_difference": 0.08771083260972877
+      }
+    }
+  },
+  {
+    "source_file": "psro_237_2025-05-01-12-39_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0002900698569959,
+          "PPL_init_response2": 1.000010047030639,
+          "PPL_init_distance": 0.0002800228263568627
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000016490113415,
+          "PPL_final_response2": 1.0000056005896785,
+          "PPL_final_distance": 3.951578336991446e-06
+        },
+        "PPL_distance_difference": 0.014111629356799405
+      }
+    }
+  },
+  {
+    "source_file": "psro_300_2025-05-01-12-59_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000016615056246,
+          "PPL_init_response2": 1.0002005084114458,
+          "PPL_init_distance": 0.0001988469058211706
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000016228147313,
+          "PPL_final_response2": 1.0000127519759612,
+          "PPL_final_distance": 1.1129161229916917e-05
+        },
+        "PPL_distance_difference": 0.0559684908545961
+      }
+    }
+  },
+  {
+    "source_file": "psro_170_2025-05-01-15-43_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000012108141898,
+          "PPL_init_response2": 1.0000255283948962,
+          "PPL_init_distance": 2.4317580706423314e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000083829318638,
+          "PPL_final_response2": 1.0000117230799153,
+          "PPL_final_distance": 3.340148051478309e-06
+        },
+        "PPL_distance_difference": 0.13735527772283831
+      }
+    }
+  },
+  {
+    "source_file": "psro_162_2025-05-01-15-10_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.00000151900907,
+          "PPL_init_response2": 1.0000479884910245,
+          "PPL_init_distance": 4.646948195441425e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.00000150469311,
+          "PPL_final_response2": 1.00001420912007,
+          "PPL_final_distance": 1.2704426959997406e-05
+        },
+        "PPL_distance_difference": 0.2733929113403981
+      }
+    }
+  }
+]

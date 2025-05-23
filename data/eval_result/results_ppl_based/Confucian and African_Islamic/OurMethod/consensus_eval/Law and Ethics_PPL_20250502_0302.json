@@ -1,0 +1,972 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "psro_291_2025-05-01-21-49_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0009891835957188,
+          "PPL_init_response2": 1.0013417390081034,
+          "PPL_init_distance": 0.0003525554123846586
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000292895008218,
+          "PPL_final_response2": 1.000000781210083,
+          "PPL_final_distance": 2.8508290738749054e-05
+        },
+        "PPL_distance_difference": 0.0808618723108549
+      }
+    }
+  },
+  {
+    "source_file": "psro_329_2025-05-02-00-33_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000056676186202,
+          "PPL_init_response2": 1.0022311878575192,
+          "PPL_init_distance": 0.0022255202388989925
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000037540975382,
+          "PPL_final_response2": 1.0000038193291774,
+          "PPL_final_distance": 6.523163920135744e-08
+        },
+        "PPL_distance_difference": 2.9310737355337994e-05
+      }
+    }
+  },
+  {
+    "source_file": "psro_333_2025-05-02-00-47_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000022291070574,
+          "PPL_init_response2": 1.0000005267717247,
+          "PPL_init_distance": 1.7023353326983681e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000040016774936,
+          "PPL_final_response2": 1.000003066946918,
+          "PPL_final_distance": 9.347305756080004e-07
+        },
+        "PPL_distance_difference": 0.5490872201579468
+      }
+    }
+  },
+  {
+    "source_file": "psro_323_2025-05-02-00-04_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0026594373421371,
+          "PPL_init_response2": 1.0000014034393232,
+          "PPL_init_distance": 0.002658033902813939
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000011841268925,
+          "PPL_final_response2": 1.0000027038193822,
+          "PPL_final_distance": 1.5196924896265784e-06
+        },
+        "PPL_distance_difference": 0.0005717355553733718
+      }
+    }
+  },
+  {
+    "source_file": "psro_442_2025-05-02-00-37_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.006019496019774,
+          "PPL_init_response2": 1.0000015794724915,
+          "PPL_init_distance": 0.006017916547282454
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000689851264604,
+          "PPL_final_response2": 1.0000810995668332,
+          "PPL_final_distance": 1.2114440372856805e-05
+        },
+        "PPL_distance_difference": 0.002013062208103799
+      }
+    }
+  },
+  {
+    "source_file": "psro_351_2025-05-01-22-03_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.00031508579456,
+          "PPL_init_response2": 1.0012648078456912,
+          "PPL_init_distance": 0.0009497220511311966
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000066547511768,
+          "PPL_final_response2": 1.000008494911616,
+          "PPL_final_distance": 1.8401604391371507e-06
+        },
+        "PPL_distance_difference": 0.0019375778807550791
+      }
+    }
+  },
+  {
+    "source_file": "psro_284_2025-05-02-01-40_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0028211999078447,
+          "PPL_init_response2": 1.0000515859704138,
+          "PPL_init_distance": 0.0027696139374309148
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000042975521755,
+          "PPL_final_response2": 1.0000013407260262,
+          "PPL_final_distance": 2.956826149258518e-06
+        },
+        "PPL_distance_difference": 0.0010675950569490782
+      }
+    }
+  },
+  {
+    "source_file": "psro_17_2025-05-01-22-49_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0018660380241973,
+          "PPL_init_response2": 1.0001791478669784,
+          "PPL_init_distance": 0.001686890157218901
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000016770538755,
+          "PPL_final_response2": 1.0000032423427625,
+          "PPL_final_distance": 1.5652888869510662e-06
+        },
+        "PPL_distance_difference": 0.0009279139369285826
+      }
+    }
+  },
+  {
+    "source_file": "psro_318_2025-05-01-23-44_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000273175446146,
+          "PPL_init_response2": 1.0002829421649475,
+          "PPL_init_distance": 9.766718801484942e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000026820664525,
+          "PPL_final_response2": 1.0000027393354758,
+          "PPL_final_distance": 5.726902330138728e-08
+        },
+        "PPL_distance_difference": 0.005863691221731503
+      }
+    }
+  },
+  {
+    "source_file": "psro_104_2025-05-02-00-47_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.002131152268198,
+          "PPL_init_response2": 1.0000008218042542,
+          "PPL_init_distance": 0.0021303304639437304
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000179200272692,
+          "PPL_final_response2": 1.0000102582950692,
+          "PPL_final_distance": 7.661732200014981e-06
+        },
+        "PPL_distance_difference": 0.003596499383401464
+      }
+    }
+  },
+  {
+    "source_file": "psro_377_2025-05-01-23-46_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.001149141518771,
+          "PPL_init_response2": 1.0006639877636356,
+          "PPL_init_distance": 0.0004851537551353591
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000027535434413,
+          "PPL_final_response2": 1.0000019963160705,
+          "PPL_final_distance": 7.572273708067456e-07
+        },
+        "PPL_distance_difference": 0.0015607987422368345
+      }
+    }
+  },
+  {
+    "source_file": "psro_400_2025-05-01-21-30_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000047646698398,
+          "PPL_init_response2": 1.0003438146570864,
+          "PPL_init_distance": 0.00033904998724665347
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000057647386915,
+          "PPL_final_response2": 1.000003404515046,
+          "PPL_final_distance": 2.3602236454145498e-06
+        },
+        "PPL_distance_difference": 0.006961285162053478
+      }
+    }
+  },
+  {
+    "source_file": "psro_398_2025-05-02-01-18_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000002877084662,
+          "PPL_init_response2": 1.0005828830562657,
+          "PPL_init_distance": 0.000580005971603681
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000042757839638,
+          "PPL_final_response2": 1.000002494759225,
+          "PPL_final_distance": 1.7810247388005962e-06
+        },
+        "PPL_distance_difference": 0.0030707006927466144
+      }
+    }
+  },
+  {
+    "source_file": "psro_121_2025-05-01-21-54_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000563780080818,
+          "PPL_init_response2": 1.0001603885945571,
+          "PPL_init_distance": 0.00010401058647535599
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000048209735743,
+          "PPL_final_response2": 1.0000021958490726,
+          "PPL_final_distance": 2.6251245017760994e-06
+        },
+        "PPL_distance_difference": 0.02523901259222387
+      }
+    }
+  },
+  {
+    "source_file": "psro_190_2025-05-01-22-46_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000021913897172,
+          "PPL_init_response2": 1.0027327487713722,
+          "PPL_init_distance": 0.002730557381654952
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000011117462062,
+          "PPL_final_response2": 1.000001581573087,
+          "PPL_final_distance": 4.6982688073349266e-07
+        },
+        "PPL_distance_difference": 0.00017206262863765097
+      }
+    }
+  },
+  {
+    "source_file": "psro_187_2025-05-01-22-35_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0002215360151774,
+          "PPL_init_response2": 1.0000057996862415,
+          "PPL_init_distance": 0.00021573632893590045
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000029100732384,
+          "PPL_final_response2": 1.0000019462653529,
+          "PPL_final_distance": 9.63807885501211e-07
+        },
+        "PPL_distance_difference": 0.004467527051447963
+      }
+    }
+  },
+  {
+    "source_file": "psro_32_2025-05-01-23-51_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.001690407166398,
+          "PPL_init_response2": 1.0001655940167524,
+          "PPL_init_distance": 0.0015248131496454764
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000132198996685,
+          "PPL_final_response2": 1.0000035579025772,
+          "PPL_final_distance": 9.661997091292562e-06
+        },
+        "PPL_distance_difference": 0.0063365121775996
+      }
+    }
+  },
+  {
+    "source_file": "psro_417_2025-05-01-22-48_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0001090158416663,
+          "PPL_init_response2": 1.0000013084167234,
+          "PPL_init_distance": 0.00010770742494292662
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000006718016663,
+          "PPL_final_response2": 1.000001268584166,
+          "PPL_final_distance": 5.449432497028894e-06
+        },
+        "PPL_distance_difference": 0.05059477097253517
+      }
+    }
+  },
+  {
+    "source_file": "psro_438_2025-05-02-00-18_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000206307318326,
+          "PPL_init_response2": 1.0000011604645695,
+          "PPL_init_distance": 0.00020514685375649933
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000043029044863,
+          "PPL_final_response2": 1.000002316806247,
+          "PPL_final_distance": 1.986098239203926e-06
+        },
+        "PPL_distance_difference": 0.009681348764730953
+      }
+    }
+  },
+  {
+    "source_file": "psro_120_2025-05-01-21-48_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000157757278606,
+          "PPL_init_response2": 1.00006847596563,
+          "PPL_init_distance": 8.928131297603059e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000158282376437,
+          "PPL_final_response2": 1.0000034690019244,
+          "PPL_final_distance": 1.2359235719294759e-05
+        },
+        "PPL_distance_difference": 0.1384302639300662
+      }
+    }
+  },
+  {
+    "source_file": "psro_404_2025-05-01-21-49_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0010841932814902,
+          "PPL_init_response2": 1.00187072838426,
+          "PPL_init_distance": 0.0007865351027698253
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000045664033321,
+          "PPL_final_response2": 1.000001606484394,
+          "PPL_final_distance": 2.959918938172379e-06
+        },
+        "PPL_distance_difference": 0.003763238192102128
+      }
+    }
+  },
+  {
+    "source_file": "psro_370_2025-05-01-23-22_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000002075086554,
+          "PPL_init_response2": 1.0000016074756155,
+          "PPL_init_distance": 4.6761093841496404e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000044540538946,
+          "PPL_final_response2": 1.0000080905678097,
+          "PPL_final_distance": 3.636513915106221e-06
+        },
+        "PPL_distance_difference": 7.776793946336497
+      }
+    }
+  },
+  {
+    "source_file": "psro_250_2025-05-01-23-11_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000478482422037,
+          "PPL_init_response2": 1.0031536607837899,
+          "PPL_init_distance": 0.0026751783617529057
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000062018181515,
+          "PPL_final_response2": 1.0000079372762396,
+          "PPL_final_distance": 1.7354580881256965e-06
+        },
+        "PPL_distance_difference": 0.0006487261234381923
+      }
+    }
+  },
+  {
+    "source_file": "psro_366_2025-05-01-23-00_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000020566843184,
+          "PPL_init_response2": 1.0000379829644042,
+          "PPL_init_distance": 3.592628008575183e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000109204430168,
+          "PPL_final_response2": 1.0000201860005022,
+          "PPL_final_distance": 9.265557485482745e-06
+        },
+        "PPL_distance_difference": 0.2579047277749587
+      }
+    }
+  },
+  {
+    "source_file": "psro_416_2025-05-01-22-44_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000907855586503,
+          "PPL_init_response2": 1.000022538025478,
+          "PPL_init_distance": 6.824753317236087e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000025377919293,
+          "PPL_final_response2": 1.0000007663349926,
+          "PPL_final_distance": 1.7714569366944488e-06
+        },
+        "PPL_distance_difference": 0.02595635115807907
+      }
+    }
+  },
+  {
+    "source_file": "psro_218_2025-05-02-00-34_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0001196774558536,
+          "PPL_init_response2": 1.0002185528797487,
+          "PPL_init_distance": 9.887542389508397e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000169919088655,
+          "PPL_final_response2": 1.0000047207716132,
+          "PPL_final_distance": 1.2271137252328757e-05
+        },
+        "PPL_distance_difference": 0.12410705076065794
+      }
+    }
+  },
+  {
+    "source_file": "psro_312_2025-05-01-23-23_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000080831129909,
+          "PPL_init_response2": 1.0003928679760266,
+          "PPL_init_distance": 0.0003120368461175804
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0001286093818729,
+          "PPL_final_response2": 1.0000010630504441,
+          "PPL_final_distance": 0.00012754633142875171
+        },
+        "PPL_distance_difference": 0.40875407188512036
+      }
+    }
+  },
+  {
+    "source_file": "psro_373_2025-05-01-23-33_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001027379914347,
+          "PPL_init_response2": 1.0000021303010884,
+          "PPL_init_distance": 0.00010060769034625494
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000077627449429,
+          "PPL_final_response2": 1.0000016534265463,
+          "PPL_final_distance": 6.109318396507746e-06
+        },
+        "PPL_distance_difference": 0.060724169051905495
+      }
+    }
+  },
+  {
+    "source_file": "psro_100_2025-05-02-00-34_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000023726740428,
+          "PPL_init_response2": 1.000001555270696,
+          "PPL_init_distance": 8.174033467867048e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000018727362416,
+          "PPL_final_response2": 1.0000007152436625,
+          "PPL_final_distance": 1.1574925791180135e-06
+        },
+        "PPL_distance_difference": 1.4160604842985216
+      }
+    }
+  },
+  {
+    "source_file": "psro_367_2025-05-01-23-05_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001930297899064,
+          "PPL_init_response2": 1.0000026331561116,
+          "PPL_init_distance": 0.00019039663379483152
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000019739603854,
+          "PPL_final_response2": 1.0000019240861073,
+          "PPL_final_distance": 4.98742780408179e-08
+        },
+        "PPL_distance_difference": 0.000261949368782232
+      }
+    }
+  },
+  {
+    "source_file": "psro_268_2025-05-02-00-27_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.00119834609012,
+          "PPL_init_response2": 1.0013870463333507,
+          "PPL_init_distance": 0.00018870024323081047
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000020479735885,
+          "PPL_final_response2": 1.000002084513878,
+          "PPL_final_distance": 3.654028946087351e-08
+        },
+        "PPL_distance_difference": 0.00019364198389600862
+      }
+    }
+  },
+  {
+    "source_file": "psro_449_2025-05-02-01-09_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000026605419552,
+          "PPL_init_response2": 1.000000594698533,
+          "PPL_init_distance": 2.0658434221054733e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000052943422046,
+          "PPL_final_response2": 1.0000053441554984,
+          "PPL_final_distance": 4.9813293712119844e-08
+        },
+        "PPL_distance_difference": 0.02411281183224959
+      }
+    }
+  },
+  {
+    "source_file": "psro_456_2025-05-02-01-37_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000017006468784,
+          "PPL_init_response2": 1.0002787983952048,
+          "PPL_init_distance": 0.00027709774832640477
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000295455517523,
+          "PPL_final_response2": 1.0000109903970376,
+          "PPL_final_distance": 1.8555154714716693e-05
+        },
+        "PPL_distance_difference": 0.06696248824389514
+      }
+    }
+  },
+  {
+    "source_file": "psro_423_2025-05-01-23-15_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000054023599285,
+          "PPL_init_response2": 1.0000046284179267,
+          "PPL_init_distance": 7.739420018193499e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000365854029947,
+          "PPL_final_response2": 1.0000015563048308,
+          "PPL_final_distance": 3.5029098163885664e-05
+        },
+        "PPL_distance_difference": 45.260624286497894
+      }
+    }
+  },
+  {
+    "source_file": "psro_440_2025-05-02-00-28_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000049567006413,
+          "PPL_init_response2": 1.0044326893896418,
+          "PPL_init_distance": 0.004427732689000541
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000004849549982,
+          "PPL_final_response2": 1.0000016018238191,
+          "PPL_final_distance": 3.2477261628915954e-06
+        },
+        "PPL_distance_difference": 0.0007334964396020698
+      }
+    }
+  },
+  {
+    "source_file": "psro_208_2025-05-01-23-58_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.00106096046025,
+          "PPL_init_response2": 1.0000020741583266,
+          "PPL_init_distance": 0.0010588863019234118
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000003901699386,
+          "PPL_final_response2": 1.0000007501584693,
+          "PPL_final_distance": 3.1515409166793518e-06
+        },
+        "PPL_distance_difference": 0.0029762788610587765
+      }
+    }
+  },
+  {
+    "source_file": "psro_219_2025-05-02-00-38_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0002061068450314,
+          "PPL_init_response2": 1.00019359303052,
+          "PPL_init_distance": 1.2513814511505572e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000136761351242,
+          "PPL_final_response2": 1.0000017542801594,
+          "PPL_final_distance": 1.1921854964791478e-05
+        },
+        "PPL_distance_difference": 0.9526955153306909
+      }
+    }
+  },
+  {
+    "source_file": "psro_25_2025-05-01-23-23_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000542248451538,
+          "PPL_init_response2": 1.000003669373689,
+          "PPL_init_distance": 5.0555471464930335e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000003606184128,
+          "PPL_final_response2": 1.0000065690539104,
+          "PPL_final_distance": 2.9628697824080064e-06
+        },
+        "PPL_distance_difference": 0.05860631295790229
+      }
+    }
+  },
+  {
+    "source_file": "psro_144_2025-05-01-23-37_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000305827355568,
+          "PPL_init_response2": 1.0008443872952293,
+          "PPL_init_distance": 0.0005385599396612317
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000021784393156,
+          "PPL_final_response2": 1.0000010527120682,
+          "PPL_final_distance": 1.1257272474196611e-06
+        },
+        "PPL_distance_difference": 0.002090254332930468
+      }
+    }
+  },
+  {
+    "source_file": "psro_450_2025-05-02-01-12_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000034059030577,
+          "PPL_init_response2": 1.0001269607920067,
+          "PPL_init_distance": 9.290176142973117e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000003562541727,
+          "PPL_final_response2": 1.0000020758920454,
+          "PPL_final_distance": 1.486649681581298e-06
+        },
+        "PPL_distance_difference": 0.016002384225037185
+      }
+    }
+  },
+  {
+    "source_file": "psro_298_2025-05-01-22-28_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000111494442474,
+          "PPL_init_response2": 1.000041678406914,
+          "PPL_init_distance": 6.981603556011073e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000059620850412,
+          "PPL_final_response2": 1.00000262640942,
+          "PPL_final_distance": 3.3356756212743477e-06
+        },
+        "PPL_distance_difference": 0.04777807268077221
+      }
+    }
+  },
+  {
+    "source_file": "psro_354_2025-05-01-22-15_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000048005751327,
+          "PPL_init_response2": 1.001104884054498,
+          "PPL_init_distance": 0.0011000834793652992
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000289152544164,
+          "PPL_final_response2": 1.0000425537706836,
+          "PPL_final_distance": 1.3638516267233669e-05
+        },
+        "PPL_distance_difference": 0.012397710285679871
+      }
+    }
+  },
+  {
+    "source_file": "psro_453_2025-05-02-01-25_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0001259207163768,
+          "PPL_init_response2": 1.0000017996101076,
+          "PPL_init_distance": 0.00012412110626924822
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000343625896997,
+          "PPL_final_response2": 1.0000128361755203,
+          "PPL_final_distance": 2.1526414179406927e-05
+        },
+        "PPL_distance_difference": 0.1734307308920613
+      }
+    }
+  },
+  {
+    "source_file": "psro_339_2025-05-02-01-09_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0009943239620718,
+          "PPL_init_response2": 1.000003028741447,
+          "PPL_init_distance": 0.0009912952206247994
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000165525751021,
+          "PPL_final_response2": 1.0000018195150537,
+          "PPL_final_distance": 1.4733060048399693e-05
+        },
+        "PPL_distance_difference": 0.014862434259608004
+      }
+    }
+  },
+  {
+    "source_file": "psro_299_2025-05-01-22-32_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000033256534462,
+          "PPL_init_response2": 1.0004757197583587,
+          "PPL_init_distance": 0.0004723941049125102
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000007233592516,
+          "PPL_final_response2": 1.000001359827437,
+          "PPL_final_distance": 5.8737650789897344e-06
+        },
+        "PPL_distance_difference": 0.012434035518029136
+      }
+    }
+  },
+  {
+    "source_file": "psro_433_2025-05-01-23-53_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000306929960434,
+          "PPL_init_response2": 1.0019291622801396,
+          "PPL_init_distance": 0.0018984692840962047
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000076335236916,
+          "PPL_final_response2": 1.0000043911671144,
+          "PPL_final_distance": 3.2423565772266016e-06
+        },
+        "PPL_distance_difference": 0.0017078793975695925
+      }
+    }
+  }
+]

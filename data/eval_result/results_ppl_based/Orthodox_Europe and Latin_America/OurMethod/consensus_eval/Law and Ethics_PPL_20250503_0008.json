@@ -1,0 +1,972 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "psro_298_2025-05-02-19-31_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000000983862035,
+          "PPL_init_response2": 1.0000248563694267,
+          "PPL_init_distance": 2.38725073917756e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.00000135011009,
+          "PPL_final_response2": 1.0000038408076828,
+          "PPL_final_distance": 2.4906975928384867e-06
+        },
+        "PPL_distance_difference": 0.10433330491695923
+      }
+    }
+  },
+  {
+    "source_file": "psro_333_2025-05-02-21-48_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0001745686644945,
+          "PPL_init_response2": 1.0000675060492699,
+          "PPL_init_distance": 0.00010706261522464011
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000014353158535,
+          "PPL_final_response2": 1.0000008763371557,
+          "PPL_final_distance": 5.589786977733269e-07
+        },
+        "PPL_distance_difference": 0.005221044681193999
+      }
+    }
+  },
+  {
+    "source_file": "psro_187_2025-05-02-19-50_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000009608819425,
+          "PPL_init_response2": 1.000162715861752,
+          "PPL_init_distance": 0.00016175497980963627
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000092269142713,
+          "PPL_final_response2": 1.0000046078128741,
+          "PPL_final_distance": 4.619101397151937e-06
+        },
+        "PPL_distance_difference": 0.02855616193447642
+      }
+    }
+  },
+  {
+    "source_file": "psro_423_2025-05-02-20-20_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001583738295459,
+          "PPL_init_response2": 1.0008213000061488,
+          "PPL_init_distance": 0.0006629261766029071
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000000780566694,
+          "PPL_final_response2": 1.0000033630767795,
+          "PPL_final_distance": 2.5825100855580985e-06
+        },
+        "PPL_distance_difference": 0.003895622433846088
+      }
+    }
+  },
+  {
+    "source_file": "psro_323_2025-05-02-21-10_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000011928240261,
+          "PPL_init_response2": 1.0000668286025605,
+          "PPL_init_distance": 5.4900362299381555e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000029411803515,
+          "PPL_final_response2": 1.000005321204986,
+          "PPL_final_distance": 2.3800246344851672e-06
+        },
+        "PPL_distance_difference": 0.04335171089594026
+      }
+    }
+  },
+  {
+    "source_file": "psro_438_2025-05-02-21-15_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000947233600837,
+          "PPL_init_response2": 1.000001475177438,
+          "PPL_init_distance": 0.0009457584233989458
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000009917995862,
+          "PPL_final_response2": 1.0000008375910967,
+          "PPL_final_distance": 1.5420848953340283e-07
+        },
+        "PPL_distance_difference": 0.00016305272648716726
+      }
+    }
+  },
+  {
+    "source_file": "psro_208_2025-05-02-21-14_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000728656753177,
+          "PPL_init_response2": 1.0000726029790536,
+          "PPL_init_distance": 2.626962640750463e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000040366337768,
+          "PPL_final_response2": 1.0000025966868034,
+          "PPL_final_distance": 1.4399469734360792e-06
+        },
+        "PPL_distance_difference": 5.481413976350723
+      }
+    }
+  },
+  {
+    "source_file": "psro_416_2025-05-02-19-48_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000015250877496,
+          "PPL_init_response2": 1.0000261555715644,
+          "PPL_init_distance": 2.4630483814735982e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000046821657786,
+          "PPL_final_response2": 1.0000027204222541,
+          "PPL_final_distance": 1.961743524514503e-06
+        },
+        "PPL_distance_difference": 0.07964697483290308
+      }
+    }
+  },
+  {
+    "source_file": "psro_417_2025-05-02-19-57_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001147546104203,
+          "PPL_init_response2": 1.0000011795202761,
+          "PPL_init_distance": 0.0001135750901442023
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000018446103824,
+          "PPL_final_response2": 1.0000055139412873,
+          "PPL_final_distance": 3.6693309048985157e-06
+        },
+        "PPL_distance_difference": 0.032307532402040755
+      }
+    }
+  },
+  {
+    "source_file": "psro_440_2025-05-02-21-21_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000595822104876,
+          "PPL_init_response2": 1.0000026296490327,
+          "PPL_init_distance": 5.695256145488159e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000003866364662,
+          "PPL_final_response2": 1.0000032421731873,
+          "PPL_final_distance": 6.241914747295851e-07
+        },
+        "PPL_distance_difference": 0.010959849017924789
+      }
+    }
+  },
+  {
+    "source_file": "psro_104_2025-05-02-22-05_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001953958371101,
+          "PPL_init_response2": 1.0000014077582375,
+          "PPL_init_distance": 0.00019398807887260894
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000001416101561,
+          "PPL_final_response2": 1.0000018610712367,
+          "PPL_final_distance": 4.449696757724553e-07
+        },
+        "PPL_distance_difference": 0.002293799074450677
+      }
+    }
+  },
+  {
+    "source_file": "psro_366_2025-05-02-20-29_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000007396978496,
+          "PPL_init_response2": 1.0000012539451995,
+          "PPL_init_distance": 5.142473498143119e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000001605291028,
+          "PPL_final_response2": 1.0000073110599053,
+          "PPL_final_distance": 5.7057688771511295e-06
+        },
+        "PPL_distance_difference": 11.095378282866037
+      }
+    }
+  },
+  {
+    "source_file": "psro_32_2025-05-02-21-01_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000012195785866,
+          "PPL_init_response2": 1.000004108103719,
+          "PPL_init_distance": 2.8885251324162198e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000104463402795,
+          "PPL_final_response2": 1.000000622021498,
+          "PPL_final_distance": 9.824318781381791e-06
+        },
+        "PPL_distance_difference": 3.4011539907093886
+      }
+    }
+  },
+  {
+    "source_file": "psro_268_2025-05-02-21-26_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.00012880545565,
+          "PPL_init_response2": 1.0016696468009514,
+          "PPL_init_distance": 0.0015408413453013026
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000009801445235,
+          "PPL_final_response2": 1.0000009273322796,
+          "PPL_final_distance": 5.2812243911404266e-08
+        },
+        "PPL_distance_difference": 3.427493951434509e-05
+      }
+    }
+  },
+  {
+    "source_file": "psro_370_2025-05-02-20-42_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000012661835191,
+          "PPL_init_response2": 1.0003369660049346,
+          "PPL_init_distance": 0.0003356998214154583
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000888044099372,
+          "PPL_final_response2": 1.0000022064948684,
+          "PPL_final_distance": 8.659791506882009e-05
+        },
+        "PPL_distance_difference": 0.25796235072060847
+      }
+    }
+  },
+  {
+    "source_file": "psro_144_2025-05-02-20-50_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001878952458751,
+          "PPL_init_response2": 1.0000428863037396,
+          "PPL_init_distance": 0.00014500894213553828
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000045111273381,
+          "PPL_final_response2": 1.0000130892475851,
+          "PPL_final_distance": 8.578120247015875e-06
+        },
+        "PPL_distance_difference": 0.059155801847019886
+      }
+    }
+  },
+  {
+    "source_file": "psro_456_2025-05-02-22-30_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0020071882974395,
+          "PPL_init_response2": 1.0000011195008256,
+          "PPL_init_distance": 0.0020060687966139135
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000013727764012,
+          "PPL_final_response2": 1.0000709887586843,
+          "PPL_final_distance": 5.72609946722924e-05
+        },
+        "PPL_distance_difference": 0.028543883823398508
+      }
+    }
+  },
+  {
+    "source_file": "psro_284_2025-05-02-22-36_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000559690922752,
+          "PPL_init_response2": 1.000001118950761,
+          "PPL_init_distance": 5.485014151429546e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000019005519,
+          "PPL_final_response2": 1.0000018297158844,
+          "PPL_final_distance": 7.083601571977738e-08
+        },
+        "PPL_distance_difference": 0.0012914463621085748
+      }
+    }
+  },
+  {
+    "source_file": "psro_250_2025-05-02-20-15_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001612596383929,
+          "PPL_init_response2": 1.0032265541966585,
+          "PPL_init_distance": 0.003065294558265652
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000025756595108,
+          "PPL_final_response2": 1.000010208757113,
+          "PPL_final_distance": 7.633097602210981e-06
+        },
+        "PPL_distance_difference": 0.002490167733351472
+      }
+    }
+  },
+  {
+    "source_file": "psro_312_2025-05-02-20-29_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000007009917748,
+          "PPL_init_response2": 1.000002518132306,
+          "PPL_init_distance": 1.8171405311573352e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000155204399925,
+          "PPL_final_response2": 1.0000011483103424,
+          "PPL_final_distance": 1.4372129650164212e-05
+        },
+        "PPL_distance_difference": 7.909200969179095
+      }
+    }
+  },
+  {
+    "source_file": "psro_291_2025-05-02-19-08_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000000453252798,
+          "PPL_init_response2": 1.0002812764991666,
+          "PPL_init_distance": 0.00028082324636868883
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000015725582556,
+          "PPL_final_response2": 1.00001427233894,
+          "PPL_final_distance": 1.269978068441091e-05
+        },
+        "PPL_distance_difference": 0.045223395315847716
+      }
+    }
+  },
+  {
+    "source_file": "psro_377_2025-05-02-21-08_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000026868648282,
+          "PPL_init_response2": 1.0000013224408182,
+          "PPL_init_distance": 1.364424009997478e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000031490902643,
+          "PPL_final_response2": 1.000002526422235,
+          "PPL_final_distance": 6.226680293597298e-07
+        },
+        "PPL_distance_difference": 0.45635962486535303
+      }
+    }
+  },
+  {
+    "source_file": "psro_442_2025-05-02-21-32_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0007475317341412,
+          "PPL_init_response2": 1.0001383944561597,
+          "PPL_init_distance": 0.0006091372779815085
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000649316280608,
+          "PPL_final_response2": 1.0000251170346643,
+          "PPL_final_distance": 3.9814593396414466e-05
+        },
+        "PPL_distance_difference": 0.06536226698905646
+      }
+    }
+  },
+  {
+    "source_file": "psro_219_2025-05-02-22-01_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000016127849802,
+          "PPL_init_response2": 1.0000502984205968,
+          "PPL_init_distance": 4.868563561655215e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.00000144517201,
+          "PPL_final_response2": 1.0000029224342628,
+          "PPL_final_distance": 1.4772622527470247e-06
+        },
+        "PPL_distance_difference": 0.03034287699110957
+      }
+    }
+  },
+  {
+    "source_file": "psro_450_2025-05-02-22-07_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001364320411812,
+          "PPL_init_response2": 1.0000368001146422,
+          "PPL_init_distance": 9.963192653894559e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000011358117848,
+          "PPL_final_response2": 1.0000031941993537,
+          "PPL_final_distance": 2.058387568837361e-06
+        },
+        "PPL_distance_difference": 0.020659919368644832
+      }
+    }
+  },
+  {
+    "source_file": "psro_367_2025-05-02-20-32_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000021266735486,
+          "PPL_init_response2": 1.0003253953524218,
+          "PPL_init_distance": 0.0003232686788732231
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000014304941935,
+          "PPL_final_response2": 1.000005376358028,
+          "PPL_final_distance": 3.9458638345646335e-06
+        },
+        "PPL_distance_difference": 0.012206143348988322
+      }
+    }
+  },
+  {
+    "source_file": "psro_398_2025-05-02-22-30_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000025794572989,
+          "PPL_init_response2": 1.0000011849431116,
+          "PPL_init_distance": 1.3945141872362399e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000044320149424,
+          "PPL_final_response2": 1.0000029224143152,
+          "PPL_final_distance": 1.5096006271697604e-06
+        },
+        "PPL_distance_difference": 1.0825279807024466
+      }
+    }
+  },
+  {
+    "source_file": "psro_299_2025-05-02-19-34_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001306508723646,
+          "PPL_init_response2": 1.0000052328913136,
+          "PPL_init_distance": 0.00012541798105103474
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000018037273228,
+          "PPL_final_response2": 1.0000035012694346,
+          "PPL_final_distance": 1.697542111767092e-06
+        },
+        "PPL_distance_difference": 0.01353507764629326
+      }
+    }
+  },
+  {
+    "source_file": "psro_373_2025-05-02-20-54_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000657932908201,
+          "PPL_init_response2": 1.0000031659975883,
+          "PPL_init_distance": 6.262729323180949e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000017961726564,
+          "PPL_final_response2": 1.0000020971700059,
+          "PPL_final_distance": 3.0099734948940693e-07
+        },
+        "PPL_distance_difference": 0.004806168907464855
+      }
+    }
+  },
+  {
+    "source_file": "psro_329_2025-05-02-21-33_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000013278829512,
+          "PPL_init_response2": 1.0000024590367889,
+          "PPL_init_distance": 1.131153837707899e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000019925958257,
+          "PPL_final_response2": 1.0000066566069628,
+          "PPL_final_distance": 4.664011137078816e-06
+        },
+        "PPL_distance_difference": 4.123233269958827
+      }
+    }
+  },
+  {
+    "source_file": "psro_400_2025-05-02-18-47_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000305484233047,
+          "PPL_init_response2": 1.000001768196739,
+          "PPL_init_distance": 2.878022656571666e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000029165251803,
+          "PPL_final_response2": 1.0000043087912422,
+          "PPL_final_distance": 1.392266061994718e-06
+        },
+        "PPL_distance_difference": 0.048375785326624274
+      }
+    }
+  },
+  {
+    "source_file": "psro_120_2025-05-02-19-07_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000018669901272,
+          "PPL_init_response2": 1.0000013834513,
+          "PPL_init_distance": 4.835388272006469e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000001473600181,
+          "PPL_final_response2": 1.000026041351822,
+          "PPL_final_distance": 2.4567751641058067e-05
+        },
+        "PPL_distance_difference": 50.80822936864914
+      }
+    }
+  },
+  {
+    "source_file": "psro_25_2025-05-02-20-33_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000008457285823,
+          "PPL_init_response2": 1.0001186950389935,
+          "PPL_init_distance": 0.00011784931041125546
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000022563108728,
+          "PPL_final_response2": 1.0000101542507323,
+          "PPL_final_distance": 7.897939859446979e-06
+        },
+        "PPL_distance_difference": 0.06701727682483467
+      }
+    }
+  },
+  {
+    "source_file": "psro_318_2025-05-02-20-52_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0232447678093177,
+          "PPL_init_response2": 1.0002217291964213,
+          "PPL_init_distance": 0.02302303861289645
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000031375662646,
+          "PPL_final_response2": 1.0000034923962704,
+          "PPL_final_distance": 3.548300058220377e-07
+        },
+        "PPL_distance_difference": 1.5411953729829485e-05
+      }
+    }
+  },
+  {
+    "source_file": "psro_121_2025-05-02-19-17_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000348364985194,
+          "PPL_init_response2": 1.0003123382414365,
+          "PPL_init_distance": 0.0002775017429170745
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000040282724956,
+          "PPL_final_response2": 1.00000207341681,
+          "PPL_final_distance": 1.954855685548651e-06
+        },
+        "PPL_distance_difference": 0.007044480748118464
+      }
+    }
+  },
+  {
+    "source_file": "psro_351_2025-05-02-19-21_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000005347817489,
+          "PPL_init_response2": 1.0000583170985264,
+          "PPL_init_distance": 5.7782316777554854e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000020370229667,
+          "PPL_final_response2": 1.0000089525077105,
+          "PPL_final_distance": 1.1417721956563653e-05
+        },
+        "PPL_distance_difference": 0.19759889518654242
+      }
+    }
+  },
+  {
+    "source_file": "psro_218_2025-05-02-21-58_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000105159152125,
+          "PPL_init_response2": 1.0000705864227757,
+          "PPL_init_distance": 3.457272934936917e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000003295032863,
+          "PPL_final_response2": 1.0000076378046672,
+          "PPL_final_distance": 4.342771804166645e-06
+        },
+        "PPL_distance_difference": 0.12561263995912678
+      }
+    }
+  },
+  {
+    "source_file": "psro_190_2025-05-02-20-04_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000406674047952,
+          "PPL_init_response2": 1.0000007637608466,
+          "PPL_init_distance": 3.9903643948679957e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000065343850115,
+          "PPL_final_response2": 1.0000017880855867,
+          "PPL_final_distance": 4.74629942481819e-06
+        },
+        "PPL_distance_difference": 0.11894400999874602
+      }
+    }
+  },
+  {
+    "source_file": "psro_100_2025-05-02-21-46_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.00273444472559,
+          "PPL_init_response2": 1.0000129427625968,
+          "PPL_init_distance": 0.0027215019629931447
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000010519059823,
+          "PPL_final_response2": 1.0000009108652843,
+          "PPL_final_distance": 1.4104069800957575e-07
+        },
+        "PPL_distance_difference": 5.18245806644421e-05
+      }
+    }
+  },
+  {
+    "source_file": "psro_17_2025-05-02-19-55_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000017275792172,
+          "PPL_init_response2": 1.000746570996531,
+          "PPL_init_distance": 0.0007448434173138452
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000044721891996,
+          "PPL_final_response2": 1.0000063796249028,
+          "PPL_final_distance": 1.9074357031634293e-06
+        },
+        "PPL_distance_difference": 0.0025608546156483214
+      }
+    }
+  },
+  {
+    "source_file": "psro_433_2025-05-02-20-54_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000796246787527,
+          "PPL_init_response2": 1.0000021623483684,
+          "PPL_init_distance": 7.746233038430361e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000005354141747,
+          "PPL_final_response2": 1.0000047733589774,
+          "PPL_final_distance": 5.807827696546752e-07
+        },
+        "PPL_distance_difference": 0.007497615509026317
+      }
+    }
+  },
+  {
+    "source_file": "psro_453_2025-05-02-22-21_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000421515987823,
+          "PPL_init_response2": 1.000002126455496,
+          "PPL_init_distance": 4.002514328638185e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000001704299416,
+          "PPL_final_response2": 1.0000114826772908,
+          "PPL_final_distance": 9.778377874747335e-06
+        },
+        "PPL_distance_difference": 0.244305880550697
+      }
+    }
+  },
+  {
+    "source_file": "psro_404_2025-05-02-19-02_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0014951658173603,
+          "PPL_init_response2": 1.0606649960150432,
+          "PPL_init_distance": 0.05916983019768285
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000001067717724,
+          "PPL_final_response2": 1.000002644669565,
+          "PPL_final_distance": 1.5769518408870198e-06
+        },
+        "PPL_distance_difference": 2.6651282175705395e-05
+      }
+    }
+  },
+  {
+    "source_file": "psro_354_2025-05-02-19-30_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000001038802282,
+          "PPL_init_response2": 1.0004231678049293,
+          "PPL_init_distance": 0.00042212900264737563
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000236140788756,
+          "PPL_final_response2": 1.0000207314410563,
+          "PPL_final_distance": 2.8826378193347324e-06
+        },
+        "PPL_distance_difference": 0.006828807784483684
+      }
+    }
+  },
+  {
+    "source_file": "psro_339_2025-05-02-22-07_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000014503415964,
+          "PPL_init_response2": 1.0000010341613486,
+          "PPL_init_distance": 4.1618024781975294e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000017090036744,
+          "PPL_final_response2": 1.0000015945185545,
+          "PPL_final_distance": 1.1448511982870002e-07
+        },
+        "PPL_distance_difference": 0.27508542375197814
+      }
+    }
+  },
+  {
+    "source_file": "psro_449_2025-05-02-22-03_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001412240452516,
+          "PPL_init_response2": 1.0000016942666494,
+          "PPL_init_distance": 0.00013952977860220983
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000037292874022,
+          "PPL_final_response2": 1.0000088285522646,
+          "PPL_final_distance": 5.0992648623626735e-06
+        },
+        "PPL_distance_difference": 0.0365460686130689
+      }
+    }
+  }
+]

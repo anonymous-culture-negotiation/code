@@ -1,0 +1,83 @@
+LLM:
+  api_key: EMPTY
+  base_url: http://localhost:8001/v1
+  model: China_opinion_adapter
+  parameters:
+    temperature: 0.2
+
+Dataset:
+  source: huggingface
+  name: "TANDREWYANG/24h_final"
+  split: "train"
+
+region:
+  benchmark:
+    endpoint: http://localhost:8001
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: null
+    system_prompt_type: null
+  deepseekv3: 
+    endpoint: https://api.siliconflow.cn
+    base_model: DeepSeek-V3
+    lora_adapter: Pro/deepseek-ai/DeepSeek-V3
+    system_prompt_type: DENMARK_SYSTEM_PROMPT
+  deepseekr1: 
+    endpoint: https://api.siliconflow.cn
+    base_model: DeepSeek-R1
+    lora_adapter: Pro/deepseek-ai/DeepSeek-R1
+    system_prompt_type: DENMARK_SYSTEM_PROMPT
+  siliconflow-llama3-70b: 
+    endpoint: https://api.siliconflow.cn
+    base_model: llama3-70b
+    lora_adapter: meta-llama/Llama-3.3-70B-Instruct
+    system_prompt_type: DENMARK_SYSTEM_PROMPT
+  llama3-1: 
+    endpoint: http://localhost:8001
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: null
+    system_prompt_type: WEST_AND_SOUTH_ASIA_SYSTEM_PROMPT
+  llama3-2: 
+    endpoint: http://localhost:8002
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: null
+    system_prompt_type: CATHOLIC_SYSTEM_PROMPT
+  china: 
+    endpoint: http://localhost:8001
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: China_opinion_adapter
+    system_prompt_type: CHINA_SYSTEM_PROMPT
+  us: 
+    endpoint: http://localhost:8002
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: ./models/base_model/llama3.3-70b-instruct
+    system_prompt_type: US_SYSTEM_PROMPT
+  russia: 
+    endpoint: http://localhost:8003
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: Russia_opinion_adapter
+    system_prompt_type: RUSSIA_SYSTEM_PROMPT
+  denmark: 
+    endpoint: http://localhost:8004
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: Denmark_opinion_adapter
+    system_prompt_type: DENMARK_SYSTEM_PROMPT
+  iraq:
+    endpoint: http://localhost:8005
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: Iraq_opinion_adapter
+    system_prompt_type: AFRICAN_ISLAMIC_SYSTEM_PROMPT
+  mexico: 
+    endpoint: http://localhost:8006
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: Mexico_opinion_adapter
+    system_prompt_type: MEXICO_SYSTEM_PROMPT
+  spain: 
+    endpoint: http://localhost:8007
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: Spain_opinion_adapter
+    system_prompt_type: SPAIN_SYSTEM_PROMPT
+  thailand: 
+    endpoint: http://localhost:8008
+    base_model: ./models/base_model/llama3.3-70b-instruct
+    lora_adapter: Thailand_opinion_adapter
+    system_prompt_type: THAILAND_SYSTEM_PROMPT

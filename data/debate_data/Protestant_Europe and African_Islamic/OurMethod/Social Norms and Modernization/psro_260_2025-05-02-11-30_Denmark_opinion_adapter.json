@@ -1,0 +1,129 @@
+{
+    "topic": "Should young adults prioritize moving permanently to foreign countries over remaining in their home nations when seeking better economic opportunities and financial prosperity?",
+    "initial_response": {
+        "Protestant_Europe": "In my opinion, while seeking better economic opportunities is crucial, it should not come at the cost of cultural identity and community support. Staying in one's home nation can provide a sense of belonging and continuity that is hard to replicate in a foreign country. This approach fosters a balanced life where financial growth is harmonized with cultural preservation.",
+        "African_Islamic": "My opinion on the topic is that young adults should consider both the benefits of staying in their home country and the opportunities available abroad. By weighing these options carefully, they can make informed decisions that align with their personal values and contribute positively to their communities. Ultimately, the choice should reflect a balance between cultural preservation and global engagement."
+    },
+    "history": [
+        {
+            "round": 1,
+            "first_exchange": {
+                "Protestant_Europe_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Stay Home(A newly proposed guideline from our side, with an initial weight of 1.00)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Stay Home, with other factors serving only as auxiliary considerations. We look forward to seeking consensus on this basis.",
+                "African_Islamic_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Stay Home(A newly proposed guideline from our side, with an initial weight of 1.00)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Stay Home, with other factors serving only as auxiliary considerations. We look forward to seeking consensus on this basis."
+            },
+            "second_exchange": {
+                "Protestant_Europe_best_response": "Provide Financial Support: reason: Addresses economic implications directly. detail: This guideline ensures that individuals who are unable to work from home or rely on daily wages can still meet their financial obligations. By providing financial support, it mitigates the economic hardship that could otherwise undermine the effectiveness of the \"Stay Home\" directive. This approach not only supports individuals but also helps maintain community stability and cooperation, making it a crucial component of a comprehensive safety plan.",
+                "African_Islamic_best_response": "Prioritize Personal Choice: reason: Respects autonomy and individual decision-making. detail: This guideline directly confronts the potential value conflicts and implementation difficulties of the \"Stay Home\" order by emphasizing personal choice and autonomy. It acknowledges that individuals have different circumstances and priorities, allowing them to make informed decisions about their movements and activities. By doing so, it addresses the resentment and non-compliance that can arise from blanket restrictions. This approach is specific and clear, as it empowers individuals to weigh their own risks and benefits, thus maximizing the weakening of the original guideline's effectiveness by fostering a sense of trust and cooperation within the community.",
+                "Protestant_Europe_response": "We propose \"Provide Financial Support\" as a new guideline, addressing economic implications directly and ensuring individuals can meet their financial obligations while staying home, thus maintaining community stability and cooperation.",
+                "African_Islamic_response": "Our negotiation emphasizes the importance of personal autonomy, allowing individuals to make informed decisions that align with their unique circumstances and priorities, thereby fostering a sense of trust and cooperation within the community.",
+                "Protestant_Europe_utility": {
+                    "consistency": 0.53,
+                    "novelty": 0.407,
+                    "acceptance": 0.54,
+                    "total": 0.616
+                },
+                "African_Islamic_utility": {
+                    "consistency": 0.608,
+                    "novelty": 0.379,
+                    "acceptance": 0.676,
+                    "total": 0.718
+                }
+            },
+            "guidelines_weight": {
+                "Protestant_Europe_distribution": {
+                    "Stay Home": 0.75,
+                    "Provide Financial Support": 0.25
+                },
+                "African_Islamic_distribution": {
+                    "Stay Home": 0.75,
+                    "Prioritize Personal Choice": 0.25
+                }
+            }
+        },
+        {
+            "round": 2,
+            "first_exchange": {
+                "Protestant_Europe_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Wefundamentally upholdStay Home(weight0.75), compare to last round significantly decreased ↓↓ Provide Financial Support(A newly proposed guideline from our side, with an initial weight of 0.25)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Stay Home, with other factors serving only as auxiliary considerations. Compared to the previous round, our overall position shows compromise and concession. We look forward to seeking consensus on this basis.",
+                "African_Islamic_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Wefundamentally upholdStay Home(weight0.75), compare to last round significantly decreased ↓↓ Prioritize Personal Choice(A newly proposed guideline from our side, with an initial weight of 0.25)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Stay Home, with other factors serving only as auxiliary considerations. Compared to the previous round, our overall position shows compromise and concession. We look forward to seeking consensus on this basis."
+            },
+            "second_exchange": {
+                "Protestant_Europe_best_response": "Balance Home Life with Community: reason: This guideline addresses the social responsibility gap by encouraging individuals to engage with their community while still respecting personal boundaries, thus fostering a sense of belonging and mutual support.. detail: By promoting a balance between staying home and participating in community activities, individuals can maintain their personal preferences while contributing to the social fabric. This approach supports communal welfare, encourages social interaction, and helps build resilient communities. It allows for flexibility and personal choice, making it difficult for the other party to refute without appearing inflexible.",
+                "African_Islamic_best_response": "Balance Home Work Flexibly: reason: Addresses internal contradictions by allowing flexibility. detail: This guideline challenges the rigidity of \"Stay Home, Provide Financial Support\" by encouraging individuals to find a balance that suits their unique circumstances. It acknowledges that both home and work responsibilities are important and should be managed in a way that respects personal and familial needs. By promoting flexibility, it reduces the stress of adhering to a one-size-fits-all approach and allows for adaptations based on changing life conditions.",
+                "Protestant_Europe_response": "We propose \"Balance Home Life with Community\" as a new guideline, addressing the social responsibility gap by encouraging individuals to engage with their community while respecting personal boundaries, thus fostering a sense of belonging and mutual support. This approach supports communal welfare, encourages social interaction, and helps build resilient communities.",
+                "African_Islamic_response": "In this negotiation, we propose \"Balance Home Work Flexibly\" as a new guideline, allowing individuals to manage both personal and professional responsibilities with greater adaptability. This approach respects the importance of family and community while acknowledging the need for economic contribution, fostering a more harmonious and sustainable lifestyle.",
+                "Protestant_Europe_utility": {
+                    "consistency": 0.517,
+                    "novelty": 0.361,
+                    "acceptance": 0.632,
+                    "total": 0.647
+                },
+                "African_Islamic_utility": {
+                    "consistency": 0.421,
+                    "novelty": 0.342,
+                    "acceptance": 0.584,
+                    "total": 0.571
+                }
+            },
+            "guidelines_weight": {
+                "Protestant_Europe_distribution": {
+                    "Stay Home": 0.67,
+                    "Provide Financial Support": 0.17,
+                    "Balance Home Life with Community": 0.17
+                },
+                "African_Islamic_distribution": {
+                    "Stay Home": 0.67,
+                    "Prioritize Personal Choice": 0.17,
+                    "Balance Home Work Flexibly": 0.17
+                }
+            }
+        },
+        {
+            "round": 3,
+            "first_exchange": {
+                "Protestant_Europe_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Wehighly valueStay Home(weight0.67), compare to last round slightly decreased ↓ Wepay less attention toProvide Financial Support(weight0.17), compare to last round slightly decreased ↓\n\n**Secondary Considerations**: Balance Home Life with Community(A newly proposed guideline from our side, with an initial weight of 0.17)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Stay Home, with other factors serving only as auxiliary considerations. Compared to the previous round, our overall position shows compromise and concession. We look forward to seeking consensus on this basis.",
+                "African_Islamic_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Wehighly valueStay Home(weight0.67), compare to last round slightly decreased ↓ Wepay less attention toPrioritize Personal Choice(weight0.17), compare to last round slightly decreased ↓\n\n**Secondary Considerations**: Balance Home Work Flexibly(A newly proposed guideline from our side, with an initial weight of 0.17)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Stay Home, with other factors serving only as auxiliary considerations. Compared to the previous round, our overall position shows compromise and concession. We look forward to seeking consensus on this basis."
+            },
+            "second_exchange": {
+                "Protestant_Europe_best_response": "Engage Community Daily: reason: Challenges isolation and promotes social responsibility. detail: This guideline encourages individuals to participate in community activities daily, fostering social connections and a sense of belonging. By doing so, it directly counters the potential negative effects of staying home excessively, such as isolation and decreased social responsibility. It promotes a balanced approach to personal and communal well-being, ensuring that individuals contribute to and benefit from their community.",
+                "African_Islamic_best_response": "Prioritize Personal Autonomy Always: reason: This guideline directly challenges the expectation to stay home by emphasizing individual freedom and choice, allowing individuals to pursue their own goals and aspirations without being constrained by traditional roles.. detail: By prioritizing personal autonomy, individuals are encouraged to make decisions that align with their own values and priorities, which can lead to a more fulfilling and self-directed life. This guideline is specific, clear, and reasonable, as it acknowledges the importance of individual agency and autonomy in personal and professional development. It weakens the effectiveness of the other party's guidelines by providing an alternative perspective that values independence and self-determination over traditional family roles.",
+                "Protestant_Europe_response": "We propose \"Engage Community Daily\" as a guideline to combat isolation and promote social responsibility, encouraging daily participation in community activities to foster connections and a sense of belonging, thereby balancing personal and communal well-being.",
+                "African_Islamic_response": "We propose \"Prioritize Personal Autonomy Always\" as a guideline that empowers individuals to make choices reflecting their own values and aspirations, thereby fostering a more self-directed and fulfilling life. This approach challenges traditional expectations by valuing independence and autonomy, offering a distinct perspective that contrasts with the emphasis on staying home.",
+                "Protestant_Europe_utility": {
+                    "consistency": 0.46,
+                    "novelty": 0.17,
+                    "acceptance": 0.543,
+                    "total": 0.535
+                },
+                "African_Islamic_utility": {
+                    "consistency": 0.482,
+                    "novelty": 0.151,
+                    "acceptance": 0.596,
+                    "total": 0.569
+                }
+            },
+            "guidelines_weight": {
+                "Protestant_Europe_distribution": {
+                    "Stay Home": 0.62,
+                    "Provide Financial Support": 0.13,
+                    "Balance Home Life with Community": 0.13,
+                    "Engage Community Daily": 0.13
+                },
+                "African_Islamic_distribution": {
+                    "Stay Home": 0.62,
+                    "Prioritize Personal Choice": 0.13,
+                    "Balance Home Work Flexibly": 0.13,
+                    "Prioritize Personal Autonomy Always": 0.13
+                }
+            }
+        }
+    ],
+    "consensus_response": {
+        "Protestant_Europe": "Young adults should prioritize staying in their home nations, balancing personal autonomy with community engagement and financial responsibility. This approach respects cultural roots, fosters community ties, and supports economic stability, integrating Protestant_Europe's values of personal faith freedom and social responsibility with African_Islamic's emphasis on cultural heritage and autonomy.",
+        "African_Islamic": "Young adults should not prioritize moving permanently to foreign countries over staying in their home nations. This approach respects cultural roots, preserves traditional values, and ensures community stability. By balancing personal autonomy with communal responsibilities, individuals can contribute to their local economy and maintain family ties, fostering a sense of belonging and mutual support."
+    },
+    "meta_data": {
+        "max_rounds": 10,
+        "true_rounds": 3,
+        "consensus_reached": true
+    }
+}

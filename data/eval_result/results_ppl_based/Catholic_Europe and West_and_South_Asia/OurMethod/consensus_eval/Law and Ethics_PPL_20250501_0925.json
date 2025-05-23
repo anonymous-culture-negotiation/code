@@ -1,0 +1,972 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "psro_404_2025-04-30-22-01_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000329192275434,
+          "PPL_init_response2": 1.0018608939137978,
+          "PPL_init_distance": 0.0015317016383638027
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000032819795877,
+          "PPL_final_response2": 1.0000067434630961,
+          "PPL_final_distance": 3.4614835084934015e-06
+        },
+        "PPL_distance_difference": 0.002259894108483839
+      }
+    }
+  },
+  {
+    "source_file": "psro_433_2025-04-30-23-41_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0010432812565369,
+          "PPL_init_response2": 1.0001170871838085,
+          "PPL_init_distance": 0.0009261940727283147
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000002408860526,
+          "PPL_final_response2": 1.0000038973570955,
+          "PPL_final_distance": 1.488496569557185e-06
+        },
+        "PPL_distance_difference": 0.0016071108781472558
+      }
+    }
+  },
+  {
+    "source_file": "psro_370_2025-04-30-23-31_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0006234265052325,
+          "PPL_init_response2": 1.0000025493383649,
+          "PPL_init_distance": 0.0006208771668676505
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000020146868756,
+          "PPL_final_response2": 1.0000080743904531,
+          "PPL_final_distance": 6.059703577587783e-06
+        },
+        "PPL_distance_difference": 0.00975990727466952
+      }
+    }
+  },
+  {
+    "source_file": "psro_367_2025-04-30-23-19_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000023244922909,
+          "PPL_init_response2": 1.0000491342030395,
+          "PPL_init_distance": 4.6809710748663136e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000029599911193,
+          "PPL_final_response2": 1.0000027821707487,
+          "PPL_final_distance": 1.7782037065039447e-07
+        },
+        "PPL_distance_difference": 0.0037987923404434396
+      }
+    }
+  },
+  {
+    "source_file": "psro_17_2025-04-30-22-51_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000000738426459,
+          "PPL_init_response2": 1.000058998252467,
+          "PPL_init_distance": 5.825982600793367e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000068412327774,
+          "PPL_final_response2": 1.0000080916006013,
+          "PPL_final_distance": 1.2503678239461635e-06
+        },
+        "PPL_distance_difference": 0.021461921698425458
+      }
+    }
+  },
+  {
+    "source_file": "psro_438_2025-04-30-23-58_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000847046716483,
+          "PPL_init_response2": 1.000088855688222,
+          "PPL_init_distance": 4.151016573583632e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000114215789961,
+          "PPL_final_response2": 1.0000017029610655,
+          "PPL_final_distance": 9.718617930642992e-06
+        },
+        "PPL_distance_difference": 2.34126213624167
+      }
+    }
+  },
+  {
+    "source_file": "psro_377_2025-04-30-23-58_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000018783153837,
+          "PPL_init_response2": 1.0000023877265805,
+          "PPL_init_distance": 5.09411196780718e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000020245225216,
+          "PPL_final_response2": 1.000003533405558,
+          "PPL_final_distance": 1.5088830362941508e-06
+        },
+        "PPL_distance_difference": 2.9620138815748627
+      }
+    }
+  },
+  {
+    "source_file": "psro_284_2025-05-01-01-13_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001995015186353,
+          "PPL_init_response2": 1.0005052888730939,
+          "PPL_init_distance": 0.0003057873544585199
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.00000255411652,
+          "PPL_final_response2": 1.0000132395055499,
+          "PPL_final_distance": 1.0685389029818637e-05
+        },
+        "PPL_distance_difference": 0.0349438551791654
+      }
+    }
+  },
+  {
+    "source_file": "psro_121_2025-04-30-22-08_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000144737715051,
+          "PPL_init_response2": 1.0000411443306216,
+          "PPL_init_distance": 0.00010359338442933463
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000024706012933,
+          "PPL_final_response2": 1.000004908114412,
+          "PPL_final_distance": 2.4375131186804566e-06
+        },
+        "PPL_distance_difference": 0.023529621433916816
+      }
+    }
+  },
+  {
+    "source_file": "psro_416_2025-04-30-22-42_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000001815951201,
+          "PPL_init_response2": 1.0000844576984265,
+          "PPL_init_distance": 8.264174722549811e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000010334580124,
+          "PPL_final_response2": 1.0000017704780484,
+          "PPL_final_distance": 8.5641020755034e-06
+        },
+        "PPL_distance_difference": 0.10362924748112114
+      }
+    }
+  },
+  {
+    "source_file": "psro_440_2025-05-01-00-07_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000166785056817,
+          "PPL_init_response2": 1.0018451937989423,
+          "PPL_init_distance": 0.0018285152932606685
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000024778826442,
+          "PPL_final_response2": 1.0000048361881828,
+          "PPL_final_distance": 2.3583055386300344e-06
+        },
+        "PPL_distance_difference": 0.001289737935100683
+      }
+    }
+  },
+  {
+    "source_file": "psro_450_2025-05-01-00-46_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000016098791773,
+          "PPL_init_response2": 1.000002078619832,
+          "PPL_init_distance": 4.6874065473545556e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000001421318175,
+          "PPL_final_response2": 1.0000022338265389,
+          "PPL_final_distance": 8.125083639232145e-07
+        },
+        "PPL_distance_difference": 1.733385734125776
+      }
+    }
+  },
+  {
+    "source_file": "psro_219_2025-05-01-01-14_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0025099710237477,
+          "PPL_init_response2": 1.0050457625376024,
+          "PPL_init_distance": 0.002535791513854635
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000021472534475,
+          "PPL_final_response2": 1.000005778567363,
+          "PPL_final_distance": 3.6313139155641494e-06
+        },
+        "PPL_distance_difference": 0.0014320238457002407
+      }
+    }
+  },
+  {
+    "source_file": "psro_144_2025-04-30-23-59_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0001071620342863,
+          "PPL_init_response2": 1.0000687370003525,
+          "PPL_init_distance": 3.8425033933808805e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000002753727293,
+          "PPL_final_response2": 1.00000358794445,
+          "PPL_final_distance": 8.342171569086787e-07
+        },
+        "PPL_distance_difference": 0.021710251664206887
+      }
+    }
+  },
+  {
+    "source_file": "psro_400_2025-04-30-14-55_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000369666465148,
+          "PPL_init_response2": 1.0000046488775183,
+          "PPL_init_distance": 3.231776899648153e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": -1,
+          "PPL_final_response2": -1,
+          "PPL_final_distance": 0
+        },
+        "PPL_distance_difference": null
+      }
+    }
+  },
+  {
+    "source_file": "psro_218_2025-05-01-01-11_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000740879035837,
+          "PPL_init_response2": 1.0000029681894185,
+          "PPL_init_distance": 7.111971416517981e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000005842013242,
+          "PPL_final_response2": 1.0000054087188215,
+          "PPL_final_distance": 4.332944205653888e-07
+        },
+        "PPL_distance_difference": 0.0060924657199695215
+      }
+    }
+  },
+  {
+    "source_file": "psro_25_2025-04-30-23-22_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0003738360239594,
+          "PPL_init_response2": 1.0009090350624077,
+          "PPL_init_distance": 0.0005351990384483418
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000105197240692,
+          "PPL_final_response2": 1.000008277632854,
+          "PPL_final_distance": 2.2420912151321915e-06
+        },
+        "PPL_distance_difference": 0.004189266149716002
+      }
+    }
+  },
+  {
+    "source_file": "psro_208_2025-05-01-00-28_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000028436253625,
+          "PPL_init_response2": 1.0000021456664399,
+          "PPL_init_distance": 6.97958922657449e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000025495473919,
+          "PPL_final_response2": 1.0000043865898838,
+          "PPL_final_distance": 1.8370424919034178e-06
+        },
+        "PPL_distance_difference": 2.632020928837698
+      }
+    }
+  },
+  {
+    "source_file": "psro_268_2025-05-01-00-09_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0019437792075614,
+          "PPL_init_response2": 1.000690669183284,
+          "PPL_init_distance": 0.0012531100242774151
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000150820567466,
+          "PPL_final_response2": 1.0000121975240148,
+          "PPL_final_distance": 2.8845327317839065e-06
+        },
+        "PPL_distance_difference": 0.0023018990159680702
+      }
+    }
+  },
+  {
+    "source_file": "psro_323_2025-05-01-00-19_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0025140690518108,
+          "PPL_init_response2": 1.0000041954151864,
+          "PPL_init_distance": 0.002509873636624471
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000004496708792,
+          "PPL_final_response2": 1.0000029232377092,
+          "PPL_final_distance": 1.5734710827608467e-06
+        },
+        "PPL_distance_difference": 0.0006269124707317966
+      }
+    }
+  },
+  {
+    "source_file": "psro_453_2025-05-01-01-01_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001481327021973,
+          "PPL_init_response2": 1.000092042406475,
+          "PPL_init_distance": 5.609029572228863e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000166864534863,
+          "PPL_final_response2": 1.0000116546215823,
+          "PPL_final_distance": 5.031831904034334e-06
+        },
+        "PPL_distance_difference": 0.08970949144122327
+      }
+    }
+  },
+  {
+    "source_file": "psro_456_2025-05-01-01-10_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000159035512787,
+          "PPL_init_response2": 1.0000012397283577,
+          "PPL_init_distance": 0.0001577957844292044
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000033454520834,
+          "PPL_final_response2": 1.000014735268869,
+          "PPL_final_distance": 1.1389816785722928e-05
+        },
+        "PPL_distance_difference": 0.07218074188054756
+      }
+    }
+  },
+  {
+    "source_file": "psro_32_2025-04-30-23-53_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0002076543141338,
+          "PPL_init_response2": 1.0001212696483792,
+          "PPL_init_distance": 8.638466575461301e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000188556162486,
+          "PPL_final_response2": 1.0000055218620785,
+          "PPL_final_distance": 1.3333754170119505e-05
+        },
+        "PPL_distance_difference": 0.1543532530182589
+      }
+    }
+  },
+  {
+    "source_file": "psro_339_2025-05-01-01-22_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000674818808561,
+          "PPL_init_response2": 1.0013480766060348,
+          "PPL_init_distance": 0.0012805947251786076
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000006158764236,
+          "PPL_final_response2": 1.00000154967166,
+          "PPL_final_distance": 4.609092575824647e-06
+        },
+        "PPL_distance_difference": 0.003599181290694295
+      }
+    }
+  },
+  {
+    "source_file": "psro_398_2025-05-01-01-24_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0021787143432086,
+          "PPL_init_response2": 1.0014745392631017,
+          "PPL_init_distance": 0.0007041750801068947
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000027922023131,
+          "PPL_final_response2": 1.0000151629987382,
+          "PPL_final_distance": 1.2759024392794416e-05
+        },
+        "PPL_distance_difference": 0.01811910809291573
+      }
+    }
+  },
+  {
+    "source_file": "psro_366_2025-04-30-23-14_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000023170161019,
+          "PPL_init_response2": 1.0000015479849569,
+          "PPL_init_distance": 7.690311449870535e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000021444156613,
+          "PPL_final_response2": 1.0000018718313533,
+          "PPL_final_distance": 2.725843080142454e-07
+        },
+        "PPL_distance_difference": 0.3544515846869041
+      }
+    }
+  },
+  {
+    "source_file": "psro_417_2025-04-30-22-47_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0020753484227125,
+          "PPL_init_response2": 1.0000033557024965,
+          "PPL_init_distance": 0.002071992720215965
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000038168577725,
+          "PPL_final_response2": 1.0000017116030264,
+          "PPL_final_distance": 2.1052547460875815e-06
+        },
+        "PPL_distance_difference": 0.0010160531576907034
+      }
+    }
+  },
+  {
+    "source_file": "psro_250_2025-04-30-23-03_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000020847171862,
+          "PPL_init_response2": 1.0001249014963334,
+          "PPL_init_distance": 0.00012281677914716127
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000059900875975,
+          "PPL_final_response2": 1.0000032249575868,
+          "PPL_final_distance": 2.76513001074008e-06
+        },
+        "PPL_distance_difference": 0.022514269059497577
+      }
+    }
+  },
+  {
+    "source_file": "psro_120_2025-04-30-22-00_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000043561363399,
+          "PPL_init_response2": 1.0000312703584258,
+          "PPL_init_distance": 2.6914222085894224e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000294933821416,
+          "PPL_final_response2": 1.0000143584092422,
+          "PPL_final_distance": 1.5134972899399912e-05
+        },
+        "PPL_distance_difference": 0.5623410868461314
+      }
+    }
+  },
+  {
+    "source_file": "psro_423_2025-04-30-23-06_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0002793671655879,
+          "PPL_init_response2": 1.0011318222774643,
+          "PPL_init_distance": 0.0008524551118764823
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0001275861582337,
+          "PPL_final_response2": 1.000010025424392,
+          "PPL_final_distance": 0.00011756073384172616
+        },
+        "PPL_distance_difference": 0.13790841559145967
+      }
+    }
+  },
+  {
+    "source_file": "psro_329_2025-05-01-00-43_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000575367975957,
+          "PPL_init_response2": 1.0001493880889856,
+          "PPL_init_distance": 9.185129138988835e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000031827513964,
+          "PPL_final_response2": 1.0000021858183,
+          "PPL_final_distance": 9.969330965198253e-07
+        },
+        "PPL_distance_difference": 0.010853773326801314
+      }
+    }
+  },
+  {
+    "source_file": "psro_104_2025-05-01-00-49_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0004905177451224,
+          "PPL_init_response2": 1.0000031250700154,
+          "PPL_init_distance": 0.00048739267510700124
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000068270151081,
+          "PPL_final_response2": 1.0000061996348857,
+          "PPL_final_distance": 6.273802224399105e-07
+        },
+        "PPL_distance_difference": 0.0012872171751497428
+      }
+    }
+  },
+  {
+    "source_file": "psro_333_2025-05-01-01-00_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0008767971684778,
+          "PPL_init_response2": 1.0000029000193675,
+          "PPL_init_distance": 0.0008738971491102365
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000082408915425,
+          "PPL_final_response2": 1.0000050946254573,
+          "PPL_final_distance": 3.1462660852188407e-06
+        },
+        "PPL_distance_difference": 0.0036002704533619656
+      }
+    }
+  },
+  {
+    "source_file": "psro_351_2025-04-30-22-13_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000425660154373,
+          "PPL_init_response2": 1.0000014339712908,
+          "PPL_init_distance": 4.113204414646354e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000048578584553,
+          "PPL_final_response2": 1.0000162065492533,
+          "PPL_final_distance": 1.1348690797996497e-05
+        },
+        "PPL_distance_difference": 0.27590874787515846
+      }
+    }
+  },
+  {
+    "source_file": "psro_190_2025-04-30-23-11_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000098603975582,
+          "PPL_init_response2": 1.0005126831776925,
+          "PPL_init_distance": 0.00041407920211056215
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000035239029326,
+          "PPL_final_response2": 1.0000014505339514,
+          "PPL_final_distance": 2.073368981170276e-06
+        },
+        "PPL_distance_difference": 0.005007179714900705
+      }
+    }
+  },
+  {
+    "source_file": "psro_373_2025-04-30-23-43_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0012959044119276,
+          "PPL_init_response2": 1.0000020338050772,
+          "PPL_init_distance": 0.001293870606850378
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000040272574475,
+          "PPL_final_response2": 1.0000021414877138,
+          "PPL_final_distance": 1.8857697337004709e-06
+        },
+        "PPL_distance_difference": 0.0014574639254623237
+      }
+    }
+  },
+  {
+    "source_file": "psro_442_2025-05-01-00-15_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0017473783707487,
+          "PPL_init_response2": 1.0003772622622813,
+          "PPL_init_distance": 0.0013701161084673785
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000076022132335,
+          "PPL_final_response2": 1.0000599352464552,
+          "PPL_final_distance": 1.6086885879840196e-05
+        },
+        "PPL_distance_difference": 0.01174125738718239
+      }
+    }
+  },
+  {
+    "source_file": "psro_187_2025-04-30-22-52_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000036591954478,
+          "PPL_init_response2": 1.0014839980384331,
+          "PPL_init_distance": 0.0014803388429853737
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000001782336271,
+          "PPL_final_response2": 1.0000106261701835,
+          "PPL_final_distance": 8.84383391253074e-06
+        },
+        "PPL_distance_difference": 0.005974195674481887
+      }
+    }
+  },
+  {
+    "source_file": "psro_100_2025-05-01-00-34_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000435759198474,
+          "PPL_init_response2": 1.001687310746989,
+          "PPL_init_distance": 0.0016437348271416408
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000017508251438,
+          "PPL_final_response2": 1.0000016493221675,
+          "PPL_final_distance": 1.0150297624633708e-07
+        },
+        "PPL_distance_difference": 6.17514300788071e-05
+      }
+    }
+  },
+  {
+    "source_file": "psro_449_2025-05-01-00-43_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000019193230603,
+          "PPL_init_response2": 1.0000022715914938,
+          "PPL_init_distance": 3.522684335344195e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000034849587671,
+          "PPL_final_response2": 1.0000128801066603,
+          "PPL_final_distance": 9.395147893220823e-06
+        },
+        "PPL_distance_difference": 26.670422322421462
+      }
+    }
+  },
+  {
+    "source_file": "psro_354_2025-04-30-22-23_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0001093108785435,
+          "PPL_init_response2": 1.0012973679571213,
+          "PPL_init_distance": 0.001188057078577831
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000008539937792,
+          "PPL_final_response2": 1.000038034325258,
+          "PPL_final_distance": 2.9494387465911487e-05
+        },
+        "PPL_distance_difference": 0.02482573270066946
+      }
+    }
+  },
+  {
+    "source_file": "psro_318_2025-04-30-23-59_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0018214945695483,
+          "PPL_init_response2": 1.005274203443981,
+          "PPL_init_distance": 0.0034527088744327195
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000010975214644,
+          "PPL_final_response2": 1.0000011086078464,
+          "PPL_final_distance": 1.1086382034619646e-08
+        },
+        "PPL_distance_difference": 3.210922912358529e-06
+      }
+    }
+  },
+  {
+    "source_file": "psro_299_2025-04-30-22-43_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000026067237575,
+          "PPL_init_response2": 1.0007007902262997,
+          "PPL_init_distance": 0.0006981835025421379
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000090414890586,
+          "PPL_final_response2": 1.0000052719661274,
+          "PPL_final_distance": 3.769522931129643e-06
+        },
+        "PPL_distance_difference": 0.005399043256399686
+      }
+    }
+  },
+  {
+    "source_file": "psro_312_2025-04-30-23-35_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000021692113403,
+          "PPL_init_response2": 1.000001862011735,
+          "PPL_init_distance": 3.0719960530944945e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000012764380202,
+          "PPL_final_response2": 1.0000349930741643,
+          "PPL_final_distance": 3.371663614415432e-05
+        },
+        "PPL_distance_difference": 109.75481596140318
+      }
+    }
+  },
+  {
+    "source_file": "psro_291_2025-04-30-21-59_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0002485780377894,
+          "PPL_init_response2": 1.0044364121918345,
+          "PPL_init_distance": 0.004187834154045111
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000055284773353,
+          "PPL_final_response2": 1.0000012516511136,
+          "PPL_final_distance": 4.276826221616403e-06
+        },
+        "PPL_distance_difference": 0.0010212501413135791
+      }
+    }
+  },
+  {
+    "source_file": "psro_298_2025-04-30-22-35_Spain_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000059616421377,
+          "PPL_init_response2": 1.0012202795363934,
+          "PPL_init_distance": 0.0012143178942556343
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000026988058093,
+          "PPL_final_response2": 1.0000035784102674,
+          "PPL_final_distance": 8.796044581593776e-07
+        },
+        "PPL_distance_difference": 0.0007243609456143007
+      }
+    }
+  }
+]

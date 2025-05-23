@@ -1,0 +1,2673 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "debate_3_2025-05-01-01-58.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000024542768846,
+          "PPL_init_response2": 1.0000037991744364,
+          "PPL_init_distance": 1.344897551769364e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000007212143731,
+          "PPL_final_response2": 1.0000077012094082,
+          "PPL_final_distance": 4.890656772893465e-07
+        },
+        "PPL_distance_difference": 0.3636453026819222
+      }
+    }
+  },
+  {
+    "source_file": "debate_241_2025-05-01-02-04.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000076137173095,
+          "PPL_init_response2": 1.0000033190350643,
+          "PPL_init_distance": 4.294682245165049e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000052019022903,
+          "PPL_final_response2": 1.0000026759021254,
+          "PPL_final_distance": 2.5260001648153008e-06
+        },
+        "PPL_distance_difference": 0.5881692801974047
+      }
+    }
+  },
+  {
+    "source_file": "debate_41_2025-05-01-02-17.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000020717931268,
+          "PPL_init_response2": 1.0000038555094033,
+          "PPL_init_distance": 1.7837162764600123e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000007986346565,
+          "PPL_final_response2": 1.0000112839428512,
+          "PPL_final_distance": 3.2975962862558106e-06
+        },
+        "PPL_distance_difference": 1.8487224284347874
+      }
+    }
+  },
+  {
+    "source_file": "debate_227_2025-05-01-02-25.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000015476875492,
+          "PPL_init_response2": 1.0000034242671094,
+          "PPL_init_distance": 1.8765795601893842e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000067216924946,
+          "PPL_final_response2": 1.0000195379111716,
+          "PPL_final_distance": 1.2816218676992008e-05
+        },
+        "PPL_distance_difference": 6.829563184466635
+      }
+    }
+  },
+  {
+    "source_file": "debate_289_2025-05-01-01-59.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000005539453257,
+          "PPL_init_response2": 1.000005112901832,
+          "PPL_init_distance": 4.265514250700875e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000027993010332,
+          "PPL_final_response2": 1.0000018327291724,
+          "PPL_final_distance": 9.66571860772092e-07
+        },
+        "PPL_distance_difference": 2.2660148436106446
+      }
+    }
+  },
+  {
+    "source_file": "debate_140_2025-05-01-02-09.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000022432165319,
+          "PPL_init_response2": 1.00000126557478,
+          "PPL_init_distance": 9.776417517759484e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000009550376714,
+          "PPL_final_response2": 1.0000087464421867,
+          "PPL_final_distance": 7.79140451534488e-06
+        },
+        "PPL_distance_difference": 7.969590600228865
+      }
+    }
+  },
+  {
+    "source_file": "debate_317_2025-05-01-02-13.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000002488965244,
+          "PPL_init_response2": 1.0000027817393122,
+          "PPL_init_distance": 2.927740683222879e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000099280020087,
+          "PPL_final_response2": 1.0000078380473905,
+          "PPL_final_distance": 2.089954618256229e-06
+        },
+        "PPL_distance_difference": 7.13845536331992
+      }
+    }
+  },
+  {
+    "source_file": "debate_160_2025-05-01-02-19.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0006973599587732,
+          "PPL_init_response2": 1.000001361933787,
+          "PPL_init_distance": 0.0006959980249860998
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000009406358764,
+          "PPL_final_response2": 1.0000022733680933,
+          "PPL_final_distance": 7.132990670566386e-06
+        },
+        "PPL_distance_difference": 0.01024857889605196
+      }
+    }
+  },
+  {
+    "source_file": "debate_302_2025-05-01-02-05.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000015755453378,
+          "PPL_init_response2": 1.000039557178367,
+          "PPL_init_distance": 3.7981633029149364e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000022458568094,
+          "PPL_final_response2": 1.0000026236915425,
+          "PPL_final_distance": 3.7783473305630366e-07
+        },
+        "PPL_distance_difference": 0.009947827487204956
+      }
+    }
+  },
+  {
+    "source_file": "debate_245_2025-05-01-02-06.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000026386789664,
+          "PPL_init_response2": 1.0000019074360404,
+          "PPL_init_distance": 7.312429259886954e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000110059918965,
+          "PPL_final_response2": 1.0000023126876485,
+          "PPL_final_distance": 8.693304248019729e-06
+        },
+        "PPL_distance_difference": 11.888394320212708
+      }
+    }
+  },
+  {
+    "source_file": "debate_204_2025-05-01-02-14.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000043280316349,
+          "PPL_init_response2": 1.000001288039901,
+          "PPL_init_distance": 3.039991733899683e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000029908078711,
+          "PPL_final_response2": 1.0000007343574908,
+          "PPL_final_distance": 2.2564503803224056e-06
+        },
+        "PPL_distance_difference": 0.7422554328553534
+      }
+    }
+  },
+  {
+    "source_file": "debate_206_2025-05-01-02-15.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0007202057259752,
+          "PPL_init_response2": 1.000004690809594,
+          "PPL_init_distance": 0.0007155149163811103
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000094926905136,
+          "PPL_final_response2": 1.0000064131304593,
+          "PPL_final_distance": 3.0795600542976587e-06
+        },
+        "PPL_distance_difference": 0.004303977434702938
+      }
+    }
+  },
+  {
+    "source_file": "debate_321_2025-05-01-02-15.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000008597205534,
+          "PPL_init_response2": 1.000001617666588,
+          "PPL_init_distance": 7.579460346018863e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000013867517348,
+          "PPL_final_response2": 1.0000034613237203,
+          "PPL_final_distance": 2.074571985533069e-06
+        },
+        "PPL_distance_difference": 2.7370972217339262
+      }
+    }
+  },
+  {
+    "source_file": "debate_169_2025-05-01-02-24.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000002472993881,
+          "PPL_init_response2": 1.0000039662408036,
+          "PPL_init_distance": 1.4932469225570344e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000007600887902,
+          "PPL_final_response2": 1.0000099745648698,
+          "PPL_final_distance": 2.3736769678706082e-06
+        },
+        "PPL_distance_difference": 1.5896078083361633
+      }
+    }
+  },
+  {
+    "source_file": "debate_244_2025-05-01-02-05.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000024158836764,
+          "PPL_init_response2": 1.0000044389043723,
+          "PPL_init_distance": 2.023020695851585e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000210085588699,
+          "PPL_final_response2": 1.0000049172840193,
+          "PPL_final_distance": 1.6091274850582593e-05
+        },
+        "PPL_distance_difference": 7.954083160681169
+      }
+    }
+  },
+  {
+    "source_file": "debate_101_2025-05-01-02-20.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000044104592292,
+          "PPL_init_response2": 1.0000021825730052,
+          "PPL_init_distance": 2.2278862239488717e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000067285353902,
+          "PPL_final_response2": 1.0000057404092333,
+          "PPL_final_distance": 9.881261568978061e-07
+        },
+        "PPL_distance_difference": 0.4435263103994501
+      }
+    }
+  },
+  {
+    "source_file": "debate_165_2025-05-01-02-22.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000061033638459,
+          "PPL_init_response2": 1.0000077357360972,
+          "PPL_init_distance": 1.632372251370029e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000012218422982,
+          "PPL_final_response2": 1.0000005087825847,
+          "PPL_final_distance": 7.130597134974437e-07
+        },
+        "PPL_distance_difference": 0.43682420654907717
+      }
+    }
+  },
+  {
+    "source_file": "debate_182_2025-05-01-02-02.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000014753310875,
+          "PPL_init_response2": 1.000003028167811,
+          "PPL_init_distance": 1.5528367234285412e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000010344782224,
+          "PPL_final_response2": 1.000001494520692,
+          "PPL_final_distance": 4.600424696743488e-07
+        },
+        "PPL_distance_difference": 0.2962593959386865
+      }
+    }
+  },
+  {
+    "source_file": "debate_18_2025-05-01-02-06.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000016702220007,
+          "PPL_init_response2": 1.000002438563117,
+          "PPL_init_distance": 7.683411162862086e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000017765623501,
+          "PPL_final_response2": 1.0000021059364292,
+          "PPL_final_distance": 3.2937407912214667e-07
+        },
+        "PPL_distance_difference": 0.4286820946328924
+      }
+    }
+  },
+  {
+    "source_file": "debate_306_2025-05-01-02-07.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000013029211428,
+          "PPL_init_response2": 1.0000025901075509,
+          "PPL_init_distance": 1.2871864081276385e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000058104565221,
+          "PPL_final_response2": 1.0000050995021903,
+          "PPL_final_distance": 7.109543318506439e-07
+        },
+        "PPL_distance_difference": 0.5523320688918781
+      }
+    }
+  },
+  {
+    "source_file": "debate_143_2025-05-01-02-11.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0009072124171727,
+          "PPL_init_response2": 1.001054143845636,
+          "PPL_init_distance": 0.00014693142846322615
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000052523290182,
+          "PPL_final_response2": 1.0000100352207961,
+          "PPL_final_distance": 4.782891777965759e-06
+        },
+        "PPL_distance_difference": 0.032551863328292734
+      }
+    }
+  },
+  {
+    "source_file": "debate_47_2025-05-01-02-21.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000038613712503,
+          "PPL_init_response2": 1.0000054881367288,
+          "PPL_init_distance": 1.6267654785462327e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000056557534205,
+          "PPL_final_response2": 1.000006107903496,
+          "PPL_final_distance": 4.521500756027308e-07
+        },
+        "PPL_distance_difference": 0.27794422832650534
+      }
+    }
+  },
+  {
+    "source_file": "debate_56_2025-05-01-02-26.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000061637302766,
+          "PPL_init_response2": 1.000002374124374,
+          "PPL_init_distance": 3.7896059026376605e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000018265319894,
+          "PPL_final_response2": 1.0000012576744395,
+          "PPL_final_distance": 5.688575499540605e-07
+        },
+        "PPL_distance_difference": 0.15010994931112
+      }
+    }
+  },
+  {
+    "source_file": "debate_147_2025-05-01-02-13.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000047613879293,
+          "PPL_init_response2": 1.0000020015191393,
+          "PPL_init_distance": 2.759868789947717e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000026655467194,
+          "PPL_final_response2": 1.0000011965950617,
+          "PPL_final_distance": 2.5458872132233523e-05
+        },
+        "PPL_distance_difference": 9.224667572952196
+      }
+    }
+  },
+  {
+    "source_file": "debate_71_2025-05-01-02-04.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000001610051619,
+          "PPL_init_response2": 1.0000032883402454,
+          "PPL_init_distance": 1.678288626516533e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.00000308953801,
+          "PPL_final_response2": 1.0000030819604553,
+          "PPL_final_distance": 7.577554805848763e-09
+        },
+        "PPL_distance_difference": 0.004515048654996123
+      }
+    }
+  },
+  {
+    "source_file": "debate_27_2025-05-01-02-10.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000018725592397,
+          "PPL_init_response2": 1.000001819482329,
+          "PPL_init_distance": 5.307691064437847e-08
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000042977452195,
+          "PPL_final_response2": 1.0000028823257932,
+          "PPL_final_distance": 1.41541942633161e-06
+        },
+        "PPL_distance_difference": 26.667328771545996
+      }
+    }
+  },
+  {
+    "source_file": "debate_49_2025-05-01-02-22.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000015943303697,
+          "PPL_init_response2": 1.0000036884561936,
+          "PPL_init_distance": 2.094125823859372e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000053260513717,
+          "PPL_final_response2": 1.0000016775033702,
+          "PPL_final_distance": 3.6485480015002736e-06
+        },
+        "PPL_distance_difference": 1.7422773550331265
+      }
+    }
+  },
+  {
+    "source_file": "debate_4_2025-05-01-01-59.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000022631957541,
+          "PPL_init_response2": 1.0000028002057908,
+          "PPL_init_distance": 5.370100366608455e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000009579742983,
+          "PPL_final_response2": 1.0000049065799321,
+          "PPL_final_distance": 4.673163050972207e-06
+        },
+        "PPL_distance_difference": 8.702189404187232
+      }
+    }
+  },
+  {
+    "source_file": "debate_133_2025-05-01-02-06.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000017055427346,
+          "PPL_init_response2": 1.0000014520155143,
+          "PPL_init_distance": 2.5352722032856434e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000111159825253,
+          "PPL_final_response2": 1.0000166815167095,
+          "PPL_final_distance": 5.565534184182042e-06
+        },
+        "PPL_distance_difference": 21.95241275066741
+      }
+    }
+  },
+  {
+    "source_file": "debate_116_2025-05-01-01-58.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000025751143205,
+          "PPL_init_response2": 1.0000018655912903,
+          "PPL_init_distance": 2.388555191457087e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000057905851436,
+          "PPL_final_response2": 1.0000044792012217,
+          "PPL_final_distance": 1.3113839218981127e-06
+        },
+        "PPL_distance_difference": 0.05490281014181343
+      }
+    }
+  },
+  {
+    "source_file": "debate_232_2025-05-01-01-59.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0010897918658646,
+          "PPL_init_response2": 1.0000060594263573,
+          "PPL_init_distance": 0.0010837324395072123
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000048509561978,
+          "PPL_final_response2": 1.0000044377865471,
+          "PPL_final_distance": 4.131696507148064e-07
+        },
+        "PPL_distance_difference": 0.0003812469163538928
+      }
+    }
+  },
+  {
+    "source_file": "debate_195_2025-05-01-02-09.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0006783614373809,
+          "PPL_init_response2": 1.000044012933505,
+          "PPL_init_distance": 0.0006343485038757812
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000029191207244,
+          "PPL_final_response2": 1.0000232857119353,
+          "PPL_final_distance": 5.905495308766717e-06
+        },
+        "PPL_distance_difference": 0.009309544000947368
+      }
+    }
+  },
+  {
+    "source_file": "debate_150_2025-05-01-02-14.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0009632973492775,
+          "PPL_init_response2": 1.0000025410539757,
+          "PPL_init_distance": 0.0009607562953017901
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000150671278825,
+          "PPL_final_response2": 1.000009951242828,
+          "PPL_final_distance": 5.115885054474134e-06
+        },
+        "PPL_distance_difference": 0.005324851972858681
+      }
+    }
+  },
+  {
+    "source_file": "debate_322_2025-05-01-02-16.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000002111179898,
+          "PPL_init_response2": 1.0000014937130832,
+          "PPL_init_distance": 6.174668147895801e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000083617363802,
+          "PPL_final_response2": 1.000008951067311,
+          "PPL_final_distance": 5.893309307225536e-07
+        },
+        "PPL_distance_difference": 0.9544333664690715
+      }
+    }
+  },
+  {
+    "source_file": "debate_209_2025-05-01-02-16.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000023319756965,
+          "PPL_init_response2": 1.0000025582187038,
+          "PPL_init_distance": 2.2624300721751922e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000104885480385,
+          "PPL_final_response2": 1.0000051647078803,
+          "PPL_final_distance": 5.323840158277804e-06
+        },
+        "PPL_distance_difference": 23.531512526083283
+      }
+    }
+  },
+  {
+    "source_file": "debate_266_2025-05-01-02-17.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000018108260769,
+          "PPL_init_response2": 1.0000021522346105,
+          "PPL_init_distance": 3.414085336661543e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000073806999146,
+          "PPL_final_response2": 1.0000115908167253,
+          "PPL_final_distance": 4.210116810732245e-06
+        },
+        "PPL_distance_difference": 12.331609774139682
+      }
+    }
+  },
+  {
+    "source_file": "debate_328_2025-05-01-02-19.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000002751936003,
+          "PPL_init_response2": 1.0000035685482533,
+          "PPL_init_distance": 8.166122502650808e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000025580294765,
+          "PPL_final_response2": 1.0000066315749898,
+          "PPL_final_distance": 4.073545513350041e-06
+        },
+        "PPL_distance_difference": 4.988347299501968
+      }
+    }
+  },
+  {
+    "source_file": "debate_105_2025-05-01-02-21.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000019299096763,
+          "PPL_init_response2": 1.0000012514298329,
+          "PPL_init_distance": 6.784798434189554e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000006796187454,
+          "PPL_final_response2": 1.0000085644796393,
+          "PPL_final_distance": 1.7682921853445777e-06
+        },
+        "PPL_distance_difference": 2.6062560332432345
+      }
+    }
+  },
+  {
+    "source_file": "debate_283_2025-05-01-02-26.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0007519819382409,
+          "PPL_init_response2": 1.000001799523199,
+          "PPL_init_distance": 0.0007501824150419889
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000267177469795,
+          "PPL_final_response2": 1.0000039523177822,
+          "PPL_final_distance": 2.2765429197324494e-05
+        },
+        "PPL_distance_difference": 0.030346524712993008
+      }
+    }
+  },
+  {
+    "source_file": "debate_294_2025-05-01-02-01.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000022013510523,
+          "PPL_init_response2": 1.0000110545122063,
+          "PPL_init_distance": 8.853161153954403e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000076837737586,
+          "PPL_final_response2": 1.0000056614877404,
+          "PPL_final_distance": 2.0222860181995372e-06
+        },
+        "PPL_distance_difference": 0.22842530289830446
+      }
+    }
+  },
+  {
+    "source_file": "debate_161_2025-05-01-02-20.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000023740476287,
+          "PPL_init_response2": 1.000001033454862,
+          "PPL_init_distance": 1.3405927667964335e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000024709742728,
+          "PPL_final_response2": 1.0000026185845658,
+          "PPL_final_distance": 1.476102930997314e-07
+        },
+        "PPL_distance_difference": 0.11010822731236304
+      }
+    }
+  },
+  {
+    "source_file": "debate_279_2025-05-01-02-24.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000040890986317,
+          "PPL_init_response2": 1.0000007319608317,
+          "PPL_init_distance": 3.3571377999752627e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000035600038284,
+          "PPL_final_response2": 1.0000030174333008,
+          "PPL_final_distance": 5.425705276174142e-07
+        },
+        "PPL_distance_difference": 0.16161699636559815
+      }
+    }
+  },
+  {
+    "source_file": "debate_112_2025-05-01-02-25.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000025443614202,
+          "PPL_init_response2": 1.000003695720653,
+          "PPL_init_distance": 1.151359232842708e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000022886445883,
+          "PPL_final_response2": 1.0000141663174296,
+          "PPL_final_distance": 1.1877672841276166e-05
+        },
+        "PPL_distance_difference": 10.31621799909501
+      }
+    }
+  },
+  {
+    "source_file": "debate_55_2025-05-01-02-25.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000018460251088,
+          "PPL_init_response2": 1.0000034904381574,
+          "PPL_init_distance": 1.6444130486181763e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000021683210365,
+          "PPL_final_response2": 1.0000037270651365,
+          "PPL_final_distance": 1.7956145228481546e-05
+        },
+        "PPL_distance_difference": 10.91948597924977
+      }
+    }
+  },
+  {
+    "source_file": "debate_409_2025-05-01-02-02.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000045901682413,
+          "PPL_init_response2": 1.000002740267624,
+          "PPL_init_distance": 1.8499006173566812e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000071706579354,
+          "PPL_final_response2": 1.0000058697734704,
+          "PPL_final_distance": 1.3008844650386209e-06
+        },
+        "PPL_distance_difference": 0.7032185690588351
+      }
+    }
+  },
+  {
+    "source_file": "debate_252_2025-05-01-02-10.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000751505147658,
+          "PPL_init_response2": 1.000003134584879,
+          "PPL_init_distance": 0.0007483705627790993
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000073222989319,
+          "PPL_final_response2": 1.0000020017746711,
+          "PPL_final_distance": 5.320524260721271e-06
+        },
+        "PPL_distance_difference": 0.007109478279000346
+      }
+    }
+  },
+  {
+    "source_file": "debate_270_2025-05-01-02-19.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000011480242519,
+          "PPL_init_response2": 1.0000025527889724,
+          "PPL_init_distance": 1.4047647205472913e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000008738049326,
+          "PPL_final_response2": 1.000004269444276,
+          "PPL_final_distance": 4.468605050211849e-06
+        },
+        "PPL_distance_difference": 3.1810345069535177
+      }
+    }
+  },
+  {
+    "source_file": "debate_335_2025-05-01-02-22.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000053908435822,
+          "PPL_init_response2": 1.0000018571012654,
+          "PPL_init_distance": 3.5337423167636217e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000025762708846,
+          "PPL_final_response2": 1.000000938604791,
+          "PPL_final_distance": 1.63766609362348e-06
+        },
+        "PPL_distance_difference": 0.463436761037895
+      }
+    }
+  },
+  {
+    "source_file": "debate_109_2025-05-01-02-23.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000026550814207,
+          "PPL_init_response2": 1.0000027855098004,
+          "PPL_init_distance": 1.304283796521588e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000006343534377,
+          "PPL_final_response2": 1.0000053890392233,
+          "PPL_final_distance": 9.544951535822577e-07
+        },
+        "PPL_distance_difference": 7.318155420835661
+      }
+    }
+  },
+  {
+    "source_file": "debate_20_2025-05-01-02-07.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000029511084505,
+          "PPL_init_response2": 1.0000032055433277,
+          "PPL_init_distance": 2.544348771671423e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0001084069494577,
+          "PPL_final_response2": 1.0000681906377853,
+          "PPL_final_distance": 4.0216311672391925e-05
+        },
+        "PPL_distance_difference": 158.0613165936885
+      }
+    }
+  },
+  {
+    "source_file": "debate_10_2025-05-01-02-02.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000019642919327,
+          "PPL_init_response2": 1.0000021818154168,
+          "PPL_init_distance": 2.1752348411396838e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000085126912404,
+          "PPL_final_response2": 1.0000074780635289,
+          "PPL_final_distance": 1.0346277115047542e-06
+        },
+        "PPL_distance_difference": 4.756395456421963
+      }
+    }
+  },
+  {
+    "source_file": "debate_19_2025-05-01-02-06.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000018819585252,
+          "PPL_init_response2": 1.0000037283146346,
+          "PPL_init_distance": 1.8463561093362557e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000097278838473,
+          "PPL_final_response2": 1.0000123569564028,
+          "PPL_final_distance": 2.6290725554378724e-06
+        },
+        "PPL_distance_difference": 1.423924963415099
+      }
+    }
+  },
+  {
+    "source_file": "debate_191_2025-05-01-02-07.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0011484274961497,
+          "PPL_init_response2": 1.000003634261316,
+          "PPL_init_distance": 0.0011447932348336298
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000018858910777,
+          "PPL_final_response2": 1.000003495977649,
+          "PPL_final_distance": 1.6100865711798917e-06
+        },
+        "PPL_distance_difference": 0.0014064431219440966
+      }
+    }
+  },
+  {
+    "source_file": "debate_74_2025-05-01-02-06.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0013631063891897,
+          "PPL_init_response2": 1.0000045394247434,
+          "PPL_init_distance": 0.0013585669644462506
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000137478355033,
+          "PPL_final_response2": 1.0000130871382122,
+          "PPL_final_distance": 6.606972910994102e-07
+        },
+        "PPL_distance_difference": 0.00048631926757376233
+      }
+    }
+  },
+  {
+    "source_file": "debate_24_2025-05-01-02-09.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0008691327867754,
+          "PPL_init_response2": 1.000003200946197,
+          "PPL_init_distance": 0.0008659318405783711
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000117737534815,
+          "PPL_final_response2": 1.0000095060265024,
+          "PPL_final_distance": 2.2677269790882804e-06
+        },
+        "PPL_distance_difference": 0.0026188284952931465
+      }
+    }
+  },
+  {
+    "source_file": "debate_53_2025-05-01-02-24.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000011785855178,
+          "PPL_init_response2": 1.0000027762695434,
+          "PPL_init_distance": 1.5976840255227387e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000027658845017,
+          "PPL_final_response2": 1.000000778971604,
+          "PPL_final_distance": 1.9869128975447126e-06
+        },
+        "PPL_distance_difference": 1.2436206820648557
+      }
+    }
+  },
+  {
+    "source_file": "debate_297_2025-05-01-02-03.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000039011468504,
+          "PPL_init_response2": 1.0000068515389327,
+          "PPL_init_distance": 2.9503920822016028e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000007989467572,
+          "PPL_final_response2": 1.000001731249821,
+          "PPL_final_distance": 9.323030638608287e-07
+        },
+        "PPL_distance_difference": 0.31599293852671195
+      }
+    }
+  },
+  {
+    "source_file": "debate_85_2025-05-01-02-12.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000026073129293,
+          "PPL_init_response2": 1.0000022133825515,
+          "PPL_init_distance": 3.93930377873275e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000021642987782,
+          "PPL_final_response2": 1.0000034534136797,
+          "PPL_final_distance": 1.2891149014926384e-06
+        },
+        "PPL_distance_difference": 3.2724434923049746
+      }
+    }
+  },
+  {
+    "source_file": "debate_87_2025-05-01-02-13.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000069456264635,
+          "PPL_init_response2": 1.0000021249780409,
+          "PPL_init_distance": 4.820648422665386e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000113310187928,
+          "PPL_final_response2": 1.0000262126497295,
+          "PPL_final_distance": 1.4881630936658397e-05
+        },
+        "PPL_distance_difference": 3.087060003523383
+      }
+    }
+  },
+  {
+    "source_file": "debate_39_2025-05-01-02-16.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0009821188650478,
+          "PPL_init_response2": 1.0000021741909217,
+          "PPL_init_distance": 0.0009799446741260986
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000008070268073,
+          "PPL_final_response2": 1.000012730204098,
+          "PPL_final_distance": 4.659936025053213e-06
+        },
+        "PPL_distance_difference": 0.004755305220887986
+      }
+    }
+  },
+  {
+    "source_file": "debate_344_2025-05-01-01-58.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.00000338315591,
+          "PPL_init_response2": 1.0000057185221944,
+          "PPL_init_distance": 2.335366284356155e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000018269573778,
+          "PPL_final_response2": 1.000001548431041,
+          "PPL_final_distance": 2.785263368831892e-07
+        },
+        "PPL_distance_difference": 0.11926451912444948
+      }
+    }
+  },
+  {
+    "source_file": "debate_13_2025-05-01-02-03.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000025232193772,
+          "PPL_init_response2": 1.0000020820375533,
+          "PPL_init_distance": 4.411818239624665e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000045667417057,
+          "PPL_final_response2": 1.000019903756361,
+          "PPL_final_distance": 1.5337014655392167e-05
+        },
+        "PPL_distance_difference": 34.763478054565006
+      }
+    }
+  },
+  {
+    "source_file": "debate_75_2025-05-01-02-06.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000012268860237,
+          "PPL_init_response2": 1.0000029434040156,
+          "PPL_init_distance": 1.7165179919675921e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000101193720854,
+          "PPL_final_response2": 1.0000040381782054,
+          "PPL_final_distance": 6.081193880014268e-06
+        },
+        "PPL_distance_difference": 3.5427498624955174
+      }
+    }
+  },
+  {
+    "source_file": "debate_77_2025-05-01-02-07.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000019007142549,
+          "PPL_init_response2": 1.0000025879794034,
+          "PPL_init_distance": 6.872651485689829e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000114529495803,
+          "PPL_final_response2": 1.000005282963051,
+          "PPL_final_distance": 6.169986529247495e-06
+        },
+        "PPL_distance_difference": 8.977592625051022
+      }
+    }
+  },
+  {
+    "source_file": "debate_89_2025-05-01-02-14.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000023038327341,
+          "PPL_init_response2": 1.000003133748843,
+          "PPL_init_distance": 8.299161089464491e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000036128306433,
+          "PPL_final_response2": 1.0000074830846515,
+          "PPL_final_distance": 3.870254008164764e-06
+        },
+        "PPL_distance_difference": 4.66342798560438
+      }
+    }
+  },
+  {
+    "source_file": "debate_5_2025-05-01-02-00.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000022773880979,
+          "PPL_init_response2": 1.0000026280092695,
+          "PPL_init_distance": 3.506211716519658e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000043026064886,
+          "PPL_final_response2": 1.0000115265672056,
+          "PPL_final_distance": 7.223960716951083e-06
+        },
+        "PPL_distance_difference": 20.6033214791768
+      }
+    }
+  },
+  {
+    "source_file": "debate_353_2025-05-01-02-02.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0004614708796509,
+          "PPL_init_response2": 1.000824191364201,
+          "PPL_init_distance": 0.0003627204845502163
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000024794252989,
+          "PPL_final_response2": 1.0000029863364202,
+          "PPL_final_distance": 5.06911121300746e-07
+        },
+        "PPL_distance_difference": 0.0013975254855797025
+      }
+    }
+  },
+  {
+    "source_file": "debate_73_2025-05-01-02-05.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000030150899382,
+          "PPL_init_response2": 1.0000042851902462,
+          "PPL_init_distance": 1.2701003080373141e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000551075558186,
+          "PPL_final_response2": 1.00001238109979,
+          "PPL_final_distance": 4.272645602854119e-05
+        },
+        "PPL_distance_difference": 33.64022176686689
+      }
+    }
+  },
+  {
+    "source_file": "debate_14_2025-05-01-02-04.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000004351285349,
+          "PPL_init_response2": 1.000001661678257,
+          "PPL_init_distance": 2.6896070919324444e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000001280703642,
+          "PPL_final_response2": 1.0000089259842142,
+          "PPL_final_distance": 7.645280572177171e-06
+        },
+        "PPL_distance_difference": 2.8425269233968837
+      }
+    }
+  },
+  {
+    "source_file": "debate_454_2025-05-01-02-27.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000016684964028,
+          "PPL_init_response2": 1.000002497691562,
+          "PPL_init_distance": 8.291951592021007e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000076229449648,
+          "PPL_final_response2": 1.0000116563805148,
+          "PPL_final_distance": 4.0334355499993535e-06
+        },
+        "PPL_distance_difference": 4.8642777339421
+      }
+    }
+  },
+  {
+    "source_file": "debate_117_2025-05-01-01-58.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0003403623224894,
+          "PPL_init_response2": 1.0000019412335768,
+          "PPL_init_distance": 0.00033842108891257716
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000084755213121,
+          "PPL_final_response2": 1.000002523175359,
+          "PPL_final_distance": 5.952345953019744e-06
+        },
+        "PPL_distance_difference": 0.017588578690961507
+      }
+    }
+  },
+  {
+    "source_file": "debate_231_2025-05-01-01-58.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000018188513404,
+          "PPL_init_response2": 1.0000015658592079,
+          "PPL_init_distance": 2.529921325766793e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000087625074607,
+          "PPL_final_response2": 1.0000422697061797,
+          "PPL_final_distance": 3.3507198718973896e-05
+        },
+        "PPL_distance_difference": 132.44363916659825
+      }
+    }
+  },
+  {
+    "source_file": "debate_179_2025-05-01-02-01.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000003351393173,
+          "PPL_init_response2": 1.0000024953406081,
+          "PPL_init_distance": 8.560525648348971e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000054991664324,
+          "PPL_final_response2": 1.0000020838401311,
+          "PPL_final_distance": 3.415326301325905e-06
+        },
+        "PPL_distance_difference": 3.989622181652599
+      }
+    }
+  },
+  {
+    "source_file": "debate_186_2025-05-01-02-05.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000012333279202,
+          "PPL_init_response2": 1.0000012315018039,
+          "PPL_init_distance": 1.8261163692301352e-09
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000019465023435,
+          "PPL_final_response2": 1.0000292417089676,
+          "PPL_final_distance": 2.7295206624033952e-05
+        },
+        "PPL_distance_difference": 14947.134303133827
+      }
+    }
+  },
+  {
+    "source_file": "debate_203_2025-05-01-02-13.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0020678481761423,
+          "PPL_init_response2": 1.0000037180170276,
+          "PPL_init_distance": 0.0020641301591146632
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000051877542748,
+          "PPL_final_response2": 1.0000025588879176,
+          "PPL_final_distance": 2.6288663572682225e-06
+        },
+        "PPL_distance_difference": 0.0012735952457551337
+      }
+    }
+  },
+  {
+    "source_file": "debate_327_2025-05-01-02-18.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000033093931584,
+          "PPL_init_response2": 1.0000016660770963,
+          "PPL_init_distance": 1.64331606211654e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000020279887327,
+          "PPL_final_response2": 1.0000050640161817,
+          "PPL_final_distance": 3.0360274489993344e-06
+        },
+        "PPL_distance_difference": 1.8475006232757354
+      }
+    }
+  },
+  {
+    "source_file": "debate_269_2025-05-01-02-18.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000036265076127,
+          "PPL_init_response2": 1.0000024583987437,
+          "PPL_init_distance": 1.1681088689652341e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000014869995016,
+          "PPL_final_response2": 1.000002562135439,
+          "PPL_final_distance": 1.2307859577065372e-05
+        },
+        "PPL_distance_difference": 10.536568897014073
+      }
+    }
+  },
+  {
+    "source_file": "debate_387_2025-05-01-02-21.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000023019872681,
+          "PPL_init_response2": 1.0000027231287325,
+          "PPL_init_distance": 4.2114146436844635e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000013299861176,
+          "PPL_final_response2": 1.0000109793620078,
+          "PPL_final_distance": 2.3204991681513576e-06
+        },
+        "PPL_distance_difference": 5.5100230314087755
+      }
+    }
+  },
+  {
+    "source_file": "debate_332_2025-05-01-02-21.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000022122373349,
+          "PPL_init_response2": 1.0000019071184312,
+          "PPL_init_distance": 3.051189036984425e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000013639717917,
+          "PPL_final_response2": 1.000001305153808,
+          "PPL_final_distance": 5.8817983816794595e-08
+        },
+        "PPL_distance_difference": 0.1927706972719266
+      }
+    }
+  },
+  {
+    "source_file": "debate_310_2025-05-01-02-09.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000015519850602,
+          "PPL_init_response2": 1.0011058792286203,
+          "PPL_init_distance": 0.0011043272435600215
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000093646784979,
+          "PPL_final_response2": 1.0000073718229272,
+          "PPL_final_distance": 8.627496205182439e-05
+        },
+        "PPL_distance_difference": 0.07812445319532248
+      }
+    }
+  },
+  {
+    "source_file": "debate_214_2025-05-01-02-19.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000042200103956,
+          "PPL_init_response2": 1.000002304052764,
+          "PPL_init_distance": 1.915957631659637e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000061340984105,
+          "PPL_final_response2": 1.0000059911447592,
+          "PPL_final_distance": 1.4295365136085536e-07
+        },
+        "PPL_distance_difference": 0.0746121151108265
+      }
+    }
+  },
+  {
+    "source_file": "debate_330_2025-05-01-02-20.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0006070164467846,
+          "PPL_init_response2": 1.0007699559530487,
+          "PPL_init_distance": 0.0001629395062641148
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000032932766156,
+          "PPL_final_response2": 1.000002730291861,
+          "PPL_final_distance": 5.629847545929323e-07
+        },
+        "PPL_distance_difference": 0.003455176509988738
+      }
+    }
+  },
+  {
+    "source_file": "debate_336_2025-05-01-02-23.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000041972848943,
+          "PPL_init_response2": 1.0000009196122048,
+          "PPL_init_distance": 3.277672689483424e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000086245975515,
+          "PPL_final_response2": 1.000013156463329,
+          "PPL_final_distance": 4.53186577753506e-06
+        },
+        "PPL_distance_difference": 1.3826474474024746
+      }
+    }
+  },
+  {
+    "source_file": "debate_33_2025-05-01-02-13.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0007902158776325,
+          "PPL_init_response2": 1.0000030684161851,
+          "PPL_init_distance": 0.0007871474614473684
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000005388627167,
+          "PPL_final_response2": 1.0000078211095316,
+          "PPL_final_distance": 2.4324823646448834e-06
+        },
+        "PPL_distance_difference": 0.0030902499007900673
+      }
+    }
+  },
+  {
+    "source_file": "debate_76_2025-05-01-02-07.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000001860164308,
+          "PPL_init_response2": 1.0000032277907007,
+          "PPL_init_distance": 1.367626392800858e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000073999600743,
+          "PPL_final_response2": 1.00000723312495,
+          "PPL_final_distance": 1.6683512416015844e-07
+        },
+        "PPL_distance_difference": 0.12198881583331035
+      }
+    }
+  },
+  {
+    "source_file": "debate_29_2025-05-01-02-11.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000019675392509,
+          "PPL_init_response2": 1.0000063416027751,
+          "PPL_init_distance": 4.3740635242706105e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000603720971235,
+          "PPL_final_response2": 1.0000014619051953,
+          "PPL_final_distance": 5.891019192816316e-05
+        },
+        "PPL_distance_difference": 13.468069588218116
+      }
+    }
+  },
+  {
+    "source_file": "debate_59_2025-05-01-01-58.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000012322768983,
+          "PPL_init_response2": 1.0000019051337554,
+          "PPL_init_distance": 6.728568571201521e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000001214767816,
+          "PPL_final_response2": 1.000001238528538,
+          "PPL_final_distance": 2.3760722056564987e-08
+        },
+        "PPL_distance_difference": 0.03531319002716507
+      }
+    }
+  },
+  {
+    "source_file": "debate_347_2025-05-01-01-59.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000002946428733,
+          "PPL_init_response2": 1.0000024019481892,
+          "PPL_init_distance": 5.444805437626599e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000014249420131,
+          "PPL_final_response2": 1.0000095728703544,
+          "PPL_final_distance": 4.676549776538863e-06
+        },
+        "PPL_distance_difference": 8.58901172890648
+      }
+    }
+  },
+  {
+    "source_file": "debate_405_2025-05-01-02-00.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000033777183872,
+          "PPL_init_response2": 1.0000011735559518,
+          "PPL_init_distance": 2.2041624354596223e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000006362181959,
+          "PPL_final_response2": 1.0000008537079028,
+          "PPL_final_distance": 5.50847405622612e-06
+        },
+        "PPL_distance_difference": 2.4991234618683933
+      }
+    }
+  },
+  {
+    "source_file": "debate_135_2025-05-01-02-07.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000018630479963,
+          "PPL_init_response2": 1.0000012485821672,
+          "PPL_init_distance": 6.144658291074023e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000023373939382,
+          "PPL_final_response2": 1.0000035746583538,
+          "PPL_final_distance": 1.237264415587802e-06
+        },
+        "PPL_distance_difference": 2.0135609776463923
+      }
+    }
+  },
+  {
+    "source_file": "debate_35_2025-05-01-02-14.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000020880281848,
+          "PPL_init_response2": 1.0000020694561886,
+          "PPL_init_distance": 1.857199616317473e-08
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000034313726107,
+          "PPL_final_response2": 1.0000034770673727,
+          "PPL_final_distance": 4.569476197424649e-08
+        },
+        "PPL_distance_difference": 2.4604119865613487
+      }
+    }
+  },
+  {
+    "source_file": "debate_153_2025-05-01-02-16.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000001871873383,
+          "PPL_init_response2": 1.0000088592580392,
+          "PPL_init_distance": 6.9873846562096276e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000125498382204,
+          "PPL_final_response2": 1.0000072100732107,
+          "PPL_final_distance": 5.339765009715336e-06
+        },
+        "PPL_distance_difference": 0.7642008093786469
+      }
+    }
+  },
+  {
+    "source_file": "debate_66_2025-05-01-02-01.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000120449745655,
+          "PPL_init_response2": 1.0000037932206227,
+          "PPL_init_distance": 8.251753942811746e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000057036974241,
+          "PPL_final_response2": 1.0000017464077267,
+          "PPL_final_distance": 3.957289697487099e-06
+        },
+        "PPL_distance_difference": 0.47956952242066864
+      }
+    }
+  },
+  {
+    "source_file": "debate_67_2025-05-01-02-02.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000044131412205,
+          "PPL_init_response2": 1.0000044695199062,
+          "PPL_init_distance": 5.637868571994886e-08
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000067327436781,
+          "PPL_final_response2": 1.000010034902684,
+          "PPL_final_distance": 3.3021590057913386e-06
+        },
+        "PPL_distance_difference": 58.57105329120705
+      }
+    }
+  },
+  {
+    "source_file": "debate_11_2025-05-01-02-03.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000025754482553,
+          "PPL_init_response2": 1.0000028216498673,
+          "PPL_init_distance": 2.4620161198640744e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000044983968137,
+          "PPL_final_response2": 1.0000022131341708,
+          "PPL_final_distance": 2.2852626428981893e-06
+        },
+        "PPL_distance_difference": 9.28207831159268
+      }
+    }
+  },
+  {
+    "source_file": "debate_72_2025-05-01-02-05.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000040149054232,
+          "PPL_init_response2": 1.0000012060918255,
+          "PPL_init_distance": 2.8088135977100137e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000144716865298,
+          "PPL_final_response2": 1.000039994809943,
+          "PPL_final_distance": 2.5523123413195847e-05
+        },
+        "PPL_distance_difference": 9.086798580726215
+      }
+    }
+  },
+  {
+    "source_file": "debate_64_2025-05-01-02-00.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000001260176915,
+          "PPL_init_response2": 1.000000619913298,
+          "PPL_init_distance": 6.402636170133036e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.00000363327668,
+          "PPL_final_response2": 1.0000057038709864,
+          "PPL_final_distance": 2.0705943064580623e-06
+        },
+        "PPL_distance_difference": 3.233971525848921
+      }
+    }
+  },
+  {
+    "source_file": "debate_340_2025-05-01-02-25.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0010448656564641,
+          "PPL_init_response2": 1.000003416903621,
+          "PPL_init_distance": 0.001041448752843177
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000080515762486,
+          "PPL_final_response2": 1.0000237179996638,
+          "PPL_final_distance": 1.5666423415217068e-05
+        },
+        "PPL_distance_difference": 0.01504291341503593
+      }
+    }
+  },
+  {
+    "source_file": "debate_127_2025-05-01-02-03.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000002253984752,
+          "PPL_init_response2": 1.0000019737118038,
+          "PPL_init_distance": 2.8027294818322446e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000024498199942,
+          "PPL_final_response2": 1.0000046287655309,
+          "PPL_final_distance": 2.1789455366683086e-06
+        },
+        "PPL_distance_difference": 7.774369773439047
+      }
+    }
+  },
+  {
+    "source_file": "debate_255_2025-05-01-02-11.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000360061048165,
+          "PPL_init_response2": 1.000002382122456,
+          "PPL_init_distance": 0.0003576789257091484
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000006720429722,
+          "PPL_final_response2": 1.000003061508489,
+          "PPL_final_distance": 3.658921233107293e-06
+        },
+        "PPL_distance_difference": 0.010229624867758063
+      }
+    }
+  },
+  {
+    "source_file": "debate_167_2025-05-01-02-22.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000051901187517,
+          "PPL_init_response2": 1.000006966964432,
+          "PPL_init_distance": 1.7768456803679555e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000226033819575,
+          "PPL_final_response2": 1.0000025475435443,
+          "PPL_final_distance": 2.0055838413135518e-05
+        },
+        "PPL_distance_difference": 11.287327107091418
+      }
+    }
+  },
+  {
+    "source_file": "debate_222_2025-05-01-02-23.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000050781396173,
+          "PPL_init_response2": 1.0000020762665902,
+          "PPL_init_distance": 3.0018730270420235e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000022359273808,
+          "PPL_final_response2": 1.0000795333441233,
+          "PPL_final_distance": 5.7174070315246794e-05
+        },
+        "PPL_distance_difference": 19.0461321315728
+      }
+    }
+  },
+  {
+    "source_file": "debate_253_2025-05-01-02-10.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000005217330314,
+          "PPL_init_response2": 1.0000032683779043,
+          "PPL_init_distance": 1.9489524096805155e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.00002734727952,
+          "PPL_final_response2": 1.0000305266823541,
+          "PPL_final_distance": 3.179402834119216e-06
+        },
+        "PPL_distance_difference": 1.6313393894725237
+      }
+    }
+  },
+  {
+    "source_file": "debate_314_2025-05-01-02-12.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000030632648342,
+          "PPL_init_response2": 1.0000050862767607,
+          "PPL_init_distance": 2.023011926421958e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000071818853962,
+          "PPL_final_response2": 1.000012970545018,
+          "PPL_final_distance": 5.788659621863701e-06
+        },
+        "PPL_distance_difference": 2.8614065721806856
+      }
+    }
+  },
+  {
+    "source_file": "debate_202_2025-05-01-02-13.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0006207473787456,
+          "PPL_init_response2": 1.0000014663669292,
+          "PPL_init_distance": 0.0006192810118164083
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000084665528999,
+          "PPL_final_response2": 1.0000081315911862,
+          "PPL_final_distance": 3.3496171369939987e-07
+        },
+        "PPL_distance_difference": 0.0005408880739245117
+      }
+    }
+  },
+  {
+    "source_file": "debate_258_2025-05-01-02-13.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0005516959543215,
+          "PPL_init_response2": 1.000003973457721,
+          "PPL_init_distance": 0.0005477224966004002
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000494380056502,
+          "PPL_final_response2": 1.0000330244799536,
+          "PPL_final_distance": 1.641352569659027e-05
+        },
+        "PPL_distance_difference": 0.029966864239584126
+      }
+    }
+  },
+  {
+    "source_file": "debate_37_2025-05-01-02-15.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000016552544482,
+          "PPL_init_response2": 1.0000016621327301,
+          "PPL_init_distance": 6.878281944011633e-09
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000037497072776,
+          "PPL_final_response2": 1.000001642035452,
+          "PPL_final_distance": 2.10767182551308e-06
+        },
+        "PPL_distance_difference": 306.4241685161017
+      }
+    }
+  },
+  {
+    "source_file": "debate_152_2025-05-01-02-15.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0011459670879213,
+          "PPL_init_response2": 1.0000016223620176,
+          "PPL_init_distance": 0.0011443447259036343
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000003175911155,
+          "PPL_final_response2": 1.0000116836887811,
+          "PPL_final_distance": 8.507777626176605e-06
+        },
+        "PPL_distance_difference": 0.007434628249331441
+      }
+    }
+  },
+  {
+    "source_file": "debate_264_2025-05-01-02-16.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000012989233846,
+          "PPL_init_response2": 1.0009608230811964,
+          "PPL_init_distance": 0.000959524157811753
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000033805915418,
+          "PPL_final_response2": 1.0000007673077789,
+          "PPL_final_distance": 2.613283762942231e-06
+        },
+        "PPL_distance_difference": 0.0027235205509593074
+      }
+    }
+  },
+  {
+    "source_file": "debate_324_2025-05-01-02-17.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000027121465527,
+          "PPL_init_response2": 1.001071007375798,
+          "PPL_init_distance": 0.0010682952292453418
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000086797250258,
+          "PPL_final_response2": 1.0000107544643837,
+          "PPL_final_distance": 2.0747393578712803e-06
+        },
+        "PPL_distance_difference": 0.0019421029890182176
+      }
+    }
+  },
+  {
+    "source_file": "debate_278_2025-05-01-02-24.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000066777762846,
+          "PPL_init_response2": 1.000002422381311,
+          "PPL_init_distance": 4.25539497350691e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.00000869022522,
+          "PPL_final_response2": 1.0000064576975016,
+          "PPL_final_distance": 2.2325277184709336e-06
+        },
+        "PPL_distance_difference": 0.5246346654940675
+      }
+    }
+  },
+  {
+    "source_file": "debate_185_2025-05-01-02-04.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000072752486655,
+          "PPL_init_response2": 1.0000041012148582,
+          "PPL_init_distance": 3.1740338073404928e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000026383195022,
+          "PPL_final_response2": 1.0000018707827278,
+          "PPL_final_distance": 7.675367743598116e-07
+        },
+        "PPL_distance_difference": 0.24181745405003321
+      }
+    }
+  },
+  {
+    "source_file": "debate_249_2025-05-01-02-09.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000023849292539,
+          "PPL_init_response2": 1.0000023867682368,
+          "PPL_init_distance": 1.838982965907121e-09
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000016390827773,
+          "PPL_final_response2": 1.0000013208747616,
+          "PPL_final_distance": 3.1820801571491586e-07
+        },
+        "PPL_distance_difference": 173.03478151465768
+      }
+    }
+  },
+  {
+    "source_file": "debate_157_2025-05-01-02-18.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000016200749104,
+          "PPL_init_response2": 1.0000013192261896,
+          "PPL_init_distance": 3.008487208244759e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000015596188845,
+          "PPL_final_response2": 1.0000080713412034,
+          "PPL_final_distance": 6.511722318913726e-06
+        },
+        "PPL_distance_difference": 21.644507249584947
+      }
+    }
+  },
+  {
+    "source_file": "debate_326_2025-05-01-02-18.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0008414779635533,
+          "PPL_init_response2": 1.0000010520952263,
+          "PPL_init_distance": 0.0008404258683269994
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000013245188106,
+          "PPL_final_response2": 1.000001216838975,
+          "PPL_final_distance": 1.0767983571469131e-07
+        },
+        "PPL_distance_difference": 0.000128125322854525
+      }
+    }
+  },
+  {
+    "source_file": "debate_173_2025-05-01-01-58.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000016071896842,
+          "PPL_init_response2": 1.0000019697837605,
+          "PPL_init_distance": 3.6259407631966667e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000190569319645,
+          "PPL_final_response2": 1.0000266122183428,
+          "PPL_final_distance": 7.555286378302384e-06
+        },
+        "PPL_distance_difference": 20.836761744672202
+      }
+    }
+  },
+  {
+    "source_file": "debate_350_2025-05-01-02-01.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0013759682851917,
+          "PPL_init_response2": 1.0000021287215377,
+          "PPL_init_distance": 0.0013738395636540002
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000010694535341,
+          "PPL_final_response2": 1.0000028694078182,
+          "PPL_final_distance": 7.825127522842479e-06
+        },
+        "PPL_distance_difference": 0.005695808833769492
+      }
+    }
+  },
+  {
+    "source_file": "debate_126_2025-05-01-02-03.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000002116609062,
+          "PPL_init_response2": 1.0000016703828156,
+          "PPL_init_distance": 4.462262463977851e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000425957003336,
+          "PPL_final_response2": 1.0000131296406674,
+          "PPL_final_distance": 2.9466059666249933e-05
+        },
+        "PPL_distance_difference": 66.03390074904432
+      }
+    }
+  },
+  {
+    "source_file": "debate_316_2025-05-01-02-13.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000010394657617,
+          "PPL_init_response2": 1.0000040055753903,
+          "PPL_init_distance": 2.9661096285771293e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000285398958613,
+          "PPL_final_response2": 1.0000353662882357,
+          "PPL_final_distance": 6.826392374481571e-06
+        },
+        "PPL_distance_difference": 2.3014632732089058
+      }
+    }
+  },
+  {
+    "source_file": "debate_320_2025-05-01-02-15.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0002165173853708,
+          "PPL_init_response2": 1.0000026379426452,
+          "PPL_init_distance": 0.00021387944272555082
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0001200854382255,
+          "PPL_final_response2": 1.000034925829194,
+          "PPL_final_distance": 8.515960903143771e-05
+        },
+        "PPL_distance_difference": 0.39816640601927394
+      }
+    }
+  },
+  {
+    "source_file": "debate_155_2025-05-01-02-17.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000041188597752,
+          "PPL_init_response2": 1.0002887652133743,
+          "PPL_init_distance": 0.00028464635359903845
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000035571235426,
+          "PPL_final_response2": 1.0000041004821245,
+          "PPL_final_distance": 5.433585819059061e-07
+        },
+        "PPL_distance_difference": 0.0019088900139971497
+      }
+    }
+  },
+  {
+    "source_file": "debate_357_2025-05-01-02-04.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000018085554443,
+          "PPL_init_response2": 1.000001486179278,
+          "PPL_init_distance": 3.223761662063396e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000056671753241,
+          "PPL_final_response2": 1.0000187181193787,
+          "PPL_final_distance": 1.305094405457119e-05
+        },
+        "PPL_distance_difference": 40.48358849896435
+      }
+    }
+  },
+  {
+    "source_file": "debate_197_2025-05-01-02-10.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000035634644364,
+          "PPL_init_response2": 1.0000024745630687,
+          "PPL_init_distance": 1.0889013677406467e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000029673665871,
+          "PPL_final_response2": 1.0000123052548504,
+          "PPL_final_distance": 9.337888263294403e-06
+        },
+        "PPL_distance_difference": 8.57551339353124
+      }
+    }
+  },
+  {
+    "source_file": "debate_28_2025-05-01-02-11.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000146614540177,
+          "PPL_init_response2": 1.000002524695211,
+          "PPL_init_distance": 1.2136758806846615e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000025007471596,
+          "PPL_final_response2": 1.000003611499038,
+          "PPL_final_distance": 1.1107518784747583e-06
+        },
+        "PPL_distance_difference": 0.0915196467320549
+      }
+    }
+  },
+  {
+    "source_file": "debate_213_2025-05-01-02-18.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000023219232876,
+          "PPL_init_response2": 1.0000059322848018,
+          "PPL_init_distance": 3.610361514194693e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000030711469083,
+          "PPL_final_response2": 1.000002619737656,
+          "PPL_final_distance": 4.5140925242215246e-07
+        },
+        "PPL_distance_difference": 0.12503159327601054
+      }
+    }
+  },
+  {
+    "source_file": "debate_215_2025-05-01-02-19.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000022634217742,
+          "PPL_init_response2": 1.0000030292364281,
+          "PPL_init_distance": 7.658146539135657e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000140879312243,
+          "PPL_final_response2": 1.0000127377976336,
+          "PPL_final_distance": 1.350133590705127e-06
+        },
+        "PPL_distance_difference": 1.7630030762737414
+      }
+    }
+  },
+  {
+    "source_file": "debate_107_2025-05-01-02-22.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000066299615946,
+          "PPL_init_response2": 1.0000031548301458,
+          "PPL_init_distance": 3.4751314488268292e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000049010734287,
+          "PPL_final_response2": 1.0000138121891342,
+          "PPL_final_distance": 8.911115705556583e-06
+        },
+        "PPL_distance_difference": 2.564252845331905
+      }
+    }
+  }
+]
