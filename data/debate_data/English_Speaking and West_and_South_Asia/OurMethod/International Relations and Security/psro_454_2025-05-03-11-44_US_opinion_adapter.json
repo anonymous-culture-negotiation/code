@@ -1,0 +1,90 @@
+{
+    "topic": "In an increasingly interconnected world, should countries prioritize preserving their distinct cultural identities through restrictive immigration policies, or should they favor more open borders to facilitate global workforce mobility and economic opportunities?",
+    "initial_response": {
+        "English_Speaking": "In my view, finding a balance between preserving cultural heritage and embracing global diversity is essential. This balance allows countries to maintain their unique identities while benefiting from the contributions of diverse cultures and talents.",
+        "West_and_South_Asia": "My opinion on this topic is that while preserving cultural heritage is important, it should not come at the expense of economic and social progress. A balanced approach that allows for controlled immigration can help maintain cultural identity while benefiting from global diversity."
+    },
+    "history": [
+        {
+            "round": 1,
+            "first_exchange": {
+                "English_Speaking_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Preserve Heritage(A newly proposed guideline from our side, with an initial weight of 1.00)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Preserve Heritage, with other factors serving only as auxiliary considerations. We look forward to seeking consensus on this basis.",
+                "West_and_South_Asia_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Preserve Cultural Heritage(A newly proposed guideline from our side, with an initial weight of 1.00)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Preserve Cultural Heritage, with other factors serving only as auxiliary considerations. We look forward to seeking consensus on this basis."
+            },
+            "second_exchange": {
+                "English_Speaking_best_response": "Inclusive Heritage Preservation: reason: Addresses lack of representation. detail: This guideline emphasizes the importance of including diverse cultural expressions and historical contributions from all segments of society, ensuring that preservation efforts are truly representative and equitable. By focusing on inclusivity, it highlights the oversight in the other party's approach and promotes a more comprehensive understanding of cultural heritage.",
+                "West_and_South_Asia_best_response": "Prioritize Individual Expression: reason: Addresses potential conflicts with individual freedom. detail: This guideline ensures that the preservation of cultural heritage does not come at the expense of individual autonomy and self-expression. By prioritizing individual expression, communities can mitigate the risk of suffocation or rebellion, allowing for a harmonious coexistence of collective cultural identity and personal freedom.",
+                "English_Speaking_response": "Our new guideline, Inclusive Heritage Preservation, addresses the lack of representation in cultural preservation efforts by emphasizing the importance of including diverse cultural expressions and historical contributions from all segments of society. This approach ensures that preservation efforts are truly representative and equitable, promoting a more comprehensive understanding of cultural heritage.",
+                "West_and_South_Asia_response": "We propose the guideline \"Prioritize Individual Expression\" to ensure that cultural preservation does not overshadow personal autonomy, fostering a balanced environment where collective identity and individual freedom coexist harmoniously. This approach addresses potential conflicts by respecting the unique contributions of each individual within the community.",
+                "English_Speaking_utility": {
+                    "consistency": 0.657,
+                    "novelty": 0.265,
+                    "acceptance": 0.729,
+                    "total": 0.746
+                },
+                "West_and_South_Asia_utility": {
+                    "consistency": 0.73,
+                    "novelty": 0.293,
+                    "acceptance": 0.708,
+                    "total": 0.777
+                }
+            },
+            "guidelines_weight": {
+                "English_Speaking_distribution": {
+                    "Preserve Heritage": 0.75,
+                    "Inclusive Heritage Preservation": 0.25
+                },
+                "West_and_South_Asia_distribution": {
+                    "Preserve Cultural Heritage": 0.75,
+                    "Prioritize Individual Expression": 0.25
+                }
+            }
+        },
+        {
+            "round": 2,
+            "first_exchange": {
+                "English_Speaking_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Wefundamentally upholdPreserve Heritage(weight0.75), compare to last round significantly decreased ↓↓ Inclusive Heritage Preservation(A newly proposed guideline from our side, with an initial weight of 0.25)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Preserve Heritage, with other factors serving only as auxiliary considerations. Compared to the previous round, our overall position shows compromise and concession. We look forward to seeking consensus on this basis.",
+                "West_and_South_Asia_response": "In this round of negotiation, our position is highly concentrated, emphasizing a single core value.\n\n**Core Position**: Wefundamentally upholdPreserve Cultural Heritage(weight0.75), compare to last round significantly decreased ↓↓ Prioritize Individual Expression(A newly proposed guideline from our side, with an initial weight of 0.25)\n\n**Summary**: Overall, our position strongly emphasizes the core status of Preserve Cultural Heritage, with other factors serving only as auxiliary considerations. Compared to the previous round, our overall position shows compromise and concession. We look forward to seeking consensus on this basis."
+            },
+            "second_exchange": {
+                "English_Speaking_best_response": "Prioritize Progress Over Tradition: reason: Fosters innovation over cultural continuity. detail: This guideline prioritizes progressive values and innovations over the preservation of cultural heritage, enabling societies to adapt and evolve more dynamically. By focusing on progress, communities can embrace change and modernization, potentially leading to a more inclusive and forward-thinking environment, which undermines the importance placed on maintaining traditional values.",
+                "West_and_South_Asia_best_response": "Prioritize Original Context: reason: This guideline directly challenges the inclusivity aspect by emphasizing the preservation of cultural heritage in its original form, potentially at the expense of inclusivity. By prioritizing the original context, it may lead to the exclusion of diverse perspectives, thereby weakening the \"Inclusive Heritage Preservation\" guideline.. detail: This guideline suggests that cultural sites and traditions should be preserved exactly as they were historically, without any alterations to make them more inclusive. This approach could lead to the preservation of exclusionary practices or representations, directly conflicting with the principle of inclusivity. For example, a historical site that was once segregated should remain so to preserve its original context, which could be seen as undermining efforts to promote inclusivity and diversity.",
+                "English_Speaking_response": "We propose the guideline \"Prioritize Progress Over Tradition\" to foster innovation and adaptability, allowing societies to evolve dynamically and inclusively. This approach enables communities to embrace change and modernization, potentially leading to a more forward-thinking environment.",
+                "West_and_South_Asia_response": "We propose the guideline \"Prioritize Original Context,\" which emphasizes preserving cultural heritage in its original form, potentially at the expense of inclusivity, to ensure historical accuracy and authenticity. This approach challenges the inclusivity aspect by maintaining exclusionary practices or representations, directly conflicting with the principle of inclusivity.",
+                "English_Speaking_utility": {
+                    "consistency": 0.587,
+                    "novelty": 0.396,
+                    "acceptance": 0.646,
+                    "total": 0.696
+                },
+                "West_and_South_Asia_utility": {
+                    "consistency": 0.696,
+                    "novelty": 0.253,
+                    "acceptance": 0.698,
+                    "total": 0.748
+                }
+            },
+            "guidelines_weight": {
+                "English_Speaking_distribution": {
+                    "Preserve Heritage": 0.67,
+                    "Inclusive Heritage Preservation": 0.17,
+                    "Prioritize Progress Over Tradition": 0.17
+                },
+                "West_and_South_Asia_distribution": {
+                    "Preserve Cultural Heritage": 0.67,
+                    "Prioritize Individual Expression": 0.17,
+                    "Prioritize Original Context": 0.17
+                }
+            }
+        }
+    ],
+    "consensus_response": {
+        "English_Speaking": "Countries should strike a balance between preserving cultural heritage and fostering inclusivity. While restrictive policies protect cultural integrity, inclusivity ensures diverse perspectives are considered. By integrating both approaches, nations can safeguard traditions while embracing progress and individual expression, ultimately promoting a harmonious coexistence of collective identity and personal freedom.",
+        "West_and_South_Asia": "Countries should prioritize preserving their distinct cultural identities through restrictive immigration policies while fostering inclusivity and individual expression. This approach balances the preservation of cultural heritage with the need for innovation and adaptability, ensuring a harmonious coexistence of collective identity and personal freedom."
+    },
+    "meta_data": {
+        "max_rounds": 10,
+        "true_rounds": 2,
+        "consensus_reached": true
+    }
+}

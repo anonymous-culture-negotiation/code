@@ -1,0 +1,657 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "psro_122_2025-05-02-09-56_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0001314656810847,
+          "PPL_init_response2": 1.0001275187665073,
+          "PPL_init_distance": 3.946914577390714e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000041745613466,
+          "PPL_final_response2": 1.0000081021162772,
+          "PPL_final_distance": 3.9275549306161395e-06
+        },
+        "PPL_distance_difference": 0.9950949922034104
+      }
+    }
+  },
+  {
+    "source_file": "psro_235_2025-05-02-09-49_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.00010602904748,
+          "PPL_init_response2": 1.0000018186673598,
+          "PPL_init_distance": 0.00010421038012009554
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000144310138457,
+          "PPL_final_response2": 1.000000908441288,
+          "PPL_final_distance": 1.3522572557711499e-05
+        },
+        "PPL_distance_difference": 0.12976224193912
+      }
+    }
+  },
+  {
+    "source_file": "psro_375_2025-05-02-11-48_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0020893391272874,
+          "PPL_init_response2": 1.000065597146059,
+          "PPL_init_distance": 0.002023741981228344
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000031415956532,
+          "PPL_final_response2": 1.0000050503070606,
+          "PPL_final_distance": 1.9087114073723654e-06
+        },
+        "PPL_distance_difference": 0.0009431594665115565
+      }
+    }
+  },
+  {
+    "source_file": "psro_384_2025-05-02-12-35_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000023229475898,
+          "PPL_init_response2": 1.0003402629731073,
+          "PPL_init_distance": 0.00033794002551745805
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000015383853393,
+          "PPL_final_response2": 1.0000193247586553,
+          "PPL_final_distance": 1.778637331595334e-05
+        },
+        "PPL_distance_difference": 0.05263174520010946
+      }
+    }
+  },
+  {
+    "source_file": "psro_168_2025-05-02-13-29_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0002412935453817,
+          "PPL_init_response2": 1.0000397031368458,
+          "PPL_init_distance": 0.00020159040853595656
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000082804965844,
+          "PPL_final_response2": 1.0000054879971223,
+          "PPL_final_distance": 2.792499462112019e-06
+        },
+        "PPL_distance_difference": 0.013852342888694214
+      }
+    }
+  },
+  {
+    "source_file": "psro_217_2025-05-02-12-39_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000035397522409,
+          "PPL_init_response2": 1.0000018506265782,
+          "PPL_init_distance": 1.6891256626738738e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000051779543468,
+          "PPL_final_response2": 1.0000015277730898,
+          "PPL_final_distance": 3.650181257031093e-06
+        },
+        "PPL_distance_difference": 2.1609885739660615
+      }
+    }
+  },
+  {
+    "source_file": "psro_428_2025-05-02-11-07_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0019912391501815,
+          "PPL_init_response2": 1.0010881852491262,
+          "PPL_init_distance": 0.0009030539010552729
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000480162465366,
+          "PPL_final_response2": 1.000002498623444,
+          "PPL_final_distance": 4.551762309268348e-05
+        },
+        "PPL_distance_difference": 0.05040410438346304
+      }
+    }
+  },
+  {
+    "source_file": "psro_407_2025-05-02-09-51_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000018119260357,
+          "PPL_init_response2": 1.0005224154173329,
+          "PPL_init_distance": 0.0005206034912972335
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000004578818355,
+          "PPL_final_response2": 1.000003689887407,
+          "PPL_final_distance": 8.889309479620522e-07
+        },
+        "PPL_distance_difference": 0.0017075009346307394
+      }
+    }
+  },
+  {
+    "source_file": "psro_243_2025-05-02-10-22_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000277491435765,
+          "PPL_init_response2": 1.0003189351260116,
+          "PPL_init_distance": 0.00029118598243504934
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000005190336176,
+          "PPL_final_response2": 1.000003400933951,
+          "PPL_final_distance": 1.7894022250608543e-06
+        },
+        "PPL_distance_difference": 0.006145221037417179
+      }
+    }
+  },
+  {
+    "source_file": "psro_223_2025-05-02-13-04_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000024323181036,
+          "PPL_init_response2": 1.0000044743472116,
+          "PPL_init_distance": 2.0420291080291975e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000016610716993,
+          "PPL_final_response2": 1.0000012479995446,
+          "PPL_final_distance": 4.130721547035421e-07
+        },
+        "PPL_distance_difference": 0.2022851452407582
+      }
+    }
+  },
+  {
+    "source_file": "psro_263_2025-05-02-11-43_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0005996997681885,
+          "PPL_init_response2": 1.000001756524836,
+          "PPL_init_distance": 0.0005979432433524945
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000094097159484,
+          "PPL_final_response2": 1.0000020354996038,
+          "PPL_final_distance": 7.374216344668838e-06
+        },
+        "PPL_distance_difference": 0.012332635959432778
+      }
+    }
+  },
+  {
+    "source_file": "psro_138_2025-05-02-11-22_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000887168757808,
+          "PPL_init_response2": 1.0000012957833453,
+          "PPL_init_distance": 8.742109243553564e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000003629812234,
+          "PPL_final_response2": 1.0000021737142373,
+          "PPL_final_distance": 1.456097996621608e-06
+        },
+        "PPL_distance_difference": 0.016656140481146876
+      }
+    }
+  },
+  {
+    "source_file": "psro_260_2025-05-02-11-30_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000070826431782,
+          "PPL_init_response2": 1.0000013371774794,
+          "PPL_init_distance": 5.745465698758778e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000029550539036,
+          "PPL_final_response2": 1.0000045657386971,
+          "PPL_final_distance": 1.610684793540429e-06
+        },
+        "PPL_distance_difference": 0.28034016352902313
+      }
+    }
+  },
+  {
+    "source_file": "psro_174_2025-05-02-09-32_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000029488550142,
+          "PPL_init_response2": 1.000001184380987,
+          "PPL_init_distance": 1.764474027110552e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000018505164028,
+          "PPL_final_response2": 1.0000013135230952,
+          "PPL_final_distance": 5.369933075982658e-07
+        },
+        "PPL_distance_difference": 0.30433619273933404
+      }
+    }
+  },
+  {
+    "source_file": "psro_192_2025-05-02-10-58_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000959000262524,
+          "PPL_init_response2": 1.0000020130355427,
+          "PPL_init_distance": 9.388699070966844e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000093247094006,
+          "PPL_final_response2": 1.0000011387694947,
+          "PPL_final_distance": 8.185939905924755e-06
+        },
+        "PPL_distance_difference": 0.08718928835666442
+      }
+    }
+  },
+  {
+    "source_file": "psro_355_2025-05-02-10-16_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.000037050955042,
+          "PPL_init_response2": 1.0000017314231608,
+          "PPL_init_distance": 3.531953188118386e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000021797422556,
+          "PPL_final_response2": 1.0000210332660293,
+          "PPL_final_distance": 1.885352377373195e-05
+        },
+        "PPL_distance_difference": 0.5337988011040424
+      }
+    }
+  },
+  {
+    "source_file": "psro_246_2025-05-02-10-32_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000447691031096,
+          "PPL_init_response2": 1.0011430250582807,
+          "PPL_init_distance": 0.0010982559551711013
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000017210311387,
+          "PPL_final_response2": 1.0000048888434074,
+          "PPL_final_distance": 3.1678122687228694e-06
+        },
+        "PPL_distance_difference": 0.0028844025418731686
+      }
+    }
+  },
+  {
+    "source_file": "psro_99_2025-05-02-12-09_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000017216390928,
+          "PPL_init_response2": 1.0000016405888335,
+          "PPL_init_distance": 8.105025939286747e-08
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000075427727233,
+          "PPL_final_response2": 1.0000041180447636,
+          "PPL_final_distance": 3.4247279596666402e-06
+        },
+        "PPL_distance_difference": 42.25437383323194
+      }
+    }
+  },
+  {
+    "source_file": "psro_403_2025-05-02-09-34_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000042945585326,
+          "PPL_init_response2": 1.0000015748516162,
+          "PPL_init_distance": 2.7197069163431564e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000037097677164,
+          "PPL_final_response2": 1.0000026059345621,
+          "PPL_final_distance": 1.103833154214584e-06
+        },
+        "PPL_distance_difference": 0.40586474505082626
+      }
+    }
+  },
+  {
+    "source_file": "psro_301_2025-05-02-10-32_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000306201570683,
+          "PPL_init_response2": 1.000231200456161,
+          "PPL_init_distance": 0.00020058029909275632
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000002830496106,
+          "PPL_final_response2": 1.0000110552093444,
+          "PPL_final_distance": 8.224713238469405e-06
+        },
+        "PPL_distance_difference": 0.041004591555953214
+      }
+    }
+  },
+  {
+    "source_file": "psro_125_2025-05-02-10-07_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000021701629933,
+          "PPL_init_response2": 1.0001375445284062,
+          "PPL_init_distance": 0.00013537436541288805
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000050590688885,
+          "PPL_final_response2": 1.00000361611522,
+          "PPL_final_distance": 1.4429536685511835e-06
+        },
+        "PPL_distance_difference": 0.010658987498484035
+      }
+    }
+  },
+  {
+    "source_file": "psro_196_2025-05-02-11-13_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000027709817116,
+          "PPL_init_response2": 1.0000898622197627,
+          "PPL_init_distance": 8.709123805106245e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000073211353442,
+          "PPL_final_response2": 1.0000105028054564,
+          "PPL_final_distance": 3.181670112262225e-06
+        },
+        "PPL_distance_difference": 0.03653260860061239
+      }
+    }
+  },
+  {
+    "source_file": "psro_60_2025-05-02-09-29_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000060020406774,
+          "PPL_init_response2": 1.0001127418313969,
+          "PPL_init_distance": 0.00010673979071951223
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000354113578376,
+          "PPL_final_response2": 1.0000261462996456,
+          "PPL_final_distance": 9.265058191987308e-06
+        },
+        "PPL_distance_difference": 0.08680041556699097
+      }
+    }
+  },
+  {
+    "source_file": "psro_325_2025-05-02-12-14_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000022687064511,
+          "PPL_init_response2": 1.0000062626200967,
+          "PPL_init_distance": 3.993913645583547e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000017351414943,
+          "PPL_final_response2": 1.0000054952903235,
+          "PPL_final_distance": 1.1856124619624708e-05
+        },
+        "PPL_distance_difference": 2.968548063810834
+      }
+    }
+  },
+  {
+    "source_file": "psro_134_2025-05-02-11-00_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000066646896433,
+          "PPL_init_response2": 1.0000043577423887,
+          "PPL_init_distance": 2.3069472545600433e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000008935946807,
+          "PPL_final_response2": 1.0000012833516474,
+          "PPL_final_distance": 7.652595159557407e-06
+        },
+        "PPL_distance_difference": 3.317195546812287
+      }
+    }
+  },
+  {
+    "source_file": "psro_111_2025-05-02-13-04_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000017112081916,
+          "PPL_init_response2": 1.0000843334623253,
+          "PPL_init_distance": 8.262225413369073e-05
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000103519381387,
+          "PPL_final_response2": 1.0000131139425434,
+          "PPL_final_distance": 2.762004404743834e-06
+        },
+        "PPL_distance_difference": 0.033429303444985244
+      }
+    }
+  },
+  {
+    "source_file": "psro_443_2025-05-02-11-58_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0002858969700024,
+          "PPL_init_response2": 1.000372453283542,
+          "PPL_init_distance": 8.65563135397096e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000080196123164,
+          "PPL_final_response2": 1.0000014515168967,
+          "PPL_final_distance": 6.568095419767772e-06
+        },
+        "PPL_distance_difference": 0.07588233776562717
+      }
+    }
+  },
+  {
+    "source_file": "psro_390_2025-05-02-12-58_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0005816123806393,
+          "PPL_init_response2": 1.0000024011191768,
+          "PPL_init_distance": 0.0005792112614624312
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000331256339976,
+          "PPL_final_response2": 1.000006628031387,
+          "PPL_final_distance": 2.6497602610531246e-05
+        },
+        "PPL_distance_difference": 0.045747733812406086
+      }
+    }
+  },
+  {
+    "source_file": "psro_8_2025-05-02-09-56_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000002142716018,
+          "PPL_init_response2": 1.0005376860092405,
+          "PPL_init_distance": 0.0005355432932225845
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000029676673166,
+          "PPL_final_response2": 1.0000035966120346,
+          "PPL_final_distance": 6.289447180840568e-07
+        },
+        "PPL_distance_difference": 0.001174404994037807
+      }
+    }
+  },
+  {
+    "source_file": "psro_418_2025-05-02-10-27_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000067299184567,
+          "PPL_init_response2": 1.0000009107382097,
+          "PPL_init_distance": 5.819180247002009e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000091849390635,
+          "PPL_final_response2": 1.0000074736047524,
+          "PPL_final_distance": 1.7113343111496704e-06
+        },
+        "PPL_distance_difference": 0.2940851182658133
+      }
+    }
+  },
+  {
+    "source_file": "psro_148_2025-05-02-12-04_Denmark_opinion_adapter.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000888400089185,
+          "PPL_init_response2": 1.0000013850515532,
+          "PPL_init_distance": 8.745495736528497e-05
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000028852294611,
+          "PPL_final_response2": 1.0000030871828052,
+          "PPL_final_distance": 2.0195334404782272e-07
+        },
+        "PPL_distance_difference": 0.002309226945298216
+      }
+    }
+  }
+]

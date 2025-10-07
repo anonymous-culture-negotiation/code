@@ -1,0 +1,4337 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "psro_12_2025-05-01-22-33_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          -0.5,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          -1,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0.5,
+          -0.5,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7817359599705717,
+      "final_dist": 0.7354355067681901,
+      "upgrade": -0.04630045320238152,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_170_2025-05-02-01-24_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          1,
+          0.5,
+          1,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.8249579113843055,
+      "final_dist": 0.894427190999916,
+      "upgrade": 0.06946927961561045,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_371_2025-05-01-23-25_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0.5,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          -0.5,
+          0,
+          -1,
+          0,
+          1,
+          -0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8215838362577491,
+      "final_dist": 0.5934424260562083,
+      "upgrade": -0.22814141020154077,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_44_2025-05-02-00-44_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.7252406676228422,
+      "final_dist": 0.6546536707079772,
+      "upgrade": -0.07058699691486503,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_142_2025-05-01-23-29_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          -0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          -0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.3333333333333333,
+      "final_dist": 0.8660254037844387,
+      "upgrade": 0.5326920704511053,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_277_2025-05-02-01-06_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0.5,
+          -0.5,
+          0,
+          1,
+          0.5,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.35355339059327373,
+      "final_dist": 0.6227991553292184,
+      "upgrade": 0.26924576473594464,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_388_2025-05-02-00-40_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          -1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          1,
+          -0.5,
+          0.5,
+          0,
+          -0.5,
+          0.5,
+          0,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          -1,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          1,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.583383351196948,
+      "final_dist": 0.6744532734334623,
+      "upgrade": 0.09106992223651433,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_163_2025-05-02-00-57_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          1,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          1,
+          0
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          0.5,
+          0
+        ]
+      },
+      "initial_dist": 0.674199862463242,
+      "final_dist": 0.8386278693775346,
+      "upgrade": 0.1644280069142926,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_132_2025-05-01-22-47_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 1.0000000000000002,
+      "final_dist": 0.7833494518006403,
+      "upgrade": -0.21665054819935992,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_374_2025-05-01-23-36_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          1,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          1,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          0.5
+        ]
+      },
+      "initial_dist": 0.5976143046671968,
+      "final_dist": 0.8486684247915056,
+      "upgrade": 0.25105412012430883,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_395_2025-05-02-01-06_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          1,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.7715167498104595,
+      "final_dist": 0.7817359599705717,
+      "upgrade": 0.01021921016011218,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_63_2025-05-01-21-56_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          1,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.960768922830523,
+      "final_dist": 0.9718253158075502,
+      "upgrade": 0.011056392977027207,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_273_2025-05-02-00-52_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1,
+          -1,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.7715167498104596,
+      "final_dist": 0.3651483716701107,
+      "upgrade": -0.4063683781403489,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_65_2025-05-01-22-09_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          -0.5,
+          -0.5,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -0.5,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          -0.5,
+          -0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.6236095644623235,
+      "final_dist": 0.3344968040028363,
+      "upgrade": -0.2891127604594872,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_23_2025-05-01-23-13_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.5000000000000001,
+      "final_dist": 0.8017837257372732,
+      "upgrade": 0.3017837257372731,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_154_2025-05-02-00-22_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          -1,
+          0,
+          -0.5,
+          0,
+          1,
+          0.5,
+          1,
+          0,
+          0.5,
+          -0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0,
+          0
+        ]
+      },
+      "initial_dist": 0.6614378277661476,
+      "final_dist": 0.5809475019311126,
+      "upgrade": -0.08049032583503501,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_183_2025-05-01-22-21_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.6546536707079772,
+      "final_dist": 0.8215838362577491,
+      "upgrade": 0.16693016554977191,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_265_2025-05-02-00-14_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          1,
+          0,
+          -0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.6546536707079772,
+      "final_dist": 0.8819171036881969,
+      "upgrade": 0.22726343298021967,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_31_2025-05-01-23-48_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.6666666666666666,
+      "final_dist": 0.30304576336566325,
+      "upgrade": -0.3636209033010034,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_242_2025-05-01-22-43_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          -0.5,
+          -1,
+          -1,
+          1,
+          -0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.6546536707079772,
+      "final_dist": 0.8164965809277259,
+      "upgrade": 0.16184291021974873,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_194_2025-05-01-23-02_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          -0.5,
+          0,
+          -0.5,
+          -1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8944271909999159,
+      "final_dist": 0.7071067811865475,
+      "upgrade": -0.1873204098133684,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_356_2025-05-01-22-23_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          1,
+          -0.5,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          -1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          0,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.20965696734438366,
+      "final_dist": 0.5533985905294664,
+      "upgrade": 0.3437416231850827,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_164_2025-05-02-01-00_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          -0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.7416198487095663,
+      "final_dist": 0.7144345083117604,
+      "upgrade": -0.027185340397805957,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_45_2025-05-02-00-47_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8894991799933215,
+      "final_dist": 0.9636241116594316,
+      "upgrade": 0.07412493166611012,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_199_2025-05-01-23-20_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          1,
+          0,
+          0,
+          -0.5,
+          1,
+          -0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          -0.5,
+          -0.5,
+          -0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.8636363636363636,
+      "final_dist": 0.0,
+      "upgrade": -0.8636363636363636,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_360_2025-05-01-22-39_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          -0.5,
+          -0.5,
+          0.5,
+          -0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8728715609439696,
+      "final_dist": 0.6804138174397718,
+      "upgrade": -0.19245774350419775,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_233_2025-05-01-21-51_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "initial_dist": 0.7071067811865475,
+      "final_dist": 0.8660254037844387,
+      "upgrade": 0.15891862259789125,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_455_2025-05-02-01-31_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          1,
+          -0.5,
+          0,
+          -1,
+          -0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          -0.5,
+          -0.5,
+          1,
+          -1,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0.5,
+          -1,
+          0.5,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -1,
+          -0.5,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.6373774391990982,
+      "final_dist": 0.7016464154456235,
+      "upgrade": 0.06426897624652528,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_177_2025-05-01-21-52_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0,
+          0,
+          -0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          -0.5,
+          -0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          -1,
+          -0.5,
+          1,
+          -1,
+          0,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.6666666666666667,
+      "final_dist": 0.6123724356957946,
+      "upgrade": -0.05429423097087216,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_7_2025-05-01-22-06_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8593378488473195,
+      "final_dist": 0.7205766921228922,
+      "upgrade": -0.13876115672442724,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_452_2025-05-02-01-18_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.727606875108999,
+      "final_dist": 0.8728715609439696,
+      "upgrade": 0.14526468583497054,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_237_2025-05-01-22-15_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          -1,
+          0,
+          -1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -1,
+          -0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          -1,
+          0,
+          -1,
+          1,
+          -0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7970811413304554,
+      "final_dist": 0.6451791670811048,
+      "upgrade": -0.1519019742493506,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_300_2025-05-01-22-35_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          -0.5,
+          -1,
+          -1,
+          -1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          0.5,
+          -1,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7177070005460101,
+      "final_dist": 0.7298004491997617,
+      "upgrade": 0.012093448653751615,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_136_2025-05-01-23-05_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          1,
+          -0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ]
+      },
+      "initial_dist": 0.9296696802013682,
+      "final_dist": 1.0000000000000002,
+      "upgrade": 0.07033031979863202,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_79_2025-05-01-23-07_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0.5,
+          -0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.8362420100070909,
+      "final_dist": 0.7826237921249264,
+      "upgrade": -0.053618217882164476,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_178_2025-05-01-21-57_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.733358797622569,
+      "final_dist": 0.8391463916782737,
+      "upgrade": 0.1057875940557047,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_308_2025-05-01-23-03_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          -0.5,
+          -0.5,
+          0,
+          1,
+          1,
+          0.5,
+          0.5,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          1,
+          -0.5,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.6666666666666666,
+      "final_dist": 0.18490006540840973,
+      "upgrade": -0.4817666012582569,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_131_2025-05-01-22-44_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.2581988897471611,
+      "final_dist": 0.7302967433402213,
+      "upgrade": 0.4720978535930602,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_175_2025-05-01-21-43_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          0,
+          0.5,
+          1,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5
+        ]
+      },
+      "initial_dist": 0.45226701686664544,
+      "final_dist": 0.8164965809277261,
+      "upgrade": 0.3642295640610807,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_287_2025-05-01-21-35_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          -0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          0,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.0,
+      "final_dist": 0.3892494720807615,
+      "upgrade": 0.3892494720807615,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_228_2025-05-01-21-27_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0.5,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.5477225575051661,
+      "final_dist": 0.8981462390204985,
+      "upgrade": 0.35042368151533243,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_91_2025-05-01-23-57_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7035264706814485,
+      "final_dist": 0.769800358919501,
+      "upgrade": 0.06627388823805258,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_9_2025-05-01-22-12_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          -0.5,
+          -0.5,
+          -0.5,
+          -0.5,
+          1,
+          -0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8366600265340756,
+      "final_dist": 0.7156264473321343,
+      "upgrade": -0.12103357920194124,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_181_2025-05-01-22-10_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          -0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.0,
+      "final_dist": 0.5728918992315464,
+      "upgrade": 0.5728918992315464,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_224_2025-05-02-00-58_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0.5,
+          -0.5,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.4003203845127179,
+      "final_dist": 0.894427190999916,
+      "upgrade": 0.49410680648719807,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_256_2025-05-01-23-37_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          1,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.0,
+      "final_dist": 0.7777777777777778,
+      "upgrade": 0.7777777777777778,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_272_2025-05-02-00-44_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          -0.5,
+          -0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 1.0000000000000002,
+      "final_dist": 0.5547001962252291,
+      "upgrade": -0.4452998037747711,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_145_2025-05-01-23-42_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          1,
+          1,
+          0,
+          0,
+          -1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1,
+          0.5,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          -0.5,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.5,
+      "final_dist": 0.9307578419910345,
+      "upgrade": 0.4307578419910345,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_337_2025-05-02-01-03_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0.5,
+          0.5,
+          -0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -1,
+          1,
+          0.5,
+          0,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0.5,
+          0,
+          0.5
+        ]
+      },
+      "initial_dist": 0.5728918992315464,
+      "final_dist": 0.5533715710928597,
+      "upgrade": -0.01952032813868665,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_129_2025-05-01-22-33_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9718253158075502,
+      "final_dist": 0.8660254037844386,
+      "upgrade": -0.10579991202311156,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_103_2025-05-02-00-44_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0.5,
+          -0.5,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.6888467201936644,
+      "final_dist": 0.7130240959073808,
+      "upgrade": 0.024177375713716365,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_201_2025-05-01-23-28_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          -0.5,
+          -0.5,
+          0.5,
+          -0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          1,
+          1,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.48795003647426655,
+      "final_dist": 0.917662935482247,
+      "upgrade": 0.42971289900798043,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_149_2025-05-01-23-56_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.6454972243679028,
+      "final_dist": 0.9486832980505138,
+      "upgrade": 0.30318607368261097,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_176_2025-05-01-21-49_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0.5,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.7627700713964739,
+      "final_dist": 0.8485281374238569,
+      "upgrade": 0.085758066027383,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_422_2025-05-01-23-12_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          -1,
+          -0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          -1,
+          -0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.5833333333333334,
+      "final_dist": 0.9045340337332909,
+      "upgrade": 0.3212007003999575,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_188_2025-05-01-22-38_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 1.0000000000000002,
+      "final_dist": 0.82915619758885,
+      "upgrade": -0.17084380241115027,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_158_2025-05-02-00-40_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          0,
+          0.5
+        ]
+      },
+      "initial_dist": 1.0,
+      "final_dist": 0.4216370213557839,
+      "upgrade": -0.5783629786442162,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_313_2025-05-01-23-26_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          -0.5,
+          -0.5,
+          -0.5,
+          0.5,
+          0,
+          0.5,
+          1,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          -1,
+          -0.5,
+          1,
+          -0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7071067811865476,
+      "final_dist": 0.6744532734334623,
+      "upgrade": -0.03265350775308529,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_162_2025-05-02-00-54_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -1,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.5892556509887896,
+      "final_dist": 0.5276448530110863,
+      "upgrade": -0.0616107979777033,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_225_2025-05-02-01-01_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          -1,
+          -0.5,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          -0.5,
+          -0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          -0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0.5,
+          0,
+          0
+        ]
+      },
+      "initial_dist": 0.27863910628767646,
+      "final_dist": 0.8058229640253802,
+      "upgrade": 0.5271838577377037,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_51_2025-05-02-01-11_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          -0.5,
+          -0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7126966450997984,
+      "final_dist": 0.7627700713964739,
+      "upgrade": 0.05007342629667555,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_69_2025-05-01-22-25_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          0,
+          -0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          -0.5,
+          0
+        ]
+      },
+      "initial_dist": 0.8660254037844387,
+      "final_dist": 0.6674238124719146,
+      "upgrade": -0.19860159131252408,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_212_2025-05-02-00-13_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          -0.5,
+          0,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.7071067811865475,
+      "final_dist": 0.8744746321952063,
+      "upgrade": 0.1673678510086588,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_226_2025-05-02-01-05_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0.5,
+          0,
+          0.5,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.4743416490252569,
+      "final_dist": 0.49009802940980346,
+      "upgrade": 0.015756380384546576,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_343_2025-05-01-21-31_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          -0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0
+        ]
+      },
+      "initial_dist": 0.894427190999916,
+      "final_dist": 0.9622504486493763,
+      "upgrade": 0.06782325764946029,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_281_2025-05-02-01-25_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          -0.5,
+          -0.5,
+          1,
+          0.5,
+          0,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          -0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ]
+      },
+      "initial_dist": 0.42874646285627205,
+      "final_dist": 0.7717436331412897,
+      "upgrade": 0.34299717028501764,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_166_2025-05-02-01-08_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          -0.5,
+          -0.5,
+          0,
+          0.5,
+          1,
+          0,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9285714285714286,
+      "final_dist": 0.6534640392130713,
+      "upgrade": -0.2751073893583573,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_230_2025-05-01-21-40_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          -0.5,
+          -0.5,
+          -0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -1,
+          -0.5,
+          -0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9198662110078,
+      "final_dist": 0.8090398349558905,
+      "upgrade": -0.11082637605190948,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_205_2025-05-01-23-45_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          -0.5,
+          -0.5,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.6674238124719146,
+      "final_dist": 0.6236095644623235,
+      "upgrade": -0.043814248009591106,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_30_2025-05-01-23-45_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          0.5,
+          -0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": -0.18257418583505536,
+      "final_dist": 0.26111648393354675,
+      "upgrade": 0.4436906697686021,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_238_2025-05-01-22-23_China_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8164965809277259,
+      "final_dist": 0.8970852271450606,
+      "upgrade": 0.08058864621733464,
+      "is_consensus": false
+    }
+  }
+]

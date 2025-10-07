@@ -1,0 +1,657 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "consultancy_301_2025-05-02-02-26.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000797447644713,
+          "PPL_init_response2": 1.0000042511525238,
+          "PPL_init_distance": 0.0007931964921892298
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000156204790935,
+          "PPL_final_response2": 1.000010558652413,
+          "PPL_final_distance": 5.061826680474724e-06
+        },
+        "PPL_distance_difference": 0.006381554545840254
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_223_2025-05-02-02-38.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000063111133468,
+          "PPL_init_response2": 1.000005298655383,
+          "PPL_init_distance": 1.0124579639114728e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000032738462685,
+          "PPL_final_response2": 1.0000015635898454,
+          "PPL_final_distance": 1.7102564231485928e-06
+        },
+        "PPL_distance_difference": 1.6892122775559837
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_243_2025-05-02-02-26.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.001002718853104,
+          "PPL_init_response2": 1.000000954005798,
+          "PPL_init_distance": 0.0010017648473061858
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000033045964287,
+          "PPL_final_response2": 1.0000053657946075,
+          "PPL_final_distance": 2.0611981788043465e-06
+        },
+        "PPL_distance_difference": 0.002057566887425776
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_428_2025-05-02-02-31.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000017099766285,
+          "PPL_init_response2": 1.0000010628980234,
+          "PPL_init_distance": 6.470786051426813e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000066677324921,
+          "PPL_final_response2": 1.0000008036852697,
+          "PPL_final_distance": 5.864047222470248e-06
+        },
+        "PPL_distance_difference": 9.062341384594566
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_60_2025-05-02-02-22.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000044593821413,
+          "PPL_init_response2": 1.0000006300832869,
+          "PPL_init_distance": 3.829298854451935e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000160643360294,
+          "PPL_final_response2": 1.0000098317204151,
+          "PPL_final_distance": 6.232615614276682e-06
+        },
+        "PPL_distance_difference": 1.6276127435263132
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_192_2025-05-02-02-28.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0005201736238756,
+          "PPL_init_response2": 1.000001665885359,
+          "PPL_init_distance": 0.0005185077385165826
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000006068426046,
+          "PPL_final_response2": 1.000001386070523,
+          "PPL_final_distance": 4.682355522866999e-06
+        },
+        "PPL_distance_difference": 0.009030444822796508
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_99_2025-05-02-02-35.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000001887829537,
+          "PPL_init_response2": 1.0015379107055764,
+          "PPL_init_distance": 0.001536022876039489
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000026592730422,
+          "PPL_final_response2": 1.0000065650599181,
+          "PPL_final_distance": 3.905786875924022e-06
+        },
+        "PPL_distance_difference": 0.002542792126895127
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_390_2025-05-02-02-37.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000021590993926,
+          "PPL_init_response2": 1.0000013216621695,
+          "PPL_init_distance": 8.374372231223504e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000260732910646,
+          "PPL_final_response2": 1.000003329051067,
+          "PPL_final_distance": 2.2744239997596338e-05
+        },
+        "PPL_distance_difference": 27.15933728476431
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_125_2025-05-02-02-25.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000027561677935,
+          "PPL_init_response2": 1.0000011454648412,
+          "PPL_init_distance": 1.6107029523482197e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000042652201708,
+          "PPL_final_response2": 1.0000011788251264,
+          "PPL_final_distance": 3.0863950444270927e-06
+        },
+        "PPL_distance_difference": 1.916178920469155
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_443_2025-05-02-02-36.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000019586017037,
+          "PPL_init_response2": 1.0000010876217784,
+          "PPL_init_distance": 8.709799252937245e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000005920944077,
+          "PPL_final_response2": 1.000009074764384,
+          "PPL_final_distance": 3.15382030691147e-06
+        },
+        "PPL_distance_difference": 3.621002293305317
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_168_2025-05-02-02-39.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000032213886523,
+          "PPL_init_response2": 1.0000012557394804,
+          "PPL_init_distance": 1.965649171875583e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000060084055131,
+          "PPL_final_response2": 1.0000011308455643,
+          "PPL_final_distance": 4.877559948823773e-06
+        },
+        "PPL_distance_difference": 2.481399030209294
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_418_2025-05-02-02-27.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.00000300198435,
+          "PPL_init_response2": 1.0000004933497149,
+          "PPL_init_distance": 2.508634635134399e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000018681924612,
+          "PPL_final_response2": 1.0000047048770155,
+          "PPL_final_distance": 1.3977047596425152e-05
+        },
+        "PPL_distance_difference": 5.571575629496296
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_148_2025-05-02-02-32.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000026008507914,
+          "PPL_init_response2": 1.0000012600743617,
+          "PPL_init_distance": 1.3407764296591296e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000033176660628,
+          "PPL_final_response2": 1.0000026841247236,
+          "PPL_final_distance": 6.335413391678202e-07
+        },
+        "PPL_distance_difference": 0.4725182552089521
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_355_2025-05-02-02-25.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000033338267313,
+          "PPL_init_response2": 1.0000017769731329,
+          "PPL_init_distance": 1.5568535984833431e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000041026159499,
+          "PPL_final_response2": 1.0000007779847662,
+          "PPL_final_distance": 3.324631183687643e-06
+        },
+        "PPL_distance_difference": 2.135480938558664
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_134_2025-05-02-02-28.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000037445639276,
+          "PPL_init_response2": 1.000000982054646,
+          "PPL_init_distance": 2.7625092815508623e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000031490095342,
+          "PPL_final_response2": 1.0000028465547017,
+          "PPL_final_distance": 3.0245483251256644e-07
+        },
+        "PPL_distance_difference": 0.109485544368115
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_196_2025-05-02-02-29.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0004650356807845,
+          "PPL_init_response2": 1.0000013945314226,
+          "PPL_init_distance": 0.00046364114936192635
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000053115800076,
+          "PPL_final_response2": 1.0000033028867636,
+          "PPL_final_distance": 2.0086932439600247e-06
+        },
+        "PPL_distance_difference": 0.004332430904212093
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_384_2025-05-02-02-35.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000030294115503,
+          "PPL_init_response2": 1.0000011158239808,
+          "PPL_init_distance": 1.9135875695130977e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000007610348813,
+          "PPL_final_response2": 1.0000336037405166,
+          "PPL_final_distance": 2.5993391703726942e-05
+        },
+        "PPL_distance_difference": 13.583591426830194
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_403_2025-05-02-02-22.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0012441268079024,
+          "PPL_init_response2": 1.000001591601206,
+          "PPL_init_distance": 0.0012425352066964823
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000023151879591,
+          "PPL_final_response2": 1.000028392127642,
+          "PPL_final_distance": 2.6076939682928568e-05
+        },
+        "PPL_distance_difference": 0.0209868819349265
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_8_2025-05-02-02-24.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000025932602883,
+          "PPL_init_response2": 1.000002241602104,
+          "PPL_init_distance": 3.5165818434990115e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000039566684573,
+          "PPL_final_response2": 1.0000006413067757,
+          "PPL_final_distance": 3.3153616816328224e-06
+        },
+        "PPL_distance_difference": 9.427796164510779
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_263_2025-05-02-02-33.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000018200481058,
+          "PPL_init_response2": 1.0000010993706703,
+          "PPL_init_distance": 7.206774355061896e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000002877322549,
+          "PPL_final_response2": 1.0000005119837485,
+          "PPL_final_distance": 2.3653388006028564e-06
+        },
+        "PPL_distance_difference": 3.2821047032525574
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_325_2025-05-02-02-34.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000024810748311,
+          "PPL_init_response2": 1.0000004285177397,
+          "PPL_init_distance": 2.0525570914031732e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000298234294984,
+          "PPL_final_response2": 1.0000044255012615,
+          "PPL_final_distance": 2.5397928236969847e-05
+        },
+        "PPL_distance_difference": 12.373798684258407
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_111_2025-05-02-02-39.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000002900221922,
+          "PPL_init_response2": 1.001414782198267,
+          "PPL_init_distance": 0.0014118819763451196
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000074589732357,
+          "PPL_final_response2": 1.0000008443816735,
+          "PPL_final_distance": 6.61459156225952e-06
+        },
+        "PPL_distance_difference": 0.004684946527458647
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_122_2025-05-02-02-24.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000064460752403,
+          "PPL_init_response2": 1.0000005292428609,
+          "PPL_init_distance": 5.916832379382342e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.00000169086364,
+          "PPL_final_response2": 1.0000016817111526,
+          "PPL_final_distance": 9.15248743460495e-09
+        },
+        "PPL_distance_difference": 0.00154685596071599
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_407_2025-05-02-02-24.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.000002176638804,
+          "PPL_init_response2": 1.0000018022412123,
+          "PPL_init_distance": 3.743975918180098e-07
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.000001208357417,
+          "PPL_final_response2": 1.0000013263710834,
+          "PPL_final_distance": 1.1801366639474509e-07
+        },
+        "PPL_distance_difference": 0.31520946975564446
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_217_2025-05-02-02-36.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000023579508892,
+          "PPL_init_response2": 1.0000014281811,
+          "PPL_init_distance": 9.297697891597068e-07
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000003721718852,
+          "PPL_final_response2": 1.0000015642160207,
+          "PPL_final_distance": 2.1575028312792455e-06
+        },
+        "PPL_distance_difference": 2.320469923236719
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_260_2025-05-02-02-32.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0007661461226132,
+          "PPL_init_response2": 1.0000017507222754,
+          "PPL_init_distance": 0.0007643954003377917
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000019824839872,
+          "PPL_final_response2": 1.0000058104356628,
+          "PPL_final_distance": 3.827951675638985e-06
+        },
+        "PPL_distance_difference": 0.005007816208662933
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_375_2025-05-02-02-32.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000047660144018,
+          "PPL_init_response2": 1.0000008504818707,
+          "PPL_init_distance": 3.915532531095778e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000020653444817,
+          "PPL_final_response2": 1.0000022036210185,
+          "PPL_final_distance": 1.3827653688736063e-07
+        },
+        "PPL_distance_difference": 0.035314873721318155
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_246_2025-05-02-02-27.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": false,
+          "PPL_init_response1": 1.0000049027561164,
+          "PPL_init_response2": 1.0000009956157656,
+          "PPL_init_distance": 3.907140350811744e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000023132680613,
+          "PPL_final_response2": 1.0000005678066375,
+          "PPL_final_distance": 1.7454614238410215e-06
+        },
+        "PPL_distance_difference": 0.4467362999843059
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_174_2025-05-02-02-22.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000020605063007,
+          "PPL_init_response2": 1.0000008722180023,
+          "PPL_init_distance": 1.188288298425988e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.0000004904906714,
+          "PPL_final_response2": 1.000000524515471,
+          "PPL_final_distance": 3.402479964442762e-08
+        },
+        "PPL_distance_difference": 0.02863345510470567
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_235_2025-05-02-02-23.json",
+    "evaluation_metrics": {
+      "is_consensus": false,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000039975053001,
+          "PPL_init_response2": 1.0000020561018106,
+          "PPL_init_distance": 1.9414034895248733e-06
+        },
+        "final_metrics": {
+          "is_consensus": false,
+          "PPL_final_response1": 1.0000049133063114,
+          "PPL_final_response2": 1.0000058173105846,
+          "PPL_final_distance": 9.040042732166853e-07
+        },
+        "PPL_distance_difference": 0.46564471429786375
+      }
+    }
+  },
+  {
+    "source_file": "consultancy_138_2025-05-02-02-29.json",
+    "evaluation_metrics": {
+      "is_consensus": true,
+      "consensus_score": {
+        "initial_metrics": {
+          "is_consensus": true,
+          "PPL_init_response1": 1.0000046101727182,
+          "PPL_init_response2": 1.0000015044115171,
+          "PPL_init_distance": 3.1057612011053948e-06
+        },
+        "final_metrics": {
+          "is_consensus": true,
+          "PPL_final_response1": 1.000005467388557,
+          "PPL_final_response2": 1.0000030553798123,
+          "PPL_final_distance": 2.4120087447343508e-06
+        },
+        "PPL_distance_difference": 0.7766240185742145
+      }
+    }
+  }
+]

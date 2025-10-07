@@ -1,0 +1,2812 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "psro_218_2025-05-01-15-33_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          -1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          -0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -1,
+          -0.5,
+          -0.5,
+          1,
+          1,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": -0.4803844614152615,
+      "final_dist": 0.6019292654288462,
+      "upgrade": 1.0823137268441076,
+      "is_consensus": true
+    }
+  },
+  {
+    "source_file": "psro_377_2025-05-01-14-38_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8164965809277261,
+      "final_dist": 0.5241424183609592,
+      "upgrade": -0.29235416256676694,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_351_2025-05-01-12-45_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.6708203932499369,
+      "final_dist": 0.8017837257372732,
+      "upgrade": 0.13096333248733627,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_404_2025-05-01-12-17_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.4193139346887673,
+      "final_dist": 0.39223227027636814,
+      "upgrade": -0.027081664412399176,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_312_2025-05-01-14-00_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          -0.5,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.7378647873726218,
+      "final_dist": 0.8181818181818182,
+      "upgrade": 0.08031703080919639,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_121_2025-05-01-12-21_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          0,
+          -1,
+          -1,
+          0,
+          -0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.9428090415820632,
+      "final_dist": 0.545544725589981,
+      "upgrade": -0.39726431599208223,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_298_2025-05-01-12-50_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          1,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          -1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0.5
+        ]
+      },
+      "initial_dist": 0.0,
+      "final_dist": 0.5892556509887896,
+      "upgrade": 0.5892556509887896,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_144_2025-05-01-13-56_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8819171036881969,
+      "final_dist": 0.5892556509887895,
+      "upgrade": -0.29266145269940735,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_354_2025-05-01-13-03_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9467292624062573,
+      "final_dist": 0.8864052604279183,
+      "upgrade": -0.06032400197833898,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_450_2025-05-01-15-34_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.7559289460184544,
+      "final_dist": 0.8181818181818182,
+      "upgrade": 0.06225287216336384,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_318_2025-05-01-14-30_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9999999999999998,
+      "final_dist": 0.9428090415820632,
+      "upgrade": -0.05719095841793653,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_449_2025-05-01-15-30_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9761870601839528,
+      "final_dist": 0.7559289460184544,
+      "upgrade": -0.22025811416549845,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_25_2025-05-01-13-45_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8153742483272114,
+      "final_dist": 0.9185586535436917,
+      "upgrade": 0.10318440521648031,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_456_2025-05-01-15-56_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.4714045207910316,
+      "final_dist": 0.8944271909999159,
+      "upgrade": 0.42302267020888423,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_398_2025-05-01-16-02_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          -0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.31622776601683794,
+      "final_dist": 0.753778361444409,
+      "upgrade": 0.4375505954275711,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_367_2025-05-01-13-51_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.6999999999999998,
+      "final_dist": 0.545544725589981,
+      "upgrade": -0.15445527441001883,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_438_2025-05-01-14-45_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.686406472983644,
+      "final_dist": 0.960768922830523,
+      "upgrade": 0.27436244984687896,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_208_2025-05-01-14-44_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.36927447293799825,
+      "final_dist": 0.5103103630798288,
+      "upgrade": 0.14103589014183054,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_433_2025-05-01-14-28_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.7777777777777778,
+      "final_dist": 0.9128709291752769,
+      "upgrade": 0.1350931513974991,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_17_2025-05-01-13-02_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -1,
+          0,
+          -0.5,
+          1,
+          1,
+          0,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0.5,
+          -1,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.6154574548966638,
+      "final_dist": 0.8593378488473195,
+      "upgrade": 0.24388039395065564,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_329_2025-05-01-15-18_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -1,
+          0,
+          -1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8333333333333335,
+      "final_dist": 0.7001400420140049,
+      "upgrade": -0.13319329131932856,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_400_2025-05-01-11-58_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.8944271909999159,
+      "final_dist": 0.7071067811865475,
+      "upgrade": -0.1873204098133684,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_333_2025-05-01-15-33_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9091372900969896,
+      "final_dist": 0.840168050416806,
+      "upgrade": -0.06896923968018365,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_190_2025-05-01-13-21_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          -1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -1,
+          0,
+          -0.5,
+          1,
+          -0.5,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          -0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.8164965809277259,
+      "final_dist": 0.6236095644623235,
+      "upgrade": -0.1928870164654024,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_323_2025-05-01-14-53_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7999999999999998,
+      "final_dist": 0.5773502691896258,
+      "upgrade": -0.22264973081037398,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_453_2025-05-01-15-46_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.8616404368553293,
+      "final_dist": 0.8999999999999998,
+      "upgrade": 0.03835956314467048,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_291_2025-05-01-12-23_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          -1,
+          -1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8366600265340756,
+      "final_dist": 0.7999999999999998,
+      "upgrade": -0.03666002653407574,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_268_2025-05-01-14-47_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7399400733959438,
+      "final_dist": 1.0000000000000002,
+      "upgrade": 0.2600599266040564,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_100_2025-05-01-14-54_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8164965809277259,
+      "final_dist": 0.7844645405527361,
+      "upgrade": -0.032032040374989856,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_370_2025-05-01-14-08_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          1,
+          -1,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          -1,
+          -0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.4866642633922875,
+      "final_dist": 0.8081220356417685,
+      "upgrade": 0.321457772249481,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_187_2025-05-01-13-06_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.9428090415820632,
+      "final_dist": 0.9045340337332909,
+      "upgrade": -0.03827500784877236,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_284_2025-05-01-15-59_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9459053029269171,
+      "final_dist": 0.9772545497599155,
+      "upgrade": 0.031349246832998445,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_416_2025-05-01-13-10_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.9723055853282466,
+      "final_dist": 0.7745966692414834,
+      "upgrade": -0.19770891608676322,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_250_2025-05-01-13-28_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7745966692414834,
+      "final_dist": 0.74535599249993,
+      "upgrade": -0.029240676741553395,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_219_2025-05-01-15-36_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -1,
+          0,
+          -0.5,
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.8235294117647058,
+      "final_dist": 0.7692307692307694,
+      "upgrade": -0.05429864253393646,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_32_2025-05-01-14-14_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5
+        ]
+      },
+      "initial_dist": 0.8333333333333334,
+      "final_dist": 0.0,
+      "upgrade": -0.8333333333333334,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_104_2025-05-01-15-07_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.7071067811865475,
+      "final_dist": 0.8944271909999159,
+      "upgrade": 0.1873204098133684,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_339_2025-05-01-16-00_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0.5,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.6671243849949912,
+      "final_dist": 0.8807710121010883,
+      "upgrade": 0.21364662710609716,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_366_2025-05-01-13-48_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          -1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          -1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          -1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          -1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9799578870122229,
+      "final_dist": 0.9486832980505138,
+      "upgrade": -0.03127458896170909,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_417_2025-05-01-13-13_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.9058216273156767,
+      "final_dist": 0.472455591261534,
+      "upgrade": -0.4333660360541427,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_440_2025-05-01-14-51_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          1,
+          1,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8744746321952063,
+      "final_dist": 0.8749999999999998,
+      "upgrade": 0.0005253678047935084,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_373_2025-05-01-14-22_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8366600265340756,
+      "final_dist": 0.9999999999999998,
+      "upgrade": 0.16333997346592422,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_299_2025-05-01-12-54_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          -1,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -1,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          -1,
+          -1,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.5070925528371099,
+      "final_dist": 0.7526178090063816,
+      "upgrade": 0.2455252561692718,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_120_2025-05-01-12-14_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          -0.5,
+          0.5,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8362420100070909,
+      "final_dist": 0.8563488385776753,
+      "upgrade": 0.020106828570584434,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_423_2025-05-01-13-42_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          1,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.8770580193070293,
+      "final_dist": 0.9309493362512627,
+      "upgrade": 0.053891316944233436,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_442_2025-05-01-14-58_US_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          0,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          -0.5,
+          0.5,
+          -0.5,
+          0,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.8864052604279183,
+      "final_dist": 0.6689936080056726,
+      "upgrade": -0.2174116524222457,
+      "is_consensus": false
+    }
+  }
+]

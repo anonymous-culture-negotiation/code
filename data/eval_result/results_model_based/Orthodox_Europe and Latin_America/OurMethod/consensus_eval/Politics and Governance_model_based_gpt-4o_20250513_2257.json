@@ -1,0 +1,4337 @@
+[
+  {
+    "source_file": "",
+    "evaluation_metrics": {}
+  },
+  {
+    "source_file": "psro_237_2025-05-02-19-26_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          1,
+          0.5,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          1,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          -0.5,
+          0,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8767140075192092,
+      "final_dist": 0.5449492609130661,
+      "upgrade": -0.3317647466061432,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_79_2025-05-02-20-18_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          1,
+          0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.9999999999999998,
+      "final_dist": 0.6390096504226938,
+      "upgrade": -0.360990349577306,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_136_2025-05-02-20-19_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          -0.5,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          1,
+          1,
+          -0.5,
+          0,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          -0.5,
+          0,
+          -1,
+          1,
+          0,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.7893522173763263,
+      "final_dist": 0.8885233166386385,
+      "upgrade": 0.09917109926231216,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_181_2025-05-02-19-28_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          -1,
+          -0.5,
+          0,
+          0.5,
+          1,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.6546536707079772,
+      "final_dist": 0.7807200583588264,
+      "upgrade": 0.1260663876508492,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_91_2025-05-02-21-12_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8845379626717033,
+      "final_dist": 0.6963106238227914,
+      "upgrade": -0.18822733884891185,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_63_2025-05-02-19-09_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 1.0,
+      "final_dist": 0.8807048459279794,
+      "upgrade": -0.11929515407202063,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_7_2025-05-02-19-18_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          1,
+          0,
+          1,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.4216370213557839,
+      "final_dist": 0.3458572319330373,
+      "upgrade": -0.0757797894227466,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_183_2025-05-02-19-36_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          0.5,
+          -0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          0.5,
+          -0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          -1,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.0,
+      "final_dist": 0.7844645405527361,
+      "upgrade": 0.7844645405527361,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_360_2025-05-02-20-10_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.6324555320336759,
+      "final_dist": 0.40089186286863654,
+      "upgrade": -0.23156366916503934,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_374_2025-05-02-20-57_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.7035264706814485,
+      "final_dist": 0.8432740427115678,
+      "upgrade": 0.13974757203011934,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_23_2025-05-02-20-23_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8432740427115678,
+      "final_dist": 0.9467292624062573,
+      "upgrade": 0.10345521969468952,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_201_2025-05-02-20-49_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          -1,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          -1,
+          1,
+          0.5,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.5976143046671968,
+      "final_dist": 0.6666666666666667,
+      "upgrade": 0.06905236199946996,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_176_2025-05-02-19-04_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9486832980505138,
+      "final_dist": 1.0,
+      "upgrade": 0.05131670194948623,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_149_2025-05-02-21-07_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.9428090415820632,
+      "final_dist": 0.40451991747794525,
+      "upgrade": -0.538289124104118,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_230_2025-05-02-18-55_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          -1,
+          0,
+          0,
+          0,
+          -0.5,
+          -1,
+          -1,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          -1,
+          -0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          -1,
+          -0.5,
+          0,
+          -1,
+          -1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -1,
+          -1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.47140452079103173,
+      "final_dist": 0.9045340337332909,
+      "upgrade": 0.43312951294225915,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_69_2025-05-02-19-39_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          -0.5,
+          1,
+          -0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.4082482904638631,
+      "final_dist": 0.817302997500511,
+      "upgrade": 0.409054707036648,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_226_2025-05-02-22-27_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.0,
+      "final_dist": 0.7071067811865475,
+      "upgrade": 0.7071067811865475,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_455_2025-05-02-22-27_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -1,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.7001400420140049,
+      "final_dist": 0.9999999999999998,
+      "upgrade": 0.29985995798599485,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_273_2025-05-02-21-47_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          -0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.9999999999999998,
+      "final_dist": 0.5773502691896257,
+      "upgrade": -0.42264973081037405,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_233_2025-05-02-19-06_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          -1,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.894427190999916,
+      "final_dist": 0.4383570037596046,
+      "upgrade": -0.45607018724031134,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_103_2025-05-02-22-01_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.960768922830523,
+      "final_dist": 0.9417419115948376,
+      "upgrade": -0.019027011235685398,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_142_2025-05-02-20-43_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.5270462766947299,
+      "final_dist": 0.6963106238227914,
+      "upgrade": 0.1692643471280615,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_162_2025-05-02-22-05_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8451542547285165,
+      "final_dist": 0.8040302522073697,
+      "upgrade": -0.041124002521146785,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_199_2025-05-02-20-43_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          -0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.6390096504226936,
+      "final_dist": 0.6674238124719146,
+      "upgrade": 0.02841416204922098,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_224_2025-05-02-22-21_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          -0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9101820546182064,
+      "final_dist": 0.795495128834866,
+      "upgrade": -0.1146869257833405,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_194_2025-05-02-20-18_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0.5,
+          1,
+          -0.5,
+          0.5,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          -0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.5303300858899106,
+      "final_dist": 0.7857142857142857,
+      "upgrade": 0.2553841998243751,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_343_2025-05-02-18-49_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -1,
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1,
+          0.5,
+          0
+        ]
+      },
+      "initial_dist": 0.9525793444156805,
+      "final_dist": 0.3450327796711771,
+      "upgrade": -0.6075465647445033,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_238_2025-05-02-19-29_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -0.5,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0,
+          -0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.4472135954999579,
+      "final_dist": 0.5604485383178051,
+      "upgrade": 0.11323494281784713,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_31_2025-05-02-20-58_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7385489458759965,
+      "final_dist": 0.7302967433402214,
+      "upgrade": -0.008252202535775077,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_313_2025-05-02-20-33_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.894427190999916,
+      "final_dist": 0.9074852129730302,
+      "upgrade": 0.013058021973114231,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_356_2025-05-02-19-40_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          -0.5,
+          0,
+          0,
+          -1,
+          -0.5,
+          -1,
+          -0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          -1,
+          -1,
+          -0.5,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          -0.5,
+          1,
+          0,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8885233166386385,
+      "final_dist": 0.8907986681660889,
+      "upgrade": 0.0022753515274503977,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_177_2025-05-02-19-13_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -0.5,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7715167498104595,
+      "final_dist": 0.8374357893586237,
+      "upgrade": 0.06591903954816425,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_422_2025-05-02-20-17_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          1,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          1,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.5443310539518174,
+      "final_dist": 0.5850179393017045,
+      "upgrade": 0.04068688534988718,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_188_2025-05-02-19-56_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0.5,
+          0,
+          0.5,
+          -0.5,
+          1,
+          -0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.8017837257372731,
+      "final_dist": 0.6153846153846154,
+      "upgrade": -0.18639911035265766,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_228_2025-05-02-18-44_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          0,
+          1,
+          0,
+          -0.5,
+          -0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.6227991553292184,
+      "final_dist": 0.4736842105263157,
+      "upgrade": -0.14911494480290266,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_132_2025-05-02-20-05_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          -0.5,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.76271276980969,
+      "final_dist": 0.8189230248533257,
+      "upgrade": 0.05621025504363564,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_308_2025-05-02-20-10_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          -1,
+          0,
+          -0.5,
+          1,
+          -1,
+          0,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          -0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0.5
+        ]
+      },
+      "initial_dist": 0.6362847629757777,
+      "final_dist": 0.6963106238227914,
+      "upgrade": 0.06002586084701367,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_129_2025-05-02-19-54_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          -0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.923869770874312,
+      "final_dist": 0.8864052604279183,
+      "upgrade": -0.03746451044639365,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_65_2025-05-02-19-18_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          -0.5,
+          -0.5,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1,
+          1,
+          0,
+          0.5
+        ]
+      },
+      "initial_dist": 0.5916079783099616,
+      "final_dist": 0.48304589153964794,
+      "upgrade": -0.10856208677031365,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_395_2025-05-02-22-13_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          -0.5,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.5188745216627709,
+      "final_dist": 0.4767312946227962,
+      "upgrade": -0.04214322703997475,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_154_2025-05-02-21-29_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          -0.5,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.9459053029269171,
+      "final_dist": 0.7559289460184544,
+      "upgrade": -0.1899763569084627,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_452_2025-05-02-22-17_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -1,
+          1,
+          -0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          -0.5,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.6929348671835833,
+      "final_dist": 0.5773502691896257,
+      "upgrade": -0.1155845979939576,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_272_2025-05-02-21-44_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          -1,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1,
+          -0.5,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          -0.5,
+          -0.5,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.2581988897471611,
+      "final_dist": 0.8164965809277261,
+      "upgrade": 0.558297691180565,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_388_2025-05-02-21-46_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7252406676228422,
+      "final_dist": 0.8571428571428571,
+      "upgrade": 0.13190218952001487,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_164_2025-05-02-22-16_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          -1,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.0,
+      "final_dist": 0.7745966692414834,
+      "upgrade": 0.7745966692414834,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_371_2025-05-02-20-46_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          1,
+          0,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.5477225575051661,
+      "final_dist": 0.6454972243679029,
+      "upgrade": 0.09777466686273684,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_45_2025-05-02-21-53_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          -0.5,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8461538461538463,
+      "final_dist": 0.5913123959890826,
+      "upgrade": -0.25484145016476367,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_300_2025-05-02-19-39_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          1,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -1,
+          1,
+          1,
+          1,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.4507489358552088,
+      "final_dist": 0.7442084075352507,
+      "upgrade": 0.29345947168004194,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_337_2025-05-02-22-01_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          -0.5,
+          0,
+          0,
+          -0.5,
+          1,
+          1,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          1,
+          -1,
+          -0.5,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.3127716210856122,
+      "final_dist": 0.628970902033151,
+      "upgrade": 0.3161992809475388,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_256_2025-05-02-20-37_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0.5,
+          0.5,
+          0.5,
+          0.5,
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.0,
+      "final_dist": 0.8432740427115678,
+      "upgrade": 0.8432740427115678,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_9_2025-05-02-19-24_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0.5,
+          0,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -1,
+          0,
+          -0.5,
+          -1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8703882797784892,
+      "final_dist": 0.7483314773547882,
+      "upgrade": -0.12205680242370098,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_145_2025-05-02-20-53_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          0.5,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          1,
+          -0.5,
+          0.5,
+          0,
+          0.5,
+          1,
+          1,
+          0.5,
+          1,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          -0.5,
+          0,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.7895420339517228,
+      "final_dist": 0.30151134457776363,
+      "upgrade": -0.4880306893739592,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_51_2025-05-02-22-21_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.7071067811865475,
+      "final_dist": 0.7171371656006361,
+      "upgrade": 0.010030384414088656,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_281_2025-05-02-22-26_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          -0.5,
+          0.5,
+          -0.5,
+          0.5,
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.8366600265340756,
+      "final_dist": 0.6405126152203486,
+      "upgrade": -0.19614741131372693,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_277_2025-05-02-22-08_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          -0.5,
+          0.5,
+          1,
+          1,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8660254037844386,
+      "final_dist": 0.8189230248533257,
+      "upgrade": -0.04710237893111291,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_225_2025-05-02-22-24_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          1,
+          1,
+          1,
+          -0.5,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          1,
+          1,
+          1,
+          -0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          1,
+          1,
+          0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          -0.5,
+          -0.5,
+          1,
+          0.5,
+          1,
+          0.5,
+          -0.5,
+          -0.5
+        ]
+      },
+      "initial_dist": 1.0000000000000002,
+      "final_dist": 0.8280786712108251,
+      "upgrade": -0.1719213287891751,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_44_2025-05-02-21-45_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          0
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.9525793444156805,
+      "final_dist": 0.8819171036881969,
+      "upgrade": -0.07066224072748362,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_12_2025-05-02-19-40_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          -0.5,
+          0.5,
+          -1,
+          0,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          -0.5,
+          0,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          -0.5,
+          0,
+          0,
+          0.5
+        ]
+      },
+      "initial_dist": 0.6454972243679028,
+      "final_dist": 0.7272727272727273,
+      "upgrade": 0.08177550290482449,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_131_2025-05-02-20-02_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -1,
+          0,
+          0,
+          1,
+          -0.5,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.9428090415820635,
+      "final_dist": 0.6943650748294136,
+      "upgrade": -0.2484439667526499,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_212_2025-05-02-21-34_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0,
+          1,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0,
+          0.5,
+          -0.5,
+          -0.5,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          -0.5,
+          0,
+          -1,
+          0.5,
+          -0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.9309493362512627,
+      "final_dist": 0.5934424260562083,
+      "upgrade": -0.3375069101950544,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_242_2025-05-02-19-45_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          -0.5,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          0.5
+        ]
+      },
+      "initial_dist": 0.6390096504226938,
+      "final_dist": 0.7999999999999998,
+      "upgrade": 0.16099034957730607,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_158_2025-05-02-21-49_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          -0.5,
+          0,
+          -0.5,
+          -1,
+          0.5,
+          -0.5,
+          1,
+          0.5,
+          0
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0,
+          1
+        ],
+        "response2_vector": [
+          1,
+          -0.5,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.5669467095138409,
+      "final_dist": 0.6504436355879909,
+      "upgrade": 0.08349692607415005,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_30_2025-05-02-20-53_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          1,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.7844645405527361,
+      "final_dist": 0.6902684899626333,
+      "upgrade": -0.09419605059010272,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_175_2025-05-02-18-58_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          0.5,
+          0,
+          1,
+          0,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          0.5,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          -0.5,
+          -0.5,
+          -1,
+          0.5,
+          1,
+          1,
+          0.5,
+          1
+        ]
+      },
+      "initial_dist": 0.6225430174794672,
+      "final_dist": 0.7778174593052022,
+      "upgrade": 0.15527444182573502,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_265_2025-05-02-21-14_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          1,
+          -0.5,
+          0.5,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.7171371656006361,
+      "final_dist": 0.85106449634699,
+      "upgrade": 0.13392733074635388,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_178_2025-05-02-19-16_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0.5,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.6614378277661476,
+      "final_dist": 0.894427190999916,
+      "upgrade": 0.2329893632337684,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_163_2025-05-02-22-10_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          -0.5,
+          0,
+          1,
+          0.5,
+          0.5,
+          1,
+          0
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          1,
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.8616404368553293,
+      "final_dist": 0.8593378488473195,
+      "upgrade": -0.002302588008009865,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_170_2025-05-02-22-42_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0,
+          0
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          1,
+          0,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          0.5,
+          1,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          0,
+          -0.5,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0,
+          1
+        ]
+      },
+      "initial_dist": 0.9128709291752769,
+      "final_dist": 0.8563488385776753,
+      "upgrade": -0.056522090597601604,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_166_2025-05-02-22-25_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          -0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          1,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0.5,
+          0.5,
+          1,
+          0.5,
+          0
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0.5,
+          0.5,
+          1,
+          -0.5,
+          -0.5,
+          0.5,
+          0.5,
+          0.5,
+          1,
+          0.5
+        ],
+        "response2_vector": [
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          -1,
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.7462025072446364,
+      "final_dist": 0.3333333333333333,
+      "upgrade": -0.4128691739113031,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_205_2025-05-02-21-03_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          -0.5,
+          -0.5,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          0,
+          0.5,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0.5,
+          0,
+          1
+        ],
+        "response2_vector": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0.5,
+          0.5,
+          0,
+          1,
+          1
+        ]
+      },
+      "initial_dist": 0.8320502943378437,
+      "final_dist": 0.5962847939999439,
+      "upgrade": -0.23576550033789978,
+      "is_consensus": false
+    }
+  },
+  {
+    "source_file": "psro_287_2025-05-02-18-52_Russia_opinion_adapter.json",
+    "evaluation_metrics": {
+      "init_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0.5,
+          0.5,
+          0,
+          0.5
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "final_vectors": {
+        "response1_vector": [
+          1,
+          0,
+          0,
+          0,
+          -0.5,
+          0,
+          -0.5,
+          0,
+          0.5,
+          1
+        ],
+        "response2_vector": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      "initial_dist": 0.8703882797784892,
+      "final_dist": 0.4767312946227962,
+      "upgrade": -0.39365698515569303,
+      "is_consensus": false
+    }
+  }
+]

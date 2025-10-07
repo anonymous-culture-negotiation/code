@@ -1,0 +1,76 @@
+max_rounds: 10
+debate_output_path: debate_track_output/
+data_path: data/
+embedding_model: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+
+llm_api:
+  # base_url: 
+  # api_key: 
+
+lora_adapter_api:
+  Confucian:
+    base_url: http://localhost:8001/v1
+    model_name: China_opinion_adapter
+    api_key: EMPTY
+  English_Speaking:
+    base_url: http://localhost:8002/v1
+    model_name: US_opinion_adapter
+    api_key: EMPTY
+  Orthodox_Europe:
+    base_url: http://localhost:8003/v1
+    model_name: Armenia_opinion_adapter
+    api_key: EMPTY
+  Protestant_Europe:
+    base_url: http://localhost:8004/v1
+    model_name: Denmark_opinion_adapter
+    api_key: EMPTY
+  African_Islamic:
+    base_url: http://localhost:8005/v1
+    model_name: Iraq_opinion_adapter
+    api_key: EMPTY
+  Latin_America:
+    base_url: http://localhost:8006/v1
+    model_name: Mexico_opinion_adapter
+    api_key: EMPTY
+  Catholic_Europe:
+    base_url: http://localhost:8007/v1
+    model_name: Spain_opinion_adapter
+    api_key: EMPTY
+  West_and_South_Asia:
+    base_url: http://localhost:8008/v1
+    model_name: Thailand_opinion_adapter
+    api_key: EMPTY
+
+
+model:
+  Qwen2.5-7B-Instruct:
+    name: Qwen/Qwen2.5-7B-Instruct
+    params:
+      temperature: 0.6
+      max_tokens: 100
+      top_p: 0.9
+      top_k: 50
+      repetition_penalty: 1.0
+      num_return_sequences: 1
+  
+  gpt-4-turbo:
+    name: gpt-4-turbo
+    params:
+      temperature: 0.6
+    
+  claude-3-7:
+    name: claude-3-7-sonnet-20250219
+    params:
+      temperature: 0.8
+
+  
+  DeepSeek-V3:
+    name: deepseek-ai/DeepSeek-V3
+    params:
+      temperature: 0.6
+      max_tokens: 100
+      top_p: 0.9
+      top_k: 50
+      repetition_penalty: 1.0
+      num_return_sequences: 1
+        
