@@ -1,0 +1,32 @@
+- type: "confucian"               # 儒家文化圈
+  countries:
+    - name: "china"
+      global_llm_opinion: 178
+- type: "english-speaking"        # 英语文化圈
+  countries:
+    - name: "united states"
+      global_llm_opinion: 211
+- type: "protestant europe"       # 新教欧洲
+  countries:
+    - name: "denmark"
+      global_llm_opinion: 116
+- type: "catholic europe"         # 天主教欧洲
+  countries:
+    - name: "spain"
+      global_llm_opinion: 116
+- type: "west & south asia"       # 西亚和南亚
+  countries:
+    - name: "thailand"
+      global_llm_opinion: 212
+- type: "orthodox europe"         # 东正教欧洲
+  countries:
+    - name: "armenia"
+      global_llm_opinion: 213
+- type: "latin america"           # 拉丁美洲
+  countries:
+    - name: "mexico"
+      global_llm_opinion: 220
+- type: "african-islamic"         # 非洲-伊斯兰文化圈
+  countries:
+    - name: "iraq"
+      global_llm_opinion: 238
